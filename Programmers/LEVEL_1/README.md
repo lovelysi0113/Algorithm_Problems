@@ -36,6 +36,8 @@
 | 42576 | 완주하지 못한 선수  | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42576) | [JavaScript](./42576-완주하지_못한_선수.js)  | [Python3](./42576-완주하지_못한_선수.py)  |
 | 42748 | K번째수             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42748) |       [JavaScript](./42748-K번째수.js)       |       [Python3](./42748-K번째수.py)       |
 | 42840 | 모의고사            | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42840) |      [JavaScript](./42840-모의고사.js)       |      [Python3](./42840-모의고사.py)       |
+| 42862 | 체육복              | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42862) |       [JavaScript](./42862-체육복.js)        |       [Python3](./42862-체육복.py)        |                              |
+| 67256 | 키패드 누르기       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/67256) |    [JavaScript](./67256-키패드_누르기.js)    |    [Python3](./67256-키패드_누르기.py)    | 2020 카카오 인턴십           |
 | 68644 | 두 개 뽑아서 더하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/68644) | [JavaScript](./68644-두_개_뽑아서_더하기.js) | [Python3](./68644-두_개_뽑아서_더하기.py) | 월간 코드 챌린지 시즌1       |
 | 72410 | 신규 아이디 추천    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/72410) |  [JavaScript](./72410-신규_아이디_추천.js)   |  [Python3](./72410-신규_아이디_추천.py)   | 2021 KAKAO BLIND RECRUITMENT |
 
