@@ -24,6 +24,7 @@
 | 12919 | 서울에서 김서방 찾기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12919) |     [JavaScript](./12919-서울에서_김서방_찾기.js)     |     [Python3](./12919-서울에서_김서방_찾기.py)     |
 | 12922 | 수박수박수박수박수박수?      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12922) |    [JavaScript](./12922-수박수박수박수박수박수.js)    |    [Python3](./12922-수박수박수박수박수박수.py)    |
 | 12925 | 문자열을 정수로 바꾸기       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12925) |    [JavaScript](./12925-문자열을_정수로_바꾸기.js)    |    [Python3](./12925-문자열을_정수로_바꾸기.py)    |
+| 12926 | 시저 암호                    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12926) |          [JavaScript](./12926-시저_암호.js)           |          [Python3](./12926-시저_암호.py)           |           |
 | 12928 | 약수의 합                    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12928) |          [JavaScript](./12928-약수의_합.js)           |          [Python3](./12928-약수의_합.py)           |           |
 | 12930 | 이상한 문자 만들기           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12930) |      [JavaScript](./12930-이상한_문자_만들기.js)      |      [Python3](./12930-이상한_문자_만들기.py)      |
 | 12931 | 자릿수 더하기                | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12931) |        [JavaScript](./12931-자릿수_더하기.js)         |        [Python3](./12931-자릿수_더하기.py)         |
