@@ -52,8 +52,24 @@
 | 42748 | K번째수             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42748) |       [JavaScript](./42748-K번째수.js)       |       [Python3](./42748-K번째수.py)       |
 | 42840 | 모의고사            | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42840) |      [JavaScript](./42840-모의고사.js)       |      [Python3](./42840-모의고사.py)       |
 | 42862 | 체육복              | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42862) |       [JavaScript](./42862-체육복.js)        |       [Python3](./42862-체육복.py)        |                              |
+| 42889 | 실패율              | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42889) |       [JavaScript](./42889-실패율.js)        |       [Python3](./42889-실패율.py)        | 2019 KAKAO BLIND RECRUITMENT |
 | 67256 | 키패드 누르기       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/67256) |    [JavaScript](./67256-키패드_누르기.js)    |    [Python3](./67256-키패드_누르기.py)    | 2020 카카오 인턴십           |
 | 68644 | 두 개 뽑아서 더하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/68644) | [JavaScript](./68644-두_개_뽑아서_더하기.js) | [Python3](./68644-두_개_뽑아서_더하기.py) | 월간 코드 챌린지 시즌1       |
 | 68935 | 3진법 뒤집기        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/68935) |    [JavaScript](./68935-3진법_뒤집기.js)     |    [Python3](./68935-3진법_뒤집기.py)     | 월간 코드 챌린지 시즌1       |
 | 70128 | 내적                | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/70128) |        [JavaScript](./70128-내적.js)         |        [Python3](./70128-내적.py)         | 월간 코드 챌린지 시즌1       |
 | 72410 | 신규 아이디 추천    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/72410) |  [JavaScript](./72410-신규_아이디_추천.js)   |  [Python3](./72410-신규_아이디_추천.py)   | 2021 KAKAO BLIND RECRUITMENT |
+
+## SQL 문제
+
+| 번호  | 문제                      |                               문제 URL                               |   문제 유형   |                   문제 풀이                    |
+| :---: | :------------------------ | :------------------------------------------------------------------: | :-----------: | :--------------------------------------------: |
+| 59034 | 모든 레코드 조회하기      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59034) |    SELECT     |   [MySQL](./59034-모든_레코드_조회하기.sql)    |
+| 59035 | 역순 정렬하기             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59035) |    SELECT     |       [MySQL](./59035-역순_정렬하기.sql)       |
+| 59036 | 아픈 동물 찾기            | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59036) |    SELECT     |      [MySQL](./59036-아픈_동물_찾기.sql)       |
+| 59037 | 어린 동물 찾기            | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59037) |    SELECT     |      [MySQL](./59037-어린_동물_찾기.sql)       |
+| 59039 | 이름이 없는 동물의 아이디 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59039) |    IS NULL    | [MySQL](./59039-이름이_없는_동물의_아이디.sql) |
+| 59403 | 동물의 아이디와 이름      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403) |    SELECT     |   [MySQL](./59403-동물의_아이디와_이름.sql)    |
+| 59404 | 여러 기준으로 정렬하기    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59404) |    SELECT     |  [MySQL](./59404-여러_기준으로_정렬하기.sql)   |
+| 59405 | 상위 n개 레코드           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59405) |    SELECT     |      [MySQL](./59405-상위_n개_레코드.sql)      |
+| 59407 | 이름이 있는 동물의 아이디 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59407) |    IS NULL    | [MySQL](./59407-이름이_있는_동물의_아이디.sql) |
+| 59415 | 최댓값 구하기             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59415) | SUM, MAX, MIN |       [MySQL](./59415-최댓값_구하기.sql)       |

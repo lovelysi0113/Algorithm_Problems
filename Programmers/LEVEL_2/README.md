@@ -28,3 +28,19 @@
 | 60058 | 괄호 변환     | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/60058) |   [JavaScript](./60058-괄호_변환.js)   |   [Python3](./60058-괄호_변환.py)   | 2020 KAKAO BLIND RECRUITMENT |
 | 62048 | 멀쩡한 사각형 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/62048) | [JavaScript](./62048-멀쩡한_사각형.js) | [Python3](./62048-멀쩡한_사각형.py) | Summer/Winter Coding(2019)   |
 | 72411 | 메뉴 리뉴얼   | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/72411) |  [JavaScript](./72411-메뉴_리뉴얼.js)  |  [Python3](./72411-메뉴_리뉴얼.py)  | 2021 KAKAO BLIND RECRUITMENT |
+
+## SQL 문제
+
+| 번호  | 문제                           |                               문제 URL                               |   문제 유형   |                      문제 풀이                      |
+| :---: | :----------------------------- | :------------------------------------------------------------------: | :-----------: | :-------------------------------------------------: |
+| 59038 | 최솟값 구하기                  | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59038) | SUM, MAX, MIN |         [MySQL](./59038-최솟값_구하기.sql)          |
+| 59040 | 고양이와 개는 몇 마리 있을까   | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59040) |   GROUP BY    |  [MySQL](./59040-고양이와_개는_몇_마리_있을까.sql)  |
+| 59041 | 동명 동물 수 찾기              | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59041) |   GROUP BY    |       [MySQL](./59041-동명_동물_수_찾기.sql)        |
+| 59046 | 루시와 엘라 찾기               | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59046) | String, Date  |        [MySQL](./59046-루시와_엘라_찾기.sql)        |
+| 59047 | 이름에 el이 들어가는 동물 찾기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59047) | String, Date  | [MySQL](./59047-이름에_el이_들어가는_동물_찾기.sql) |
+| 59406 | 동물 수 구하기                 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59406) | SUM, MAX, MIN |         [MySQL](./59406-동물_수_구하기.sql)         |
+| 59408 | 중복 제거하기                  | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59408) | SUM, MAX, MIN |         [MySQL](./59408-중복_제거하기.sql)          |
+| 59409 | 중성화 여부 파악하기           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59409) | String, Date  |      [MySQL](./59409-중성화_여부_파악하기.sql)      |
+| 59410 | NULL 처리하기                  | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59410) |    IS NULL    |         [MySQL](./59410-NULL_처리하기.sql)          |
+| 59412 | 입양 시각 구하기(1)            | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59412) |   GROUP BY    |     [MySQL](<./59412-입양_시각_구하기(1).sql>)      |
+| 59414 | DATETIME에서 DATE로 형 변환    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59414) | String, Date  |  [MySQL](./59414-DATETIME에서_DATE로_형_변환.sql)   |
