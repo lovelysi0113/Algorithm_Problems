@@ -22,6 +22,7 @@
 | 12917 | 문자열 내림차순으로 배치하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12917) | [JavaScript](./12917-문자열_내림차순으로_배치하기.js) | [Python3](./12917-문자열_내림차순으로_배치하기.py) |                              |
 | 12918 | 문자열 다루기 기본           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12918) |      [JavaScript](./12918-문자열_다루기_기본.js)      |      [Python3](./12918-문자열_다루기_기본.py)      |
 | 12919 | 서울에서 김서방 찾기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12919) |     [JavaScript](./12919-서울에서_김서방_찾기.js)     |     [Python3](./12919-서울에서_김서방_찾기.py)     |
+| 12921 | 소수 찾기                    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12921) |          [JavaScript](./12921-소수_찾기.js)           |          [Python3](./12921-소수_찾기.py)           |
 | 12922 | 수박수박수박수박수박수?      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12922) |    [JavaScript](./12922-수박수박수박수박수박수.js)    |    [Python3](./12922-수박수박수박수박수박수.py)    |
 | 12925 | 문자열을 정수로 바꾸기       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12925) |    [JavaScript](./12925-문자열을_정수로_바꾸기.js)    |    [Python3](./12925-문자열을_정수로_바꾸기.py)    |
 | 12926 | 시저 암호                    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12926) |          [JavaScript](./12926-시저_암호.js)           |          [Python3](./12926-시저_암호.py)           |                              |
