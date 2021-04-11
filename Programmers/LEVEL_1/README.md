@@ -43,7 +43,9 @@
 | 12954 | x만큼 간격이 있는 n개의 숫자 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12954) | [JavaScript](./12954-x만큼_간격이_있는_n개의_숫자.js) | [Python3](./12954-x만큼_간격이_있는_n개의_숫자.py) |
 | 12969 | 직사각형 별찍기              | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12969) |       [JavaScript](./12969-직사각형_별찍기.js)        |       [Python3](./12969-직사각형_별찍기.py)        |
 | 12977 | 소수 만들기                  | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12977) |         [JavaScript](./12977-소수_만들기.js)          |         [Python3](./12977-소수_만들기.py)          | Summer/Winter Coding(~2018)  |
+| 12982 | 예산                         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12982) |             [JavaScript](./12982-예산.js)             |             [Python3](./12982-예산.py)             | Summer/Winter Coding(~2018)  |
 | 17681 | [1차] 비밀지도               | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/17681) |        [JavaScript](./17681-[1차]_비밀지도.js)        |        [Python3](./17681-[1차]_비밀지도.py)        | 2018 KAKAO BLIND RECRUITMENT |
+| 17682 | [1차] 다트 게임              | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/17682) |       [JavaScript](./17682-[1차]_다트_게임.js)        |       [Python3](./17682-[1차]_다트_게임.py)        | 2018 KAKAO BLIND RECRUITMENT |
 
 ## 42XXX~
 
