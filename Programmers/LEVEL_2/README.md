@@ -35,6 +35,7 @@
 | 62048 | 멀쩡한 사각형 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/62048) | [JavaScript](./62048-멀쩡한_사각형.js) | [Python3](./62048-멀쩡한_사각형.py) | Summer/Winter Coding(2019)     |
 | 64065 | 튜플          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/64065) |     [JavaScript](./64065-튜플.js)      |     [Python3](./64065-튜플.py)      | 2019 카카오 개발자 겨울 인턴십 |
 | 72411 | 메뉴 리뉴얼   | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/72411) |  [JavaScript](./72411-메뉴_리뉴얼.js)  |  [Python3](./72411-메뉴_리뉴얼.py)  | 2021 KAKAO BLIND RECRUITMENT   |
+| 76502 | 괄호 회전하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/76502) | [JavaScript](./76502-괄호_회전하기.js) | [Python3](./76502-괄호_회전하기.py) | 월간 코드 챌린지 시즌2         |
 
 ## SQL 문제
 
