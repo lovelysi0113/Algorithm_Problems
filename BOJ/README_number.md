@@ -19,9 +19,17 @@
 | :--: | :---------- | :----------------------------------------------: | :----------: | :---------------------------------------: | :------------------------------------: | :-------- |
 | 2557 | Hello World | [문제주소](https://www.acmicpc.net/problem/2557) | 🟫 브론즈 V  | [JavaScript](./02XXX/2557-Hello_World.js) | [Python3](./02XXX/2557-Hello_World.py) |           |
 | 2588 | 곱셈        | [문제주소](https://www.acmicpc.net/problem/2588) | 🟫 브론즈 IV |    [JavaScript](./02XXX/2588-곱셈.js)     |    [Python3](./02XXX/2588-곱셈.py)     |           |
+| 2739  | 구구단 | [문제주소](https://www.acmicpc.net/problem/2739)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2739-구구단.js)      |   [Python3](./02XXX/2739-구구단.py)   | |
+| 2741  | N 찍기 | [문제주소](https://www.acmicpc.net/problem/2741)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2741-N_찍기.js)      |   [Python3](./02XXX/2741-N_찍기.py)   | |
+| 2742  | 기찍 N | [문제주소](https://www.acmicpc.net/problem/2742)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2742-기찍_N.js)      |   [Python3](./02XXX/2742-기찍_N.py)   | |
 | 2753  | 윤년 | [문제주소](https://www.acmicpc.net/problem/2753)  | 🟫 브론즈 IV |      [JavaScript](./02XXX/2753-윤년.js)      |   [Python3](./02XXX/2753-윤년.py)   | |
 | 2884  | 알람 시계 | [문제주소](https://www.acmicpc.net/problem/2884)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2884-알람_시계.js)      |   [Python3](./02XXX/2884-알람_시계.py)   | |
 
+## 08XXX
+
+| 번호  | 문제          |                     문제 URL                      |   난이도    |                  문제 풀이                   |                 문제 풀이                 | 문제 출처 |
+| :---: | :------------ | :-----------------------------------------------: | :---------: | :------------------------------------------: | :---------------------------------------: | :-------- |
+| 8393  | 합 | [문제주소](https://www.acmicpc.net/problem/8393)  | 🟫 브론즈 V |      [JavaScript](./08XXX/8393-합.js)      |   [Python3](./08XXX/8393-합.py)   | |
 ## 09XXX
 
 | 번호  | 문제          |                     문제 URL                      |   난이도    |                  문제 풀이                   |                 문제 풀이                 | 문제 출처 |
@@ -37,6 +45,7 @@
 | 10430 | 나머지        | [문제주소](https://www.acmicpc.net/problem/10430) | 🟫 브론즈 V |    [JavaScript](./10XXX/10430-나머지.js)     |    [Python3](./10XXX/10430-나머지.py)     |           |
 | 10718 | We love kriii | [문제주소](https://www.acmicpc.net/problem/10718) | 🟫 브론즈 V | [JavaScript](./10XXX/10718-We_love_kriii.js) | [Python3](./10XXX/10718-We_love_kriii.py) |           |
 | 10869 | 사칙연산      | [문제주소](https://www.acmicpc.net/problem/10869) | 🟫 브론즈 V |   [JavaScript](./10XXX/10869-사칙연산.js)    |   [Python3](./10XXX/10869-사칙연산.py)    |           |
+| 10950  | A+B - 3 | [문제주소](https://www.acmicpc.net/problem/10950)  | 🟫 브론즈 III |      [JavaScript](./10XXX/10950-A+B(3).js)      |   [Python3](./10XXX/10950-A+B(3).py)   | |
 | 10951  | A+B - 4 | [문제주소](https://www.acmicpc.net/problem/10951)  | 🟫 브론즈 III |      [JavaScript](./10XXX/10951-A+B(4).js)      |   [Python3](./10XXX/10951-A+B(4).py)   | |
 | 10952  | A+B - 5 | [문제주소](https://www.acmicpc.net/problem/10952)  | 🟫 브론즈 III |      [JavaScript](./10XXX/10952-A+B(5).js)      |   [Python3](./10XXX/10952-A+B(5).py)   | |
 | 10998 | A×B           | [문제주소](https://www.acmicpc.net/problem/10998) | 🟫 브론즈 V |      [JavaScript](./10XXX/10998-A×B.js)      |      [Python3](./10XXX/10998-A×B.py)      |           |
@@ -46,3 +55,9 @@
 | 번호  | 문제          |                     문제 URL                      |   난이도    |                  문제 풀이                   |                 문제 풀이                 | 문제 출처 |
 | :---: | :------------ | :-----------------------------------------------: | :---------: | :------------------------------------------: | :---------------------------------------: | :-------- |
 | 14681  | 사분면 고르기 | [문제주소](https://www.acmicpc.net/problem/14681)  | 🟫 브론즈 IV |      [JavaScript](./14XXX/14681-사분면_고르기.js)      |   [Python3](./14XXX/14681-사분면_고르기.py)   | |
+
+## 15XXX
+
+| 번호  | 문제          |                     문제 URL                      |   난이도    |                  문제 풀이                   |                 문제 풀이                 | 문제 출처 |
+| :---: | :------------ | :-----------------------------------------------: | :---------: | :------------------------------------------: | :---------------------------------------: | :-------- |
+| 15552  | 빠른 A+B | [문제주소](https://www.acmicpc.net/problem/15552)  | 🟫 브론즈 II |      [JavaScript](./15XXX/15552-빠른_A+B.js)      |   [Python3](./15XXX/15552-빠른_A+B.py)   | |

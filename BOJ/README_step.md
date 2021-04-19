@@ -28,6 +28,13 @@
 |  4  | 14681  | 사분면 고르기 | [문제주소](https://www.acmicpc.net/problem/14681)  | 🟫 브론즈 IV |      [JavaScript](./14XXX/14681-사분면_고르기.js)      |   [Python3](./14XXX/14681-사분면_고르기.py)   | |
 |  5  | 2884  | 알람 시계 | [문제주소](https://www.acmicpc.net/problem/2884)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2884-알람_시계.js)      |   [Python3](./02XXX/2884-알람_시계.py)   | |
 
+## [for문](https://www.acmicpc.net/step/3)
+|  1  | 2739  | 구구단 | [문제주소](https://www.acmicpc.net/problem/2739)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2739-구구단.js)      |   [Python3](./02XXX/2739-구구단.py)   | |
+|  2  | 10950  | A+B - 3 | [문제주소](https://www.acmicpc.net/problem/10950)  | 🟫 브론즈 III |      [JavaScript](./10XXX/10950-A+B(3).js)      |   [Python3](./10XXX/10950-A+B(3).py)   | |
+|  3  | 8393  | 합 | [문제주소](https://www.acmicpc.net/problem/8393)  | 🟫 브론즈 V |      [JavaScript](./08XXX/8393-합.js)      |   [Python3](./08XXX/8393-합.py)   | |
+|  4  | 15552  | 빠른 A+B | [문제주소](https://www.acmicpc.net/problem/15552)  | 🟫 브론즈 II |      [JavaScript](./15XXX/15552-빠른_A+B.js)      |   [Python3](./15XXX/15552-빠른_A+B.py)   | |
+|  5  | 2741  | N 찍기 | [문제주소](https://www.acmicpc.net/problem/2741)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2741-N_찍기.js)      |   [Python3](./02XXX/2741-N_찍기.py)   | |
+|  6  | 2742  | 기찍 N | [문제주소](https://www.acmicpc.net/problem/2742)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2742-기찍_N.js)      |   [Python3](./02XXX/2742-기찍_N.py)   | |
 ## [while문](https://www.acmicpc.net/step/2)
 
 | 단계 | 번호  | 문제          |                     문제 URL                      |    난이도    |                  문제 풀이                   |                 문제 풀이                 | 문제 출처 |
