@@ -17,6 +17,8 @@
 
 | 번호 | 문제        |                     문제 URL                     |    난이도    |                 문제 풀이                 |               문제 풀이                | 문제 출처 |
 | :--: | :---------- | :----------------------------------------------: | :----------: | :---------------------------------------: | :------------------------------------: | :-------- |
+| 2438  | 별 찍기 - 1 | [문제주소](https://www.acmicpc.net/problem/2438)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2438-별_찍기(1).js)      |   [Python3](./02XXX/2438-별_찍기(1).py)   | |
+| 2439  | 별 찍기 - 2 | [문제주소](https://www.acmicpc.net/problem/2439)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2439-별_찍기(2).js)      |   [Python3](./02XXX/2439-별_찍기(2).py)   | |
 | 2557 | Hello World | [문제주소](https://www.acmicpc.net/problem/2557) | 🟫 브론즈 V  | [JavaScript](./02XXX/2557-Hello_World.js) | [Python3](./02XXX/2557-Hello_World.py) |           |
 | 2588 | 곱셈        | [문제주소](https://www.acmicpc.net/problem/2588) | 🟫 브론즈 IV |    [JavaScript](./02XXX/2588-곱셈.js)     |    [Python3](./02XXX/2588-곱셈.py)     |           |
 | 2739  | 구구단 | [문제주소](https://www.acmicpc.net/problem/2739)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2739-구구단.js)      |   [Python3](./02XXX/2739-구구단.py)   | |
@@ -45,11 +47,18 @@
 | 10430 | 나머지        | [문제주소](https://www.acmicpc.net/problem/10430) | 🟫 브론즈 V |    [JavaScript](./10XXX/10430-나머지.js)     |    [Python3](./10XXX/10430-나머지.py)     |           |
 | 10718 | We love kriii | [문제주소](https://www.acmicpc.net/problem/10718) | 🟫 브론즈 V | [JavaScript](./10XXX/10718-We_love_kriii.js) | [Python3](./10XXX/10718-We_love_kriii.py) |           |
 | 10869 | 사칙연산      | [문제주소](https://www.acmicpc.net/problem/10869) | 🟫 브론즈 V |   [JavaScript](./10XXX/10869-사칙연산.js)    |   [Python3](./10XXX/10869-사칙연산.py)    |           |
+| 10871  | X보다 작은 수 | [문제주소](https://www.acmicpc.net/problem/10871)  | 🟫 브론즈 III |      [JavaScript](./10XXX/10871-X보다_작은_수.js)      |   [Python3](./10XXX/10871-X보다_작은_수.py)   | |
 | 10950  | A+B - 3 | [문제주소](https://www.acmicpc.net/problem/10950)  | 🟫 브론즈 III |      [JavaScript](./10XXX/10950-A+B(3).js)      |   [Python3](./10XXX/10950-A+B(3).py)   | |
 | 10951  | A+B - 4 | [문제주소](https://www.acmicpc.net/problem/10951)  | 🟫 브론즈 III |      [JavaScript](./10XXX/10951-A+B(4).js)      |   [Python3](./10XXX/10951-A+B(4).py)   | |
 | 10952  | A+B - 5 | [문제주소](https://www.acmicpc.net/problem/10952)  | 🟫 브론즈 III |      [JavaScript](./10XXX/10952-A+B(5).js)      |   [Python3](./10XXX/10952-A+B(5).py)   | |
 | 10998 | A×B           | [문제주소](https://www.acmicpc.net/problem/10998) | 🟫 브론즈 V |      [JavaScript](./10XXX/10998-A×B.js)      |      [Python3](./10XXX/10998-A×B.py)      |           |
 
+## 11XXX
+
+| 번호  | 문제          |                     문제 URL                      |   난이도    |                  문제 풀이                   |                 문제 풀이                 | 문제 출처 |
+| :---: | :------------ | :-----------------------------------------------: | :---------: | :------------------------------------------: | :---------------------------------------: | :-------- |
+| 11021  | A+B - 7 | [문제주소](https://www.acmicpc.net/problem/11021)  | 🟫 브론즈 III |      [JavaScript](./11XXX/11021-A+B(7).js)      |   [Python3](./11XXX/11021-A+B(7).py)   | |
+| 11022  | A+B - 8 | [문제주소](https://www.acmicpc.net/problem/11022)  | 🟫 브론즈 III |      [JavaScript](./11XXX/11022-A+B(8).js)      |   [Python3](./11XXX/11022-A+B(8).py)   | |
 ## 14XXX
 
 | 번호  | 문제          |                     문제 URL                      |   난이도    |                  문제 풀이                   |                 문제 풀이                 | 문제 출처 |

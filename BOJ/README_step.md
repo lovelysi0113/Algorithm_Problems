@@ -29,12 +29,20 @@
 |  5  | 2884  | 알람 시계 | [문제주소](https://www.acmicpc.net/problem/2884)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2884-알람_시계.js)      |   [Python3](./02XXX/2884-알람_시계.py)   | |
 
 ## [for문](https://www.acmicpc.net/step/3)
+| 단계 | 번호  | 문제          |                     문제 URL                      |    난이도    |                  문제 풀이                   |                 문제 풀이                 | 문제 출처 |
+| :--: | :---: | :------------ | :-----------------------------------------------: | :----------: | :------------------------------------------: | :---------------------------------------: | :-------- |
 |  1  | 2739  | 구구단 | [문제주소](https://www.acmicpc.net/problem/2739)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2739-구구단.js)      |   [Python3](./02XXX/2739-구구단.py)   | |
 |  2  | 10950  | A+B - 3 | [문제주소](https://www.acmicpc.net/problem/10950)  | 🟫 브론즈 III |      [JavaScript](./10XXX/10950-A+B(3).js)      |   [Python3](./10XXX/10950-A+B(3).py)   | |
 |  3  | 8393  | 합 | [문제주소](https://www.acmicpc.net/problem/8393)  | 🟫 브론즈 V |      [JavaScript](./08XXX/8393-합.js)      |   [Python3](./08XXX/8393-합.py)   | |
 |  4  | 15552  | 빠른 A+B | [문제주소](https://www.acmicpc.net/problem/15552)  | 🟫 브론즈 II |      [JavaScript](./15XXX/15552-빠른_A+B.js)      |   [Python3](./15XXX/15552-빠른_A+B.py)   | |
 |  5  | 2741  | N 찍기 | [문제주소](https://www.acmicpc.net/problem/2741)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2741-N_찍기.js)      |   [Python3](./02XXX/2741-N_찍기.py)   | |
 |  6  | 2742  | 기찍 N | [문제주소](https://www.acmicpc.net/problem/2742)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2742-기찍_N.js)      |   [Python3](./02XXX/2742-기찍_N.py)   | |
+|  7  | 11021  | A+B - 7 | [문제주소](https://www.acmicpc.net/problem/11021)  | 🟫 브론즈 III |      [JavaScript](./11XXX/11021-A+B(7).js)      |   [Python3](./11XXX/11021-A+B(7).py)   | |
+|  8 | 11022  | A+B - 8 | [문제주소](https://www.acmicpc.net/problem/11022)  | 🟫 브론즈 III |      [JavaScript](./11XXX/11022-A+B(8).js)      |   [Python3](./11XXX/11022-A+B(8).py)   | |
+|  9  | 2438  | 별 찍기 - 1 | [문제주소](https://www.acmicpc.net/problem/2438)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2438-별_찍기(1).js)      |   [Python3](./02XXX/2438-별_찍기(1).py)   | |
+|  10  | 2439  | 별 찍기 - 2 | [문제주소](https://www.acmicpc.net/problem/2439)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2439-별_찍기(2).js)      |   [Python3](./02XXX/2439-별_찍기(2).py)   | |
+| 11  | 10871  | X보다 작은 수 | [문제주소](https://www.acmicpc.net/problem/10871)  | 🟫 브론즈 III |      [JavaScript](./10XXX/10871-X보다_작은_수.js)      |   [Python3](./10XXX/10871-X보다_작은_수.py)   | |
+
 ## [while문](https://www.acmicpc.net/step/2)
 
 | 단계 | 번호  | 문제          |                     문제 URL                      |    난이도    |                  문제 풀이                   |                 문제 풀이                 | 문제 출처 |
