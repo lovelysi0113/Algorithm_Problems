@@ -50,3 +50,15 @@
 |  1  | 10952  | A+B - 5 | [문제주소](https://www.acmicpc.net/problem/10952)  | 🟫 브론즈 III |      [JavaScript](./10XXX/10952-A+B(5).js)      |   [Python3](./10XXX/10952-A+B(5).py)   | |
 |  2  | 10951  | A+B - 4 | [문제주소](https://www.acmicpc.net/problem/10951)  | 🟫 브론즈 III |      [JavaScript](./10XXX/10951-A+B(4).js)      |   [Python3](./10XXX/10951-A+B(4).py)   | |
 |  3  | 1110  | 더하기 사이클 | [문제주소](https://www.acmicpc.net/problem/1110)  | 🟫 브론즈 I |      [JavaScript](./01XXX/1110-더하기_사이클.js)      |   [Python3](./01XXX/1110-더하기_사이클.py)   | |
+
+## [1차원 배열](https://www.acmicpc.net/step/6)
+| 단계 | 번호  | 문제          |                     문제 URL                      |    난이도    |                  문제 풀이                   |                 문제 풀이                 | 문제 출처 |
+| :--: | :---: | :------------ | :-----------------------------------------------: | :----------: | :------------------------------------------: | :---------------------------------------: | :-------- |
+|  1  | 10818  | 최소, 최대 | [문제주소](https://www.acmicpc.net/problem/10818)  | 🟫 브론즈 III |      [JavaScript](./10XXX/10818-최소_최대.js)      |   [Python3](./10XXX/10818-최소_최대.py)   | |
+|  2  | 2562  | 최댓값 | [문제주소](https://www.acmicpc.net/problem/2562)  | 🟫 브론즈 II |      [JavaScript](./02XXX/2562-최댓값.js)      |   [Python3](./02XXX/2562-최댓값.py)   | |
+|  3  | 2577  | 숫자의 개수 | [문제주소](https://www.acmicpc.net/problem/2577)  | 🟫 브론즈 II |      [JavaScript](./02XXX/2577-숫자의_개수.js)      |   [Python3](./02XXX/2577-숫자의_개수.py)   | |
+|  4 | 3052  | 나머지 | [문제주소](https://www.acmicpc.net/problem/3052)  | 🟫 브론즈 II |      [JavaScript](./03XXX/3052-나머지.js)      |   [Python3](./03XXX/3052-나머지.py)   | |
+|  5  | 1546  | 평균 | [문제주소](https://www.acmicpc.net/problem/1546)  | 🟫 브론즈 I |      [JavaScript](./01XXX/1546-평균.js)      |   [Python3](./01XXX/1546-평균.py)   | |
+|  6  | 8958  | OX퀴즈 | [문제주소](https://www.acmicpc.net/problem/8958)  | 🟫 브론즈 II |      [JavaScript](./08XXX/8958-OX퀴즈.js)      |   [Python3](./08XXX/8958-OX퀴즈.py)   | |
+|  7  | 4344  | 평균은 넘겠지 | [문제주소](https://www.acmicpc.net/problem/4344)  | 🟫 브론즈 I |      [JavaScript](./04XXX/4344-평균은_넘겠지.js)      |   [Python3](./04XXX/4344-평균은_넘겠지.py)   | |
+
