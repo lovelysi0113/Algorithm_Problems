@@ -26,6 +26,7 @@
 | 2739  | 구구단 | [문제주소](https://www.acmicpc.net/problem/2739)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2739-구구단.js)      |   [Python3](./02XXX/2739-구구단.py)   | |
 | 2741  | N 찍기 | [문제주소](https://www.acmicpc.net/problem/2741)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2741-N_찍기.js)      |   [Python3](./02XXX/2741-N_찍기.py)   | |
 | 2742  | 기찍 N | [문제주소](https://www.acmicpc.net/problem/2742)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2742-기찍_N.js)      |   [Python3](./02XXX/2742-기찍_N.py)   | |
+| 2750  | 수 정렬하기 | [문제주소](https://www.acmicpc.net/problem/2750)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2750-수_정렬하기.js)      |   [Python3](./02XXX/2750-수_정렬하기.py)   | |
 | 2753  | 윤년 | [문제주소](https://www.acmicpc.net/problem/2753)  | 🟫 브론즈 IV |      [JavaScript](./02XXX/2753-윤년.js)      |   [Python3](./02XXX/2753-윤년.py)   | |
 | 2884  | 알람 시계 | [문제주소](https://www.acmicpc.net/problem/2884)  | 🟫 브론즈 III |      [JavaScript](./02XXX/2884-알람_시계.js)      |   [Python3](./02XXX/2884-알람_시계.py)   | |
 
