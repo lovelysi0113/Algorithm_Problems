@@ -9,6 +9,7 @@
 | 1000 | A+B  | [문제주소](https://www.acmicpc.net/problem/1000) | 🟫 브론즈 V  |   [JavaScript](./01XXX/1000-A+B.js)    |   [Python3](./01XXX/1000-A+B.py)    |           |
 | 1001 | A-B  | [문제주소](https://www.acmicpc.net/problem/1001) | 🟫 브론즈 V  |   [JavaScript](./01XXX/1001-A-B.js)    |   [Python3](./01XXX/1001-A-B.py)    |           |
 | 1008 | A/B  | [문제주소](https://www.acmicpc.net/problem/1008) | 🟫 브론즈 IV | [JavaScript](./01XXX/1008-A나누기B.js) | [Python3](./01XXX/1008-A나누기B.py) |           |
+| 1065  | 한수 | [문제주소](https://www.acmicpc.net/problem/1065)  | ⬜️ 실버 IV |      [JavaScript](./01XXX/1065-한수.js)      |   [Python3](./01XXX/1065-한수.py)   | |
 | 1110  | 더하기 사이클 | [문제주소](https://www.acmicpc.net/problem/1110)  | 🟫 브론즈 I |      [JavaScript](./01XXX/1110-더하기_사이클.js)      |   [Python3](./01XXX/1110-더하기_사이클.py)   | |
 | 1330  | 두 수 비교하기 | [문제주소](https://www.acmicpc.net/problem/1330)  | 🟫 브론즈 IV |      [JavaScript](./01XXX/1330-두_수_비교하기.js)      |   [Python3](./01XXX/1330-두_수_비교하기.py)   | |
 | 1546  | 평균 | [문제주소](https://www.acmicpc.net/problem/1546)  | 🟫 브론즈 I |      [JavaScript](./01XXX/1546-평균.js)      |   [Python3](./01XXX/1546-평균.py)   | |
@@ -41,6 +42,7 @@
 | 번호  | 문제          |                     문제 URL                      |   난이도    |                  문제 풀이                   |                 문제 풀이                 | 문제 출처 |
 | :---: | :------------ | :-----------------------------------------------: | :---------: | :------------------------------------------: | :---------------------------------------: | :-------- |
 | 4344  | 평균은 넘겠지 | [문제주소](https://www.acmicpc.net/problem/4344)  | 🟫 브론즈 I |      [JavaScript](./04XXX/4344-평균은_넘겠지.js)      |   [Python3](./04XXX/4344-평균은_넘겠지.py)   | |
+| 4673  | 셀프 넘버 | [문제주소](https://www.acmicpc.net/problem/4673)  | ⬜️ 실버 V |      [JavaScript](./04XXX/4673-셀프_넘버.js)      |   [Python3](./04XXX/4673-셀프_넘버.py)   | |
 
 ## 08XXX
 
@@ -90,3 +92,4 @@
 | 번호  | 문제          |                     문제 URL                      |   난이도    |                  문제 풀이                   |                 문제 풀이                 | 문제 출처 |
 | :---: | :------------ | :-----------------------------------------------: | :---------: | :------------------------------------------: | :---------------------------------------: | :-------- |
 | 15552  | 빠른 A+B | [문제주소](https://www.acmicpc.net/problem/15552)  | 🟫 브론즈 II |      [JavaScript](./15XXX/15552-빠른_A+B.js)      |   [Python3](./15XXX/15552-빠른_A+B.py)   | |
+| 15596  | 정수 N개의 합 | [문제주소](https://www.acmicpc.net/problem/15596)  | 🟫 브론즈 II |      지원 X     |   [Python3](./15XXX/15596-정수_N개의_합.py)   | |

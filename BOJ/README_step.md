@@ -62,3 +62,10 @@
 |  6  | 8958  | OX퀴즈 | [문제주소](https://www.acmicpc.net/problem/8958)  | 🟫 브론즈 II |      [JavaScript](./08XXX/8958-OX퀴즈.js)      |   [Python3](./08XXX/8958-OX퀴즈.py)   | |
 |  7  | 4344  | 평균은 넘겠지 | [문제주소](https://www.acmicpc.net/problem/4344)  | 🟫 브론즈 I |      [JavaScript](./04XXX/4344-평균은_넘겠지.js)      |   [Python3](./04XXX/4344-평균은_넘겠지.py)   | |
 
+## [함수](https://www.acmicpc.net/step/5)
+| 단계 | 번호  | 문제          |                     문제 URL                      |    난이도    |                  문제 풀이                   |                 문제 풀이                 | 문제 출처 |
+| :--: | :---: | :------------ | :-----------------------------------------------: | :----------: | :------------------------------------------: | :---------------------------------------: | :-------- |
+|  1  | 15596  | 정수 N개의 합 | [문제주소](https://www.acmicpc.net/problem/15596)  | 🟫 브론즈 II |      지원 X     |   [Python3](./15XXX/15596-정수_N개의_합.py)   | |
+|  2  | 4673  | 셀프 넘버 | [문제주소](https://www.acmicpc.net/problem/4673)  | ⬜️ 실버 V |      [JavaScript](./04XXX/4673-셀프_넘버.js)      |   [Python3](./04XXX/4673-셀프_넘버.py)   | |
+|  3  | 1065  | 한수 | [문제주소](https://www.acmicpc.net/problem/1065)  | ⬜️ 실버 IV |      [JavaScript](./01XXX/1065-한수.js)      |   [Python3](./01XXX/1065-한수.py)   | |
+
