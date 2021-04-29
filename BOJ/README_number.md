@@ -11,6 +11,7 @@
 | 1008 | A/B            | [문제주소](https://www.acmicpc.net/problem/1008) | 🟫 브론즈 IV |    [JavaScript](./01XXX/1008-A나누기B.js)    |    [Python3](./01XXX/1008-A나누기B.py)    |           |
 | 1065 | 한수           | [문제주소](https://www.acmicpc.net/problem/1065) | ⬜️ 실버 IV  |      [JavaScript](./01XXX/1065-한수.js)      |      [Python3](./01XXX/1065-한수.py)      |           |
 | 1110 | 더하기 사이클  | [문제주소](https://www.acmicpc.net/problem/1110) | 🟫 브론즈 I  | [JavaScript](./01XXX/1110-더하기_사이클.js)  | [Python3](./01XXX/1110-더하기_사이클.py)  |           |
+| 1152 | 단어의 개수    | [문제주소](https://www.acmicpc.net/problem/1152) | 🟫 브론즈 II |  [JavaScript](./01XXX/1152-단어의_개수.js)   |  [Python3](./01XXX/1152-단어의_개수.py)   |           |
 | 1157 | 단어 공부      | [문제주소](https://www.acmicpc.net/problem/1157) | 🟫 브론즈 I  |   [JavaScript](./01XXX/1157-단어_공부.js)    |   [Python3](./01XXX/1157-단어_공부.py)    |           |
 | 1330 | 두 수 비교하기 | [문제주소](https://www.acmicpc.net/problem/1330) | 🟫 브론즈 IV | [JavaScript](./01XXX/1330-두_수_비교하기.js) | [Python3](./01XXX/1330-두_수_비교하기.py) |           |
 | 1546 | 평균           | [문제주소](https://www.acmicpc.net/problem/1546) | 🟫 브론즈 I  |      [JavaScript](./01XXX/1546-평균.js)      |      [Python3](./01XXX/1546-평균.py)      |           |
@@ -32,6 +33,7 @@
 | 2750 | 수 정렬하기 | [문제주소](https://www.acmicpc.net/problem/2750) | 🟫 브론즈 III | [JavaScript](./02XXX/2750-수_정렬하기.js)  | [Python3](./02XXX/2750-수_정렬하기.py)  |           |
 | 2753 | 윤년        | [문제주소](https://www.acmicpc.net/problem/2753) | 🟫 브론즈 IV  |     [JavaScript](./02XXX/2753-윤년.js)     |     [Python3](./02XXX/2753-윤년.py)     |           |
 | 2884 | 알람 시계   | [문제주소](https://www.acmicpc.net/problem/2884) | 🟫 브론즈 III |  [JavaScript](./02XXX/2884-알람_시계.js)   |  [Python3](./02XXX/2884-알람_시계.py)   |           |
+| 2908 | 상수        |   [문제주소](https://www.acmicpc.net/problem/)   | 🟫 브론즈 II  |     [JavaScript](./02XXX/2908-상수.js)     |     [Python3](./02XXX/2908-상수.py)     |           |
 
 ## 03XXX
 
@@ -45,6 +47,12 @@
 | :--: | :------------ | :----------------------------------------------: | :---------: | :-----------------------------------------: | :--------------------------------------: | :-------- |
 | 4344 | 평균은 넘겠지 | [문제주소](https://www.acmicpc.net/problem/4344) | 🟫 브론즈 I | [JavaScript](./04XXX/4344-평균은_넘겠지.js) | [Python3](./04XXX/4344-평균은_넘겠지.py) |           |
 | 4673 | 셀프 넘버     | [문제주소](https://www.acmicpc.net/problem/4673) | ⬜️ 실버 V  |   [JavaScript](./04XXX/4673-셀프_넘버.js)   |   [Python3](./04XXX/4673-셀프_넘버.py)   |           |
+
+## 05XXX
+
+| 번호 | 문제   |                     문제 URL                     |    난이도    |              문제 풀이               |             문제 풀이             | 문제 출처 |
+| :--: | :----- | :----------------------------------------------: | :----------: | :----------------------------------: | :-------------------------------: | :-------- |
+| 5622 | 다이얼 | [문제주소](https://www.acmicpc.net/problem/5622) | 🟫 브론즈 II | [JavaScript](./05XXX/5622-다이얼.js) | [Python3](./05XXX/5622-다이얼.py) |           |
 
 ## 08XXX
 
