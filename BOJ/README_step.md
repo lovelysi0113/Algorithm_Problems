@@ -74,13 +74,15 @@
 
 ## [문자열](https://www.acmicpc.net/step/7)
 
-| 단계 | 번호  | 문제        |                     문제 URL                      |    난이도    |                 문제 풀이                  |                문제 풀이                | 문제 출처 |
-| :--: | :---: | :---------- | :-----------------------------------------------: | :----------: | :----------------------------------------: | :-------------------------------------: | :-------- |
-|  1   | 11654 | 아스키 코드 | [문제주소](https://www.acmicpc.net/problem/11654) | 🟫 브론즈 V  | [JavaScript](./11XXX/11654-아스키_코드.js) | [Python3](./11XXX/11654-아스키_코드.py) |           |
-|  2   | 11720 | 숫자의 합   | [문제주소](https://www.acmicpc.net/problem/11720) | 🟫 브론즈 II |  [JavaScript](./11XXX/11720-숫자의_합.js)  |  [Python3](./11XXX/11720-숫자의_합.py)  |           |
-|  3   | 10809 | 알파벳 찾기 | [문제주소](https://www.acmicpc.net/problem/10809) | 🟫 브론즈 II | [JavaScript](./10XXX/10809-알파벳_찾기.js) | [Python3](./10XXX/10809-알파벳_찾기.py) |           |
-|  4   | 2675  | 문자열 반복 | [문제주소](https://www.acmicpc.net/problem/2675)  | 🟫 브론즈 II | [JavaScript](./02XXX/2675-문자열_반복.js)  | [Python3](./02XXX/2675-문자열_반복.py)  |           |
-|  5   | 1157  | 단어 공부   | [문제주소](https://www.acmicpc.net/problem/1157)  | 🟫 브론즈 I  |  [JavaScript](./01XXX/1157-단어_공부.js)   |  [Python3](./01XXX/1157-단어_공부.py)   |           |
-|  6   | 1152  | 단어의 개수 | [문제주소](https://www.acmicpc.net/problem/1152)  | 🟫 브론즈 II | [JavaScript](./01XXX/1152-단어의_개수.js)  | [Python3](./01XXX/1152-단어의_개수.py)  |           |
-|  7   | 2908  | 상수        |   [문제주소](https://www.acmicpc.net/problem/)    | 🟫 브론즈 II |     [JavaScript](./02XXX/2908-상수.js)     |     [Python3](./02XXX/2908-상수.py)     |           |
-|  8   | 5622  | 다이얼      | [문제주소](https://www.acmicpc.net/problem/5622)  | 🟫 브론즈 II |    [JavaScript](./05XXX/5622-다이얼.js)    |    [Python3](./05XXX/5622-다이얼.py)    |           |
+| 단계 | 번호  | 문제              |                     문제 URL                      |    난이도    |                    문제 풀이                    |                  문제 풀이                   | 문제 출처 |
+| :--: | :---: | :---------------- | :-----------------------------------------------: | :----------: | :---------------------------------------------: | :------------------------------------------: | :-------- |
+|  1   | 11654 | 아스키 코드       | [문제주소](https://www.acmicpc.net/problem/11654) | 🟫 브론즈 V  |   [JavaScript](./11XXX/11654-아스키_코드.js)    |   [Python3](./11XXX/11654-아스키_코드.py)    |           |
+|  2   | 11720 | 숫자의 합         | [문제주소](https://www.acmicpc.net/problem/11720) | 🟫 브론즈 II |    [JavaScript](./11XXX/11720-숫자의_합.js)     |    [Python3](./11XXX/11720-숫자의_합.py)     |           |
+|  3   | 10809 | 알파벳 찾기       | [문제주소](https://www.acmicpc.net/problem/10809) | 🟫 브론즈 II |   [JavaScript](./10XXX/10809-알파벳_찾기.js)    |   [Python3](./10XXX/10809-알파벳_찾기.py)    |           |
+|  4   | 2675  | 문자열 반복       | [문제주소](https://www.acmicpc.net/problem/2675)  | 🟫 브론즈 II |    [JavaScript](./02XXX/2675-문자열_반복.js)    |    [Python3](./02XXX/2675-문자열_반복.py)    |           |
+|  5   | 1157  | 단어 공부         | [문제주소](https://www.acmicpc.net/problem/1157)  | 🟫 브론즈 I  |     [JavaScript](./01XXX/1157-단어_공부.js)     |     [Python3](./01XXX/1157-단어_공부.py)     |           |
+|  6   | 1152  | 단어의 개수       | [문제주소](https://www.acmicpc.net/problem/1152)  | 🟫 브론즈 II |    [JavaScript](./01XXX/1152-단어의_개수.js)    |    [Python3](./01XXX/1152-단어의_개수.py)    |           |
+|  7   | 2908  | 상수              |   [문제주소](https://www.acmicpc.net/problem/)    | 🟫 브론즈 II |       [JavaScript](./02XXX/2908-상수.js)        |       [Python3](./02XXX/2908-상수.py)        |           |
+|  8   | 5622  | 다이얼            | [문제주소](https://www.acmicpc.net/problem/5622)  | 🟫 브론즈 II |      [JavaScript](./05XXX/5622-다이얼.js)       |      [Python3](./05XXX/5622-다이얼.py)       |           |
+|  9   | 2941  | 크로아티아 알파벳 | [문제주소](https://www.acmicpc.net/problem/2941)  |  ⬜️ 실버 V  | [JavaScript](./02XXX/2941-크로아티아_알파벳.js) | [Python3](./02XXX/2941-크로아티아_알파벳.py) |           |
+|  10  | 1316  | 그룹 단어 체커    | [문제주소](https://www.acmicpc.net/problem/1316)  |  ⬜️ 실버 V  |  [JavaScript](./01XXX/1316-그룹_단어_체커.js)   |  [Python3](./01XXX/1316-그룹_단어_체커.py)   |           |
