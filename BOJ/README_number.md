@@ -71,20 +71,22 @@
 
 ## 10XXX
 
-| 번호  | 문제          |                     문제 URL                      |    난이도     |                  문제 풀이                   |                 문제 풀이                 | 문제 출처 |
-| :---: | :------------ | :-----------------------------------------------: | :-----------: | :------------------------------------------: | :---------------------------------------: | :-------- |
-| 10171 | 고양이        | [문제주소](https://www.acmicpc.net/problem/10171) |  🟫 브론즈 V  |    [JavaScript](./10XXX/10171-고양이.js)     |    [Python3](./10XXX/10171-고양이.py)     |           |
-| 10172 | 개            | [문제주소](https://www.acmicpc.net/problem/10172) |  🟫 브론즈 V  |      [JavaScript](./10XXX/10172-개.js)       |      [Python3](./10XXX/10172-개.py)       |           |
-| 10430 | 나머지        | [문제주소](https://www.acmicpc.net/problem/10430) |  🟫 브론즈 V  |    [JavaScript](./10XXX/10430-나머지.js)     |    [Python3](./10XXX/10430-나머지.py)     |           |
-| 10718 | We love kriii | [문제주소](https://www.acmicpc.net/problem/10718) |  🟫 브론즈 V  | [JavaScript](./10XXX/10718-We_love_kriii.js) | [Python3](./10XXX/10718-We_love_kriii.py) |           |
-| 10809 | 알파벳 찾기   | [문제주소](https://www.acmicpc.net/problem/10809) | 🟫 브론즈 II  |  [JavaScript](./10XXX/10809-알파벳_찾기.js)  |  [Python3](./10XXX/10809-알파벳_찾기.py)  |           |
-| 10818 | 최소, 최대    | [문제주소](https://www.acmicpc.net/problem/10818) | 🟫 브론즈 III |   [JavaScript](./10XXX/10818-최소_최대.js)   |   [Python3](./10XXX/10818-최소_최대.py)   |           |
-| 10869 | 사칙연산      | [문제주소](https://www.acmicpc.net/problem/10869) |  🟫 브론즈 V  |   [JavaScript](./10XXX/10869-사칙연산.js)    |   [Python3](./10XXX/10869-사칙연산.py)    |           |
-| 10871 | X보다 작은 수 | [문제주소](https://www.acmicpc.net/problem/10871) | 🟫 브론즈 III | [JavaScript](./10XXX/10871-X보다_작은_수.js) | [Python3](./10XXX/10871-X보다_작은_수.py) |           |
-| 10950 | A+B - 3       | [문제주소](https://www.acmicpc.net/problem/10950) | 🟫 브론즈 III |   [JavaScript](<./10XXX/10950-A+B(3).js>)    |   [Python3](<./10XXX/10950-A+B(3).py>)    |           |
-| 10951 | A+B - 4       | [문제주소](https://www.acmicpc.net/problem/10951) | 🟫 브론즈 III |   [JavaScript](<./10XXX/10951-A+B(4).js>)    |   [Python3](<./10XXX/10951-A+B(4).py>)    |           |
-| 10952 | A+B - 5       | [문제주소](https://www.acmicpc.net/problem/10952) | 🟫 브론즈 III |   [JavaScript](<./10XXX/10952-A+B(5).js>)    |   [Python3](<./10XXX/10952-A+B(5).py>)    |           |
-| 10998 | A×B           | [문제주소](https://www.acmicpc.net/problem/10998) |  🟫 브론즈 V  |      [JavaScript](./10XXX/10998-A×B.js)      |      [Python3](./10XXX/10998-A×B.py)      |           |
+| 번호  | 문제          |                     문제 URL                      |    난이도     |                    문제 풀이                    |                  문제 풀이                   | 문제 출처 |
+| :---: | :------------ | :-----------------------------------------------: | :-----------: | :---------------------------------------------: | :------------------------------------------: | :-------- |
+| 10171 | 고양이        | [문제주소](https://www.acmicpc.net/problem/10171) |  🟫 브론즈 V  |      [JavaScript](./10XXX/10171-고양이.js)      |      [Python3](./10XXX/10171-고양이.py)      |           |
+| 10172 | 개            | [문제주소](https://www.acmicpc.net/problem/10172) |  🟫 브론즈 V  |        [JavaScript](./10XXX/10172-개.js)        |        [Python3](./10XXX/10172-개.py)        |           |
+| 10430 | 나머지        | [문제주소](https://www.acmicpc.net/problem/10430) |  🟫 브론즈 V  |      [JavaScript](./10XXX/10430-나머지.js)      |      [Python3](./10XXX/10430-나머지.py)      |           |
+| 10718 | We love kriii | [문제주소](https://www.acmicpc.net/problem/10718) |  🟫 브론즈 V  |  [JavaScript](./10XXX/10718-We_love_kriii.js)   |  [Python3](./10XXX/10718-We_love_kriii.py)   |           |
+| 10809 | 알파벳 찾기   | [문제주소](https://www.acmicpc.net/problem/10809) | 🟫 브론즈 II  |   [JavaScript](./10XXX/10809-알파벳_찾기.js)    |   [Python3](./10XXX/10809-알파벳_찾기.py)    |           |
+| 10818 | 최소, 최대    | [문제주소](https://www.acmicpc.net/problem/10818) | 🟫 브론즈 III |    [JavaScript](./10XXX/10818-최소_최대.js)     |    [Python3](./10XXX/10818-최소_최대.py)     |           |
+| 10869 | 사칙연산      | [문제주소](https://www.acmicpc.net/problem/10869) |  🟫 브론즈 V  |     [JavaScript](./10XXX/10869-사칙연산.js)     |     [Python3](./10XXX/10869-사칙연산.py)     |           |
+| 10870 | 피보나치 수 5 | [문제주소](https://www.acmicpc.net/problem/10870) | 🟫 브론즈 II  | [JavaScript](<./10XXX/10870-피보나치_수(5).js>) | [Python3](<./10XXX/10870-피보나치_수(5).py>) |           |
+| 10871 | X보다 작은 수 | [문제주소](https://www.acmicpc.net/problem/10871) | 🟫 브론즈 III |  [JavaScript](./10XXX/10871-X보다_작은_수.js)   |  [Python3](./10XXX/10871-X보다_작은_수.py)   |           |
+| 10872 | 팩토리얼      | [문제주소](https://www.acmicpc.net/problem/10872) | 🟫 브론즈 III |     [JavaScript](./10XXX/10872-팩토리얼.js)     |     [Python3](./10XXX/10872-팩토리얼.py)     |           |
+| 10950 | A+B - 3       | [문제주소](https://www.acmicpc.net/problem/10950) | 🟫 브론즈 III |     [JavaScript](<./10XXX/10950-A+B(3).js>)     |     [Python3](<./10XXX/10950-A+B(3).py>)     |           |
+| 10951 | A+B - 4       | [문제주소](https://www.acmicpc.net/problem/10951) | 🟫 브론즈 III |     [JavaScript](<./10XXX/10951-A+B(4).js>)     |     [Python3](<./10XXX/10951-A+B(4).py>)     |           |
+| 10952 | A+B - 5       | [문제주소](https://www.acmicpc.net/problem/10952) | 🟫 브론즈 III |     [JavaScript](<./10XXX/10952-A+B(5).js>)     |     [Python3](<./10XXX/10952-A+B(5).py>)     |           |
+| 10998 | A×B           | [문제주소](https://www.acmicpc.net/problem/10998) |  🟫 브론즈 V  |       [JavaScript](./10XXX/10998-A×B.js)        |       [Python3](./10XXX/10998-A×B.py)        |           |
 
 ## 11XXX
 
