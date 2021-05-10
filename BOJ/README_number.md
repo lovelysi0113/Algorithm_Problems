@@ -16,12 +16,14 @@
 | 1316 | 그룹 단어 체커 | [문제주소](https://www.acmicpc.net/problem/1316) | ⬜️ 실버 V   | [JavaScript](./01XXX/1316-그룹_단어_체커.js) | [Python3](./01XXX/1316-그룹_단어_체커.py) |           |
 | 1330 | 두 수 비교하기 | [문제주소](https://www.acmicpc.net/problem/1330) | 🟫 브론즈 IV | [JavaScript](./01XXX/1330-두_수_비교하기.js) | [Python3](./01XXX/1330-두_수_비교하기.py) |           |
 | 1546 | 평균           | [문제주소](https://www.acmicpc.net/problem/1546) | 🟫 브론즈 I  |      [JavaScript](./01XXX/1546-평균.js)      |      [Python3](./01XXX/1546-평균.py)      |           |
+| 1712 | 손익분기점     | [문제주소](https://www.acmicpc.net/problem/1712) | 🟫 브론즈 IV |   [JavaScript](./01XXX/1712-손익분기점.js)   |   [Python3](./01XXX/1712-손익분기점.py)   |           |
 | 1978 | 소수 찾기      | [문제주소](https://www.acmicpc.net/problem/1978) | ⬜️ 실버 IV  |   [JavaScript](./01XXX/1978-소수_찾기.js)    |   [Python3](./01XXX/1978-소수_찾기.py)    |           |
 
 ## 02XXX
 
 | 번호 | 문제              |                     문제 URL                     | 난이도        |                    문제 풀이                    |                  문제 풀이                   | 문제 출처 |
 | :--: | :---------------- | :----------------------------------------------: | :------------ | :---------------------------------------------: | :------------------------------------------: | :-------- |
+| 2292 | 벌집              | [문제주소](https://www.acmicpc.net/problem/2292) | 🟫 브론즈 II  |       [JavaScript](./02XXX/2292-벌집.js)        |       [Python3](./02XXX/2292-벌집.py)        |           |
 | 2438 | 별 찍기 - 1       | [문제주소](https://www.acmicpc.net/problem/2438) | 🟫 브론즈 III |   [JavaScript](<./02XXX/2438-별_찍기(1).js>)    |   [Python3](<./02XXX/2438-별_찍기(1).py>)    |           |
 | 2439 | 별 찍기 - 2       | [문제주소](https://www.acmicpc.net/problem/2439) | 🟫 브론즈 III |   [JavaScript](<./02XXX/2439-별_찍기(2).js>)    |   [Python3](<./02XXX/2439-별_찍기(2).py>)    |           |
 | 2557 | Hello World       | [문제주소](https://www.acmicpc.net/problem/2557) | 🟫 브론즈 V   |    [JavaScript](./02XXX/2557-Hello_World.js)    |    [Python3](./02XXX/2557-Hello_World.py)    |           |
