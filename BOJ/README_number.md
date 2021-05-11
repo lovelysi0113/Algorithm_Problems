@@ -17,6 +17,7 @@
 | 1330 | 두 수 비교하기 | [문제주소](https://www.acmicpc.net/problem/1330) | 🟫 브론즈 IV | [JavaScript](./01XXX/1330-두_수_비교하기.js) | [Python3](./01XXX/1330-두_수_비교하기.py) |           |
 | 1546 | 평균           | [문제주소](https://www.acmicpc.net/problem/1546) | 🟫 브론즈 I  |      [JavaScript](./01XXX/1546-평균.js)      |      [Python3](./01XXX/1546-평균.py)      |           |
 | 1712 | 손익분기점     | [문제주소](https://www.acmicpc.net/problem/1712) | 🟫 브론즈 IV |   [JavaScript](./01XXX/1712-손익분기점.js)   |   [Python3](./01XXX/1712-손익분기점.py)   |           |
+| 1929 | 소수 구하기    | [문제주소](https://www.acmicpc.net/problem/1929) | ⬜️ 실버 II  |  [JavaScript](./01XXX/1929-소수_구하기.js)   |  [Python3](./01XXX/1929-소수_구하기.py)   |           |
 | 1978 | 소수 찾기      | [문제주소](https://www.acmicpc.net/problem/1978) | ⬜️ 실버 IV  |   [JavaScript](./01XXX/1978-소수_찾기.js)    |   [Python3](./01XXX/1978-소수_찾기.py)    |           |
 
 ## 02XXX
@@ -98,6 +99,7 @@
 | :---: | :---------- | :-----------------------------------------------: | :------------ | :----------------------------------------: | :-------------------------------------: | :-------- |
 | 11021 | A+B - 7     | [문제주소](https://www.acmicpc.net/problem/11021) | 🟫 브론즈 III |  [JavaScript](<./11XXX/11021-A+B(7).js>)   |  [Python3](<./11XXX/11021-A+B(7).py>)   |           |
 | 11022 | A+B - 8     | [문제주소](https://www.acmicpc.net/problem/11022) | 🟫 브론즈 III |  [JavaScript](<./11XXX/11022-A+B(8).js>)   |  [Python3](<./11XXX/11022-A+B(8).py>)   |           |
+| 11653 | 소인수분해  | [문제주소](https://www.acmicpc.net/problem/11653) | ⬜️ 실버 IV   | [JavaScript](./11XXX/11653-소인수분해.js)  | [Python3](./11XXX/11653-소인수분해.py)  |           |
 | 11654 | 아스키 코드 | [문제주소](https://www.acmicpc.net/problem/11654) | 🟫 브론즈 V   | [JavaScript](./11XXX/11654-아스키_코드.js) | [Python3](./11XXX/11654-아스키_코드.py) |           |
 | 11720 | 숫자의 합   | [문제주소](https://www.acmicpc.net/problem/11720) | 🟫 브론즈 II  |  [JavaScript](./11XXX/11720-숫자의_합.js)  |  [Python3](./11XXX/11720-숫자의_합.py)  |           |
 
