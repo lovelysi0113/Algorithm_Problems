@@ -69,8 +69,8 @@
 | 단계 | 번호  | 문제          |                     문제 URL                      | 난이도       |                문제 풀이                |                 문제 풀이                 | 문제 출처 |
 | :--: | :---: | :------------ | :-----------------------------------------------: | :----------- | :-------------------------------------: | :---------------------------------------: | :-------- |
 |  1   | 15596 | 정수 N개의 합 | [문제주소](https://www.acmicpc.net/problem/15596) | 🟫 브론즈 II |                 지원 X                  | [Python3](./15XXX/15596-정수_N개의_합.py) |           |
-|  2   | 4673  | 셀프 넘버     | [문제주소](https://www.acmicpc.net/problem/4673)  | ⬜️ 실버 V   | [JavaScript](./04XXX/4673-셀프_넘버.js) |   [Python3](./04XXX/4673-셀프_넘버.py)    |           |
-|  3   | 1065  | 한수          | [문제주소](https://www.acmicpc.net/problem/1065)  | ⬜️ 실버 IV  |   [JavaScript](./01XXX/1065-한수.js)    |      [Python3](./01XXX/1065-한수.py)      |           |
+|  2   | 4673  | 셀프 넘버     | [문제주소](https://www.acmicpc.net/problem/4673)  | 🟧 실버 V    | [JavaScript](./04XXX/4673-셀프_넘버.js) |   [Python3](./04XXX/4673-셀프_넘버.py)    |           |
+|  3   | 1065  | 한수          | [문제주소](https://www.acmicpc.net/problem/1065)  | 🟧 실버 IV   |   [JavaScript](./01XXX/1065-한수.js)    |      [Python3](./01XXX/1065-한수.py)      |           |
 
 ## [문자열](https://www.acmicpc.net/step/7)
 
@@ -84,8 +84,8 @@
 |  6   | 1152  | 단어의 개수       | [문제주소](https://www.acmicpc.net/problem/1152)  | 🟫 브론즈 II |    [JavaScript](./01XXX/1152-단어의_개수.js)    |    [Python3](./01XXX/1152-단어의_개수.py)    |           |
 |  7   | 2908  | 상수              |   [문제주소](https://www.acmicpc.net/problem/)    | 🟫 브론즈 II |       [JavaScript](./02XXX/2908-상수.js)        |       [Python3](./02XXX/2908-상수.py)        |           |
 |  8   | 5622  | 다이얼            | [문제주소](https://www.acmicpc.net/problem/5622)  | 🟫 브론즈 II |      [JavaScript](./05XXX/5622-다이얼.js)       |      [Python3](./05XXX/5622-다이얼.py)       |           |
-|  9   | 2941  | 크로아티아 알파벳 | [문제주소](https://www.acmicpc.net/problem/2941)  | ⬜️ 실버 V   | [JavaScript](./02XXX/2941-크로아티아_알파벳.js) | [Python3](./02XXX/2941-크로아티아_알파벳.py) |           |
-|  10  | 1316  | 그룹 단어 체커    | [문제주소](https://www.acmicpc.net/problem/1316)  | ⬜️ 실버 V   |  [JavaScript](./01XXX/1316-그룹_단어_체커.js)   |  [Python3](./01XXX/1316-그룹_단어_체커.py)   |           |
+|  9   | 2941  | 크로아티아 알파벳 | [문제주소](https://www.acmicpc.net/problem/2941)  | 🟧 실버 V    | [JavaScript](./02XXX/2941-크로아티아_알파벳.js) | [Python3](./02XXX/2941-크로아티아_알파벳.py) |           |
+|  10  | 1316  | 그룹 단어 체커    | [문제주소](https://www.acmicpc.net/problem/1316)  | 🟧 실버 V    |  [JavaScript](./01XXX/1316-그룹_단어_체커.js)   |  [Python3](./01XXX/1316-그룹_단어_체커.py)   |           |
 
 ## [기본 수학 1](https://www.acmicpc.net/step/8)
 
@@ -96,12 +96,14 @@
 
 ## [기본 수학 2](https://www.acmicpc.net/step/10)
 
-| 단계 | 번호  | 문제        |                     문제 URL                      | 난이도      |                 문제 풀이                 |               문제 풀이                | 문제 출처 |
-| :--: | :---: | :---------- | :-----------------------------------------------: | :---------- | :---------------------------------------: | :------------------------------------: | :-------- |
-|  1   | 1978  | 소수 찾기   | [문제주소](https://www.acmicpc.net/problem/1978)  | ⬜️ 실버 IV |  [JavaScript](./01XXX/1978-소수*찾기.js)  |  [Python3](./01XXX/1978-소수_찾기.py)  |           |
-|  2   | 2581  | 소수        | [문제주소](https://www.acmicpc.net/problem/2581)  | ⬜️ 실버 V  |    [JavaScript](./02XXX/2581-소수.js)     |    [Python3](./02XXX/2581-소수.py)     |           |
-|  3   | 11653 | 소인수분해  | [문제주소](https://www.acmicpc.net/problem/11653) | ⬜️ 실버 IV | [JavaScript](./11XXX/11653-소인수분해.js) | [Python3](./11XXX/11653-소인수분해.py) |           |
-|  4   | 1929  | 소수 구하기 | [문제주소](https://www.acmicpc.net/problem/1929)  | ⬜️ 실버 II | [JavaScript](./01XXX/1929-소수_구하기.js) | [Python3](./01XXX/1929-소수_구하기.py) |           |
+| 단계 | 번호  | 문제              |                     문제 URL                      | 난이도        |                    문제 풀이                    |                  문제 풀이                   | 문제 출처 |
+| :--: | :---: | :---------------- | :-----------------------------------------------: | :------------ | :---------------------------------------------: | :------------------------------------------: | :-------- |
+|  1   | 1978  | 소수 찾기         | [문제주소](https://www.acmicpc.net/problem/1978)  | 🟧 실버 IV    |     [JavaScript](./01XXX/1978-소수*찾기.js)     |     [Python3](./01XXX/1978-소수_찾기.py)     |           |
+|  2   | 2581  | 소수              | [문제주소](https://www.acmicpc.net/problem/2581)  | 🟧 실버 V     |       [JavaScript](./02XXX/2581-소수.js)        |       [Python3](./02XXX/2581-소수.py)        |           |
+|  3   | 11653 | 소인수분해        | [문제주소](https://www.acmicpc.net/problem/11653) | 🟧 실버 IV    |    [JavaScript](./11XXX/11653-소인수분해.js)    |    [Python3](./11XXX/11653-소인수분해.py)    |           |
+|  4   | 1929  | 소수 구하기       | [문제주소](https://www.acmicpc.net/problem/1929)  | 🟧 실버 II    |    [JavaScript](./01XXX/1929-소수_구하기.js)    |    [Python3](./01XXX/1929-소수_구하기.py)    |           |
+|  7   | 1085  | 직사각형에서 탈출 | [문제주소](https://www.acmicpc.net/problem/1085)  | 🟫 브론즈 III | [JavaScript](./01XXX/1085-직사각형에서_탈출.js) | [Python3](./01XXX/1085-직사각형에서_탈출.py) |           |
+|  8   | 3009  | 네 번째 점        | [문제주소](https://www.acmicpc.net/problem/3009)  | 🟫 브론즈 III |    [JavaScript](./03XXX/3009-네_번째_점.js)     |    [Python3](./03XXX/3009-네_번째_점.py)     |           |
 
 ## [재귀](https://www.acmicpc.net/step/19)
 
@@ -109,3 +111,10 @@
 | :--: | :---: | :------------ | :-----------------------------------------------: | :------------ | :---------------------------------------------: | :------------------------------------------: | :-------- |
 |  1   | 10872 | 팩토리얼      | [문제주소](https://www.acmicpc.net/problem/10872) | 🟫 브론즈 III |     [JavaScript](./10XXX/10872-팩토리얼.js)     |     [Python3](./10XXX/10872-팩토리얼.py)     |           |
 |  2   | 10870 | 피보나치 수 5 | [문제주소](https://www.acmicpc.net/problem/10870) | 🟫 브론즈 II  | [JavaScript](<./10XXX/10870-피보나치_수(5).js>) | [Python3](<./10XXX/10870-피보나치_수(5).py>) |           |
+
+## [정렬](https://www.acmicpc.net/step/9)
+
+| 단계 | 번호 | 문제          |                     문제 URL                     | 난이도        |                   문제 풀이                    |                  문제 풀이                  | 문제 출처 |
+| :--: | :--: | :------------ | :----------------------------------------------: | :------------ | :--------------------------------------------: | :-----------------------------------------: | :-------- |
+|  1   | 2750 | 수 정렬하기   | [문제주소](https://www.acmicpc.net/problem/2750) | 🟫 브론즈 III |   [JavaScript](./02XXX/2750-수_정렬하기.js)    |   [Python3](./02XXX/2750-수_정렬하기.py)    |           |
+|  2   | 2751 | 수 정렬하기 2 | [문제주소](https://www.acmicpc.net/problem/2751) | 🟧 실버 V     | [JavaScript](<./02XXX/2751-수_정렬하기(2).js>) | [Python3](<./02XXX/2751-수_정렬하기(2).py>) |           |
