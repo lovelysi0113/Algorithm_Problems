@@ -63,6 +63,7 @@
 | 70128 | 내적                 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/70128) |         [JavaScript](./70128-내적.js)         |         [Python3](./70128-내적.py)         | 월간 코드 챌린지 시즌1         |
 | 72410 | 신규 아이디 추천     | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/72410) |   [JavaScript](./72410-신규_아이디_추천.js)   |   [Python3](./72410-신규_아이디_추천.py)   | 2021 KAKAO BLIND RECRUITMENT   |
 | 76501 | 음양 더하기          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/76501) |     [JavaScript](./76501-음양_더하기.js)      |     [Python3](./76501-음양_더하기.py)      | 월간 코드 챌린지 시즌2         |
+| 77884 | 약수의 개수와 덧셈   | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/77884) |  [JavaScript](./77884-약수의_개수와_덧셈.js)  |  [Python3](./77884-약수의_개수와_덧셈.py)  | 월간 코드 챌린지 시즌2         |
 
 ## SQL 문제
 
