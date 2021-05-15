@@ -104,6 +104,7 @@
 |  4   | 1929  | 소수 구하기       | [문제주소](https://www.acmicpc.net/problem/1929)  | 🟧 실버 II    |    [JavaScript](./01XXX/1929-소수_구하기.js)    |    [Python3](./01XXX/1929-소수_구하기.py)    |           |
 |  7   | 1085  | 직사각형에서 탈출 | [문제주소](https://www.acmicpc.net/problem/1085)  | 🟫 브론즈 III | [JavaScript](./01XXX/1085-직사각형에서_탈출.js) | [Python3](./01XXX/1085-직사각형에서_탈출.py) |           |
 |  8   | 3009  | 네 번째 점        | [문제주소](https://www.acmicpc.net/problem/3009)  | 🟫 브론즈 III |    [JavaScript](./03XXX/3009-네_번째_점.js)     |    [Python3](./03XXX/3009-네_번째_점.py)     |           |
+|  9   | 4153  | 직각삼각형        | [문제주소](https://www.acmicpc.net/problem/4153)  | 🟫 브론즈 III |    [JavaScript](./04XXX/4153-직각삼각형.js)     |    [Python3](./04XXX/4153-직각삼각형.py)     |           |
 
 ## [재귀](https://www.acmicpc.net/step/19)
 
