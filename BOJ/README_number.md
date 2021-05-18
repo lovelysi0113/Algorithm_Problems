@@ -28,6 +28,7 @@
 | 번호 | 문제                    |                     문제 URL                     | 난이도        |                       문제 풀이                       |                     문제 풀이                      | 문제 출처 |
 | :--: | :---------------------- | :----------------------------------------------: | :------------ | :---------------------------------------------------: | :------------------------------------------------: | :-------- |
 | 2292 | 벌집                    | [문제주소](https://www.acmicpc.net/problem/2292) | 🟫 브론즈 II  |          [JavaScript](./02XXX/2292-벌집.js)           |          [Python3](./02XXX/2292-벌집.py)           |           |
+| 2338 | 긴자리 계산             | [문제주소](https://www.acmicpc.net/problem/2338) | 🟫 브론즈 V   |       [JavaScript](./02XXX/2338-긴자리_계산.js)       |       [Python3](./02XXX/2338-긴자리_계산.py)       |           |
 | 2438 | 별 찍기 - 1             | [문제주소](https://www.acmicpc.net/problem/2438) | 🟫 브론즈 III |      [JavaScript](<./02XXX/2438-별_찍기(1).js>)       |      [Python3](<./02XXX/2438-별_찍기(1).py>)       |           |
 | 2439 | 별 찍기 - 2             | [문제주소](https://www.acmicpc.net/problem/2439) | 🟫 브론즈 III |      [JavaScript](<./02XXX/2439-별_찍기(2).js>)       |      [Python3](<./02XXX/2439-별_찍기(2).py>)       |           |
 | 2557 | Hello World             | [문제주소](https://www.acmicpc.net/problem/2557) | 🟫 브론즈 V   |       [JavaScript](./02XXX/2557-Hello_World.js)       |       [Python3](./02XXX/2557-Hello_World.py)       |           |
