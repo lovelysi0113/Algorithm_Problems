@@ -31,6 +31,7 @@
 | 2338 | 긴자리 계산             | [문제주소](https://www.acmicpc.net/problem/2338) | 🟫 브론즈 V   |       [JavaScript](./02XXX/2338-긴자리_계산.js)       |       [Python3](./02XXX/2338-긴자리_계산.py)       |           |
 | 2438 | 별 찍기 - 1             | [문제주소](https://www.acmicpc.net/problem/2438) | 🟫 브론즈 III |      [JavaScript](<./02XXX/2438-별_찍기(1).js>)       |      [Python3](<./02XXX/2438-별_찍기(1).py>)       |           |
 | 2439 | 별 찍기 - 2             | [문제주소](https://www.acmicpc.net/problem/2439) | 🟫 브론즈 III |      [JavaScript](<./02XXX/2439-별_찍기(2).js>)       |      [Python3](<./02XXX/2439-별_찍기(2).py>)       |           |
+| 2475 | 검증수                  | [문제주소](https://www.acmicpc.net/problem/2475) | 🟫 브론즈 V   |         [JavaScript](./02XXX/2475-검증수.js)          |         [Python3](./02XXX/2475-검증수.py)          |           |
 | 2557 | Hello World             | [문제주소](https://www.acmicpc.net/problem/2557) | 🟫 브론즈 V   |       [JavaScript](./02XXX/2557-Hello_World.js)       |       [Python3](./02XXX/2557-Hello_World.py)       |           |
 | 2562 | 최댓값                  | [문제주소](https://www.acmicpc.net/problem/2562) | 🟫 브론즈 II  |         [JavaScript](./02XXX/2562-최댓값.js)          |         [Python3](./02XXX/2562-최댓값.py)          |           |
 | 2577 | 숫자의 개수             | [문제주소](https://www.acmicpc.net/problem/2577) | 🟫 브론즈 II  |       [JavaScript](./02XXX/2577-숫자의_개수.js)       |       [Python3](./02XXX/2577-숫자의_개수.py)       |           |
