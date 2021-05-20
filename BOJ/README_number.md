@@ -33,6 +33,7 @@
 | 2439 | 별 찍기 - 2             | [문제주소](https://www.acmicpc.net/problem/2439) | 🟫 브론즈 III |      [JavaScript](<./02XXX/2439-별_찍기(2).js>)       |      [Python3](<./02XXX/2439-별_찍기(2).py>)       |           |
 | 2475 | 검증수                  | [문제주소](https://www.acmicpc.net/problem/2475) | 🟫 브론즈 V   |         [JavaScript](./02XXX/2475-검증수.js)          |         [Python3](./02XXX/2475-검증수.py)          |           |
 | 2557 | Hello World             | [문제주소](https://www.acmicpc.net/problem/2557) | 🟫 브론즈 V   |       [JavaScript](./02XXX/2557-Hello_World.js)       |       [Python3](./02XXX/2557-Hello_World.py)       |           |
+| 2558 | A+B - 2                 | [문제주소](https://www.acmicpc.net/problem/2558) | 🟫 브론즈 V   |        [JavaScript](<./02XXX/2558-A+B(2).js>)         |        [Python3](<./02XXX/2558-A+B(2).py>)         |           |
 | 2562 | 최댓값                  | [문제주소](https://www.acmicpc.net/problem/2562) | 🟫 브론즈 II  |         [JavaScript](./02XXX/2562-최댓값.js)          |         [Python3](./02XXX/2562-최댓값.py)          |           |
 | 2577 | 숫자의 개수             | [문제주소](https://www.acmicpc.net/problem/2577) | 🟫 브론즈 II  |       [JavaScript](./02XXX/2577-숫자의_개수.js)       |       [Python3](./02XXX/2577-숫자의_개수.py)       |           |
 | 2581 | 소수                    | [문제주소](https://www.acmicpc.net/problem/2581) | 🟧 실버 V     |          [JavaScript](./02XXX/2581-소수.js)           |          [Python3](./02XXX/2581-소수.py)           |           |
@@ -44,6 +45,7 @@
 | 2742 | 기찍 N                  | [문제주소](https://www.acmicpc.net/problem/2742) | 🟫 브론즈 III |         [JavaScript](./02XXX/2742-기찍_N.js)          |         [Python3](./02XXX/2742-기찍_N.py)          |           |
 | 2750 | 수 정렬하기             | [문제주소](https://www.acmicpc.net/problem/2750) | 🟫 브론즈 III |       [JavaScript](./02XXX/2750-수_정렬하기.js)       |       [Python3](./02XXX/2750-수_정렬하기.py)       |           |
 | 2751 | 수 정렬하기 2           | [문제주소](https://www.acmicpc.net/problem/2751) | 🟧 실버 V     |    [JavaScript](<./02XXX/2751-수_정렬하기(2).js>)     |    [Python3](<./02XXX/2751-수_정렬하기(2).py>)     |           |
+| 2752 | 세수정렬                | [문제주소](https://www.acmicpc.net/problem/2752) | 🟫 브론즈 IV  |        [JavaScript](./02XXX/2752-세수정렬.js)         |        [Python3](./02XXX/2752-세수정렬.py)         |           |
 | 2753 | 윤년                    | [문제주소](https://www.acmicpc.net/problem/2753) | 🟫 브론즈 IV  |          [JavaScript](./02XXX/2753-윤년.js)           |          [Python3](./02XXX/2753-윤년.py)           |           |
 | 2884 | 알람 시계               | [문제주소](https://www.acmicpc.net/problem/2884) | 🟫 브론즈 III |        [JavaScript](./02XXX/2884-알람_시계.js)        |        [Python3](./02XXX/2884-알람_시계.py)        |           |
 | 2908 | 상수                    |   [문제주소](https://www.acmicpc.net/problem/)   | 🟫 브론즈 II  |          [JavaScript](./02XXX/2908-상수.js)           |          [Python3](./02XXX/2908-상수.py)           |           |
@@ -55,6 +57,7 @@
 | 번호 | 문제       |                     문제 URL                     | 난이도        |                문제 풀이                 |               문제 풀이               | 문제 출처 |
 | :--: | :--------- | :----------------------------------------------: | :------------ | :--------------------------------------: | :-----------------------------------: | :-------- |
 | 3009 | 네 번째 점 | [문제주소](https://www.acmicpc.net/problem/3009) | 🟫 브론즈 III | [JavaScript](./03XXX/3009-네_번째_점.js) | [Python3](./03XXX/3009-네_번째_점.py) |           |
+| 3046 | R2         | [문제주소](https://www.acmicpc.net/problem/3046) | 🟫 브론즈 V   |     [JavaScript](./03XXX/3046-R2.js)     |     [Python3](./03XXX/3046-R2.py)     |           |
 | 3052 | 나머지     | [문제주소](https://www.acmicpc.net/problem/3052) | 🟫 브론즈 II  |   [JavaScript](./03XXX/3052-나머지.js)   |   [Python3](./03XXX/3052-나머지.py)   |           |
 
 ## 04XXX
