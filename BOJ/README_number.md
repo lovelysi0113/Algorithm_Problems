@@ -97,8 +97,10 @@
 | 10171 | 고양이        | [문제주소](https://www.acmicpc.net/problem/10171) | 🟫 브론즈 V   |      [JavaScript](./10XXX/10171-고양이.js)      |      [Python3](./10XXX/10171-고양이.py)      |           |
 | 10172 | 개            | [문제주소](https://www.acmicpc.net/problem/10172) | 🟫 브론즈 V   |        [JavaScript](./10XXX/10172-개.js)        |        [Python3](./10XXX/10172-개.py)        |           |
 | 10430 | 나머지        | [문제주소](https://www.acmicpc.net/problem/10430) | 🟫 브론즈 V   |      [JavaScript](./10XXX/10430-나머지.js)      |      [Python3](./10XXX/10430-나머지.py)      |           |
+| 10707 | 수도요금      | [문제주소](https://www.acmicpc.net/problem/10707) | 🟫 브론즈 IV  |     [JavaScript](./10XXX/10707-수도요금.js)     |     [Python3](./10XXX/10707-수도요금.py)     |           |
 | 10718 | We love kriii | [문제주소](https://www.acmicpc.net/problem/10718) | 🟫 브론즈 V   |  [JavaScript](./10XXX/10718-We_love_kriii.js)   |  [Python3](./10XXX/10718-We_love_kriii.py)   |           |
 | 10757 | 큰 수 A+B     | [문제주소](https://www.acmicpc.net/problem/10757) | 🟫 브론즈 V   |    [JavaScript](./10XXX/10757-큰_수_A+B.js)     |    [Python3](./10XXX/10757-큰_수_A+B.py)     |           |
+| 10797 | 10부제        | [문제주소](https://www.acmicpc.net/problem/10797) | 🟫 브론즈 IV  |      [JavaScript](./10XXX/10797-10부제.js)      |      [Python3](./10XXX/10797-10부제.py)      |           |
 | 10809 | 알파벳 찾기   | [문제주소](https://www.acmicpc.net/problem/10809) | 🟫 브론즈 II  |   [JavaScript](./10XXX/10809-알파벳_찾기.js)    |   [Python3](./10XXX/10809-알파벳_찾기.py)    |           |
 | 10818 | 최소, 최대    | [문제주소](https://www.acmicpc.net/problem/10818) | 🟫 브론즈 III |    [JavaScript](./10XXX/10818-최소_최대.js)     |    [Python3](./10XXX/10818-최소_최대.py)     |           |
 | 10869 | 사칙연산      | [문제주소](https://www.acmicpc.net/problem/10869) | 🟫 브론즈 V   |     [JavaScript](./10XXX/10869-사칙연산.js)     |     [Python3](./10XXX/10869-사칙연산.py)     |           |
@@ -119,6 +121,7 @@
 | 11653 | 소인수분해  | [문제주소](https://www.acmicpc.net/problem/11653) | 🟧 실버 IV    | [JavaScript](./11XXX/11653-소인수분해.js)  | [Python3](./11XXX/11653-소인수분해.py)  |           |
 | 11654 | 아스키 코드 | [문제주소](https://www.acmicpc.net/problem/11654) | 🟫 브론즈 V   | [JavaScript](./11XXX/11654-아스키_코드.js) | [Python3](./11XXX/11654-아스키_코드.py) |           |
 | 11720 | 숫자의 합   | [문제주소](https://www.acmicpc.net/problem/11720) | 🟫 브론즈 II  |  [JavaScript](./11XXX/11720-숫자의_합.js)  |  [Python3](./11XXX/11720-숫자의_합.py)  |           |
+| 11948 | 과목선택    | [문제주소](https://www.acmicpc.net/problem/11948) | 🟫 브론즈 IV  |  [JavaScript](./11XXX/11948-과목선택.js)   |  [Python3](./11XXX/11948-과목선택.py)   |           |
 
 ## 14XXX
 
