@@ -130,3 +130,11 @@
 |  3   | 2609 | 최대공약수와 최소공배수 | [문제주소](https://www.acmicpc.net/problem/2609) | 🟧 실버 V     | [JavaScript](./02XXX/2609-최대공약수와_최소공배수.js) | [Python3](./02XXX/2609-최대공약수와_최소공배수.py) |           |
 |  4   | 1934 | 최소공배수              | [문제주소](https://www.acmicpc.net/problem/1934) | 🟧 실버 V     |       [JavaScript](./01XXX/1934-최소공배수.js)        |       [Python3](./01XXX/1934-최소공배수.py)        |           |
 |  5   | 2981 | 검문                    | [문제주소](https://www.acmicpc.net/problem/2981) | 🟧 실버 I     |          [JavaScript](./02XXX/2981-검문.js)           |          [Python3](./02XXX/2981-검문.py)           |           |
+
+## [스택](https://www.acmicpc.net/step/11)
+
+| 단계 | 번호  | 문제 |                     문제 URL                      | 난이도     |              문제 풀이              |            문제 풀이             | 문제 출처 |
+| :--: | :---: | :--- | :-----------------------------------------------: | :--------- | :---------------------------------: | :------------------------------: | :-------- |
+|  1   | 10828 | 스택 | [문제주소](https://www.acmicpc.net/problem/10828) | 🟧 실버 IV | [JavaScript](./10XXX/10828-스택.js) | [Python3](./10XXX/10828-스택.py) |           |
+|  2   | 10773 | 제로 | [문제주소](https://www.acmicpc.net/problem/10773) | 🟧 실버 IV | [JavaScript](./10XXX/10773-제로.js) | [Python3](./10XXX/10773-제로.py) |           |
+|  3   | 9012  | 괄호 | [문제주소](https://www.acmicpc.net/problem/9012)  | 🟧 실버 IV | [JavaScript](./09XXX/9012-괄호.js)  | [Python3](./09XXX/9012-괄호.py)  |           |
