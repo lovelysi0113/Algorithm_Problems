@@ -47,6 +47,7 @@
 | 2751 | 수 정렬하기 2           | [문제주소](https://www.acmicpc.net/problem/2751) | 🟧 실버 V     |    [JavaScript](<./02XXX/2751-수_정렬하기(2).js>)     |    [Python3](<./02XXX/2751-수_정렬하기(2).py>)     |           |
 | 2752 | 세수정렬                | [문제주소](https://www.acmicpc.net/problem/2752) | 🟫 브론즈 IV  |        [JavaScript](./02XXX/2752-세수정렬.js)         |        [Python3](./02XXX/2752-세수정렬.py)         |           |
 | 2753 | 윤년                    | [문제주소](https://www.acmicpc.net/problem/2753) | 🟫 브론즈 IV  |          [JavaScript](./02XXX/2753-윤년.js)           |          [Python3](./02XXX/2753-윤년.py)           |           |
+| 2845 | 파티가 끝나고 난 뒤     | [문제주소](https://www.acmicpc.net/problem/2845) | 🟫 브론즈 V   |   [JavaScript](./02XXX/2845-파티가_끝나고_난_뒤.js)   |   [Python3](./02XXX/2845-파티가_끝나고_난_뒤.py)   |           |
 | 2884 | 알람 시계               | [문제주소](https://www.acmicpc.net/problem/2884) | 🟫 브론즈 III |        [JavaScript](./02XXX/2884-알람_시계.js)        |        [Python3](./02XXX/2884-알람_시계.py)        |           |
 | 2908 | 상수                    |   [문제주소](https://www.acmicpc.net/problem/)   | 🟫 브론즈 II  |          [JavaScript](./02XXX/2908-상수.js)           |          [Python3](./02XXX/2908-상수.py)           |           |
 | 2941 | 크로아티아 알파벳       | [문제주소](https://www.acmicpc.net/problem/2941) | 🟧 실버 V     |    [JavaScript](./02XXX/2941-크로아티아_알파벳.js)    |    [Python3](./02XXX/2941-크로아티아_알파벳.py)    |           |
