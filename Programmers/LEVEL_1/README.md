@@ -49,21 +49,22 @@
 
 ## 42XXX~
 
-| 번호  | 문제                 |                               문제 URL                               |                   문제 풀이                   |                 문제 풀이                  | 문제 출처                      |
-| :---: | :------------------- | :------------------------------------------------------------------: | :-------------------------------------------: | :----------------------------------------: | :----------------------------- |
-| 42576 | 완주하지 못한 선수   | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42576) |  [JavaScript](./42576-완주하지_못한_선수.js)  |  [Python3](./42576-완주하지_못한_선수.py)  |
-| 42748 | K번째수              | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42748) |       [JavaScript](./42748-K번째수.js)        |       [Python3](./42748-K번째수.py)        |
-| 42840 | 모의고사             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42840) |       [JavaScript](./42840-모의고사.js)       |       [Python3](./42840-모의고사.py)       |
-| 42862 | 체육복               | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42862) |        [JavaScript](./42862-체육복.js)        |        [Python3](./42862-체육복.py)        |                                |
-| 42889 | 실패율               | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42889) |        [JavaScript](./42889-실패율.js)        |        [Python3](./42889-실패율.py)        | 2019 KAKAO BLIND RECRUITMENT   |
-| 64061 | 크레인 인형뽑기 게임 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/64061) | [JavaScript](./64061-크레인_인형뽑기_게임.js) | [Python3](./64061-크레인_인형뽑기_게임.py) | 2019 카카오 개발자 겨울 인턴십 |
-| 67256 | 키패드 누르기        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/67256) |    [JavaScript](./67256-키패드_누르기.js)     |    [Python3](./67256-키패드_누르기.py)     | 2020 카카오 인턴십             |
-| 68644 | 두 개 뽑아서 더하기  | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/68644) | [JavaScript](./68644-두_개_뽑아서_더하기.js)  | [Python3](./68644-두_개_뽑아서_더하기.py)  | 월간 코드 챌린지 시즌1         |
-| 68935 | 3진법 뒤집기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/68935) |     [JavaScript](./68935-3진법_뒤집기.js)     |     [Python3](./68935-3진법_뒤집기.py)     | 월간 코드 챌린지 시즌1         |
-| 70128 | 내적                 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/70128) |         [JavaScript](./70128-내적.js)         |         [Python3](./70128-내적.py)         | 월간 코드 챌린지 시즌1         |
-| 72410 | 신규 아이디 추천     | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/72410) |   [JavaScript](./72410-신규_아이디_추천.js)   |   [Python3](./72410-신규_아이디_추천.py)   | 2021 KAKAO BLIND RECRUITMENT   |
-| 76501 | 음양 더하기          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/76501) |     [JavaScript](./76501-음양_더하기.js)      |     [Python3](./76501-음양_더하기.py)      | 월간 코드 챌린지 시즌2         |
-| 77884 | 약수의 개수와 덧셈   | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/77884) |  [JavaScript](./77884-약수의_개수와_덧셈.js)  |  [Python3](./77884-약수의_개수와_덧셈.py)  | 월간 코드 챌린지 시즌2         |
+| 번호  | 문제                         |                               문제 URL                               |                       문제 풀이                       |                     문제 풀이                      | 문제 출처                                   |
+| :---: | :--------------------------- | :------------------------------------------------------------------: | :---------------------------------------------------: | :------------------------------------------------: | :------------------------------------------ |
+| 42576 | 완주하지 못한 선수           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42576) |      [JavaScript](./42576-완주하지_못한_선수.js)      |      [Python3](./42576-완주하지_못한_선수.py)      |
+| 42748 | K번째수                      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42748) |           [JavaScript](./42748-K번째수.js)            |           [Python3](./42748-K번째수.py)            |
+| 42840 | 모의고사                     | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42840) |           [JavaScript](./42840-모의고사.js)           |           [Python3](./42840-모의고사.py)           |
+| 42862 | 체육복                       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42862) |            [JavaScript](./42862-체육복.js)            |            [Python3](./42862-체육복.py)            |                                             |
+| 42889 | 실패율                       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42889) |            [JavaScript](./42889-실패율.js)            |            [Python3](./42889-실패율.py)            | 2019 KAKAO BLIND RECRUITMENT                |
+| 64061 | 크레인 인형뽑기 게임         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/64061) |     [JavaScript](./64061-크레인_인형뽑기_게임.js)     |     [Python3](./64061-크레인_인형뽑기_게임.py)     | 2019 카카오 개발자 겨울 인턴십              |
+| 67256 | 키패드 누르기                | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/67256) |        [JavaScript](./67256-키패드_누르기.js)         |        [Python3](./67256-키패드_누르기.py)         | 2020 카카오 인턴십                          |
+| 68644 | 두 개 뽑아서 더하기          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/68644) |     [JavaScript](./68644-두_개_뽑아서_더하기.js)      |     [Python3](./68644-두_개_뽑아서_더하기.py)      | 월간 코드 챌린지 시즌1                      |
+| 68935 | 3진법 뒤집기                 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/68935) |         [JavaScript](./68935-3진법_뒤집기.js)         |         [Python3](./68935-3진법_뒤집기.py)         | 월간 코드 챌린지 시즌1                      |
+| 70128 | 내적                         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/70128) |             [JavaScript](./70128-내적.js)             |             [Python3](./70128-내적.py)             | 월간 코드 챌린지 시즌1                      |
+| 72410 | 신규 아이디 추천             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/72410) |       [JavaScript](./72410-신규_아이디_추천.js)       |       [Python3](./72410-신규_아이디_추천.py)       | 2021 KAKAO BLIND RECRUITMENT                |
+| 76501 | 음양 더하기                  | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/76501) |         [JavaScript](./76501-음양_더하기.js)          |         [Python3](./76501-음양_더하기.py)          | 월간 코드 챌린지 시즌2                      |
+| 77484 | 로또의 최고 순위와 최저 순위 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/77484) | [JavaScript](./77484-로또의_최고_순위와_최저_순위.js) | [Python3](./77484-로또의_최고_순위와_최저_순위.py) | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) |
+| 77884 | 약수의 개수와 덧셈           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/77884) |      [JavaScript](./77884-약수의_개수와_덧셈.js)      |      [Python3](./77884-약수의_개수와_덧셈.py)      | 월간 코드 챌린지 시즌2                      |
 
 ## SQL 문제
 
