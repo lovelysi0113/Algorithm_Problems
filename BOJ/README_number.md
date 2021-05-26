@@ -19,6 +19,7 @@
 | 1330 | 두 수 비교하기    | [문제주소](https://www.acmicpc.net/problem/1330) | 🟫 브론즈 IV  |  [JavaScript](./01XXX/1330-두_수_비교하기.js)   |  [Python3](./01XXX/1330-두_수_비교하기.py)   |           |
 | 1546 | 평균              | [문제주소](https://www.acmicpc.net/problem/1546) | 🟫 브론즈 I   |       [JavaScript](./01XXX/1546-평균.js)        |       [Python3](./01XXX/1546-평균.py)        |           |
 | 1712 | 손익분기점        | [문제주소](https://www.acmicpc.net/problem/1712) | 🟫 브론즈 IV  |    [JavaScript](./01XXX/1712-손익분기점.js)     |    [Python3](./01XXX/1712-손익분기점.py)     |           |
+| 1874 | 스택 수열         | [문제주소](https://www.acmicpc.net/problem/1874) | 🟧 실버 III   |     [JavaScript](./01XXX/1874-스택_수열.js)     |     [Python3](./01XXX/1874-스택_수열.py)     |           |
 | 1929 | 소수 구하기       | [문제주소](https://www.acmicpc.net/problem/1929) | 🟧 실버 II    |    [JavaScript](./01XXX/1929-소수_구하기.js)    |    [Python3](./01XXX/1929-소수_구하기.py)    |           |
 | 1934 | 최소공배수        | [문제주소](https://www.acmicpc.net/problem/1934) | 🟧 실버 V     |    [JavaScript](./01XXX/1934-최소공배수.js)     |    [Python3](./01XXX/1934-최소공배수.py)     |           |
 | 1978 | 소수 찾기         | [문제주소](https://www.acmicpc.net/problem/1978) | 🟧 실버 IV    |     [JavaScript](./01XXX/1978-소수_찾기.js)     |     [Python3](./01XXX/1978-소수_찾기.py)     |           |
@@ -68,6 +69,7 @@
 | 4153 | 직각삼각형    | [문제주소](https://www.acmicpc.net/problem/4153) | 🟫 브론즈 III |  [JavaScript](./04XXX/4153-직각삼각형.js)   |  [Python3](./04XXX/4153-직각삼각형.py)   |           |
 | 4344 | 평균은 넘겠지 | [문제주소](https://www.acmicpc.net/problem/4344) | 🟫 브론즈 I   | [JavaScript](./04XXX/4344-평균은_넘겠지.js) | [Python3](./04XXX/4344-평균은_넘겠지.py) |           |
 | 4673 | 셀프 넘버     | [문제주소](https://www.acmicpc.net/problem/4673) | 🟧 실버 V     |   [JavaScript](./04XXX/4673-셀프_넘버.js)   |   [Python3](./04XXX/4673-셀프_넘버.py)   |           |
+| 4949 | 균형잡힌 세상 | [문제주소](https://www.acmicpc.net/problem/4949) | 🟧 실버 IV    | [JavaScript](./04XXX/4949-균형잡힌_세상.js) | [Python3](./04XXX/4949-균형잡힌_세상.py) |           |
 
 ## 05XXX
 
