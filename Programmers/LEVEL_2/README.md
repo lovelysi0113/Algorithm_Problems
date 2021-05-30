@@ -29,6 +29,7 @@
 | :---: | :------------------- | :------------------------------------------------------------------: | :-------------------------------------------: | :----------------------------------------: | :----------------------------- |
 | 42578 | 위장                 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42578) |         [JavaScript](./42578-위장.js)         |         [Python3](./42578-위장.py)         |                                |
 | 42586 | 기능개발             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42586) |       [JavaScript](./42586-기능개발.js)       |       [Python3](./42586-기능개발.py)       |                                |
+| 42626 | 더 맵게           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42626) |     지원 X       |      [Python3](./42626-더_맵게.py)      |               힙(Heap)                 |
 | 42746 | 가장 큰 수           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42746) |      [JavaScript](./42746-가장_큰_수.js)      |      [Python3](./42746-가장_큰_수.py)      |                                |
 | 42747 | H-Index              | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42747) |       [JavaScript](./42747-H-Index.js)        |       [Python3](./42747-H-Index.py)        |                                |
 | 42842 | 카펫                 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42842) |         [JavaScript](./42842-카펫.js)         |         [Python3](./42842-카펫.py)         |                                |
