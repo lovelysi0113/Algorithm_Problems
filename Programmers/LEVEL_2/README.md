@@ -22,6 +22,7 @@
 | 12945 | 피보나치 수             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12945) |       [JavaScript](./12945-피보나치_수.js)       |       [Python3](./12945-피보나치_수.py)       |                             |
 | 12949 | 행렬의 곱셈             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12949) |       [JavaScript](./12949-행렬의_곱셈.js)       |       [Python3](./12949-행렬의_곱셈.py)       |                             |
 | 12951 | JadenCase 문자열 만들기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12951) | [JavaScript](./12951-JadenCase_문자열_만들기.js) | [Python3](./12951-JadenCase_문자열_만들기.py) |                             |
+| 12973 | 짝지어 제거하기    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12973) |      [JavaScript](./12973-짝지어_제거하기.js)      |      [Python3](./12973-짝지어_제거하기.py)      |  2017 팁스타운 |
 | 12981 | 영어 끝말잇기           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12981) |      [JavaScript](./12981-영어_끝말잇기.js)      |      [Python3](./12981-영어_끝말잇기.py)      | Summer/Winter Coding(~2018) |
 
 ## 42XXX~
