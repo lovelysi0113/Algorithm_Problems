@@ -22,7 +22,7 @@
 | 12945 | 피보나치 수             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12945) |       [JavaScript](./12945-피보나치_수.js)       |       [Python3](./12945-피보나치_수.py)       |                             |
 | 12949 | 행렬의 곱셈             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12949) |       [JavaScript](./12949-행렬의_곱셈.js)       |       [Python3](./12949-행렬의_곱셈.py)       |                             |
 | 12951 | JadenCase 문자열 만들기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12951) | [JavaScript](./12951-JadenCase_문자열_만들기.js) | [Python3](./12951-JadenCase_문자열_만들기.py) |                             |
-| 12973 | 짝지어 제거하기    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12973) |      [JavaScript](./12973-짝지어_제거하기.js)      |      [Python3](./12973-짝지어_제거하기.py)      |  2017 팁스타운 |
+| 12973 | 짝지어 제거하기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12973) |     [JavaScript](./12973-짝지어_제거하기.js)     |     [Python3](./12973-짝지어_제거하기.py)     | 2017 팁스타운               |
 | 12981 | 영어 끝말잇기           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12981) |      [JavaScript](./12981-영어_끝말잇기.js)      |      [Python3](./12981-영어_끝말잇기.py)      | Summer/Winter Coding(~2018) |
 
 ## 42XXX~
@@ -37,6 +37,8 @@
 | 42746 | 가장 큰 수           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42746) |      [JavaScript](./42746-가장_큰_수.js)      |      [Python3](./42746-가장_큰_수.py)      |                                |
 | 42747 | H-Index              | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42747) |       [JavaScript](./42747-H-Index.js)        |       [Python3](./42747-H-Index.py)        |                                |
 | 42842 | 카펫                 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42842) |         [JavaScript](./42842-카펫.js)         |         [Python3](./42842-카펫.py)         |                                |
+| 42888 | 오픈채팅방           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42888) |      [JavaScript](./42888-오픈채팅방.js)      |      [Python3](./42888-오픈채팅방.py)      | 2019 KAKAO BLIND RECRUITMENT   |
+| 43165 | 타겟 넘버            | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/43165) |      [JavaScript](./43165-타겟_넘버.js)       |      [Python3](./43165-타겟_넘버.py)       | 깊이/너비 우선 탐색(DFS/BFS)   |
 | 49993 | 스킬트리             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/49993) |       [JavaScript](./49993-스킬트리.js)       |       [Python3](./49993-스킬트리.py)       | Summer/Winter Coding(~2018)    |
 | 49994 | 방문 길이            | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/49994) |      [JavaScript](./49994-방문_길이.js)       |      [Python3](./49994-방문_길이.py)       | Summer/Winter Coding(~2018)    |
 | 60057 | 문자열 압축          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/60057) |     [JavaScript](./60057-문자열_압축.js)      |     [Python3](./60057-문자열_압축.py)      | 2020 KAKAO BLIND RECRUITMENT   |
