@@ -45,6 +45,7 @@
 | 60058 | 괄호 변환            | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/60058) |      [JavaScript](./60058-괄호_변환.js)       |      [Python3](./60058-괄호_변환.py)       | 2020 KAKAO BLIND RECRUITMENT   |
 | 62048 | 멀쩡한 사각형        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/62048) |    [JavaScript](./62048-멀쩡한_사각형.js)     |    [Python3](./62048-멀쩡한_사각형.py)     | Summer/Winter Coding(2019)     |
 | 64065 | 튜플                 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/64065) |         [JavaScript](./64065-튜플.js)         |         [Python3](./64065-튜플.py)         | 2019 카카오 개발자 겨울 인턴십 |
+| 67257 | 수식 최대화          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/67257) |     [JavaScript](./67257-수식_최대화.js)      |     [Python3](./67257-수식_최대화.py)      | 2020 카카오 인턴십             |
 | 72411 | 메뉴 리뉴얼          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/72411) |     [JavaScript](./72411-메뉴_리뉴얼.js)      |     [Python3](./72411-메뉴_리뉴얼.py)      | 2021 KAKAO BLIND RECRUITMENT   |
 | 76502 | 괄호 회전하기        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/76502) |    [JavaScript](./76502-괄호_회전하기.js)     |    [Python3](./76502-괄호_회전하기.py)     | 월간 코드 챌린지 시즌2         |
 | 77885 | 2개 이하로 다른 비트 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/77885) | [JavaScript](./77885-2개_이하로_다른_비트.js) | [Python3](./77885-2개_이하로_다른_비트.py) | 월간 코드 챌린지 시즌2         |
