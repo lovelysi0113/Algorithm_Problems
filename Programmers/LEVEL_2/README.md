@@ -38,6 +38,7 @@
 | 42746 | 가장 큰 수           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42746) |      [JavaScript](./42746-가장_큰_수.js)      |      [Python3](./42746-가장_큰_수.py)      |                                |
 | 42747 | H-Index              | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42747) |       [JavaScript](./42747-H-Index.js)        |       [Python3](./42747-H-Index.py)        |                                |
 | 42842 | 카펫                 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42842) |         [JavaScript](./42842-카펫.js)         |         [Python3](./42842-카펫.py)         |                                |
+| 42883 | 큰 수 만들기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42883) |     [JavaScript](./42883-큰_수_만들기.js)     |     [Python3](./42883-큰_수_만들기.py)     | 탐욕법(Greedy)                 |
 | 42885 | 구명보트             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42885) |       [JavaScript](./42885-구명보트.js)       |       [Python3](./42885-구명보트.py)       | 탐욕법(Greedy)                 |
 | 42888 | 오픈채팅방           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42888) |      [JavaScript](./42888-오픈채팅방.js)      |      [Python3](./42888-오픈채팅방.py)      | 2019 KAKAO BLIND RECRUITMENT   |
 | 43165 | 타겟 넘버            | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/43165) |      [JavaScript](./43165-타겟_넘버.js)       |      [Python3](./43165-타겟_넘버.py)       | 깊이/너비 우선 탐색(DFS/BFS)   |
