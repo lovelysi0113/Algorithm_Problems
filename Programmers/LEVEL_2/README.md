@@ -26,6 +26,7 @@
 | 12973 | 짝지어 제거하기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12973) |     [JavaScript](./12973-짝지어_제거하기.js)     |     [Python3](./12973-짝지어_제거하기.py)     | 2017 팁스타운                |
 | 12980 | 점프와 순간 이동        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12980) |    [JavaScript](./12980-점프와_순간_이동.js)     |    [Python3](./12980-점프와_순간_이동.py)     | Summer/Winter Coding(~2018)  |
 | 12981 | 영어 끝말잇기           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12981) |      [JavaScript](./12981-영어_끝말잇기.js)      |      [Python3](./12981-영어_끝말잇기.py)      | Summer/Winter Coding(~2018)  |
+| 12985 | 예상 대진표             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12985) |       [JavaScript](./12985-예상_대진표.js)       |       [Python3](./12985-예상_대진표.py)       | 2017 팁스타운                |
 | 17680 | 캐시                    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/17680) |          [JavaScript](./17680-캐시.js)           |          [Python3](./17680-캐시.py)           | 2018 KAKAO BLIND RECRUITMENT |
 | 17687 | n진수 게임              | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/17687) |       [JavaScript](./17687-n진수_게임.js)        |       [Python3](./17687-n진수_게임.py)        | 2018 KAKAO BLIND RECRUITMENT |
 
@@ -40,6 +41,7 @@
 | 42626 | 더 맵게              | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42626) |                    지원 X                     |       [Python3](./42626-더_맵게.py)        | 힙(Heap)                       |
 | 42746 | 가장 큰 수           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42746) |      [JavaScript](./42746-가장_큰_수.js)      |      [Python3](./42746-가장_큰_수.py)      |                                |
 | 42747 | H-Index              | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42747) |       [JavaScript](./42747-H-Index.js)        |       [Python3](./42747-H-Index.py)        |                                |
+| 42839 | 소수 찾기            | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42839) |      [JavaScript](./42839-소수_찾기.js)       |      [Python3](./42839-소수_찾기.py)       | 완전탐색                       |
 | 42842 | 카펫                 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42842) |         [JavaScript](./42842-카펫.js)         |         [Python3](./42842-카펫.py)         |                                |
 | 42883 | 큰 수 만들기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42883) |     [JavaScript](./42883-큰_수_만들기.js)     |     [Python3](./42883-큰_수_만들기.py)     | 탐욕법(Greedy)                 |
 | 42885 | 구명보트             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42885) |       [JavaScript](./42885-구명보트.js)       |       [Python3](./42885-구명보트.py)       | 탐욕법(Greedy)                 |
