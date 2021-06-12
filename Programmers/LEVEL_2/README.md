@@ -36,8 +36,10 @@
 | :---: | :------------------- | :------------------------------------------------------------------: | :-------------------------------------------: | :----------------------------------------: | :----------------------------- |
 | 42577 | 전화번호 목록        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42577) |                    지원 X                     |    [Python3](./42577-전화번호_목록.py)     | 해시                           |
 | 42578 | 위장                 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42578) |         [JavaScript](./42578-위장.js)         |         [Python3](./42578-위장.py)         |                                |
+| 42583 | 다리를 지나는 트럭   | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42583) |  [JavaScript](./42583-다리를_지나는_트럭.js)  |              [Python3](./py)               | 스택/큐                        |
 | 42584 | 주식가격             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42584) |                    지원 X                     |       [Python3](./42584-주식가격.py)       | 스택/큐                        |
 | 42586 | 기능개발             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42586) |       [JavaScript](./42586-기능개발.js)       |       [Python3](./42586-기능개발.py)       |                                |
+| 42587 | 프린터               | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42587) |        [JavaScript](./42587-프린터.js)        |        [Python3](./42587-프린터.py)        | 스택/큐                        |
 | 42626 | 더 맵게              | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42626) |                    지원 X                     |       [Python3](./42626-더_맵게.py)        | 힙(Heap)                       |
 | 42746 | 가장 큰 수           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42746) |      [JavaScript](./42746-가장_큰_수.js)      |      [Python3](./42746-가장_큰_수.py)      |                                |
 | 42747 | H-Index              | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42747) |       [JavaScript](./42747-H-Index.js)        |       [Python3](./42747-H-Index.py)        |                                |
