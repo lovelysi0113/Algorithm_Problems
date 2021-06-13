@@ -16,6 +16,7 @@
 | 1110 | 더하기 사이클     | [문제주소](https://www.acmicpc.net/problem/1110) | 🟫 브론즈 I   |   [JavaScript](./01XXX/1110-더하기_사이클.js)   |   [Python3](./01XXX/1110-더하기_사이클.py)   |           |
 | 1152 | 단어의 개수       | [문제주소](https://www.acmicpc.net/problem/1152) | 🟫 브론즈 II  |    [JavaScript](./01XXX/1152-단어의_개수.js)    |    [Python3](./01XXX/1152-단어의_개수.py)    |           |
 | 1157 | 단어 공부         | [문제주소](https://www.acmicpc.net/problem/1157) | 🟫 브론즈 I   |     [JavaScript](./01XXX/1157-단어_공부.js)     |     [Python3](./01XXX/1157-단어_공부.py)     |           |
+| 1260 | DFS와 BFS         | [문제주소](https://www.acmicpc.net/problem/1260) | 🟧 실버 V     |     [JavaScript](./01XXX/1260-DFS와_BFS.js)     |     [Python3](./01XXX/1260-DFS와_BFS.py)     |           |
 | 1297 | TV 크기           | [문제주소](https://www.acmicpc.net/problem/1297) | 🟫 브론즈 IV  |      [JavaScript](./01XXX/1297-TV_크기.js)      |      [Python3](./01XXX/1297-TV_크기.py)      |           |
 | 1316 | 그룹 단어 체커    | [문제주소](https://www.acmicpc.net/problem/1316) | 🟧 실버 V     |  [JavaScript](./01XXX/1316-그룹_단어_체커.js)   |  [Python3](./01XXX/1316-그룹_단어_체커.py)   |           |
 | 1330 | 두 수 비교하기    | [문제주소](https://www.acmicpc.net/problem/1330) | 🟫 브론즈 IV  |  [JavaScript](./01XXX/1330-두_수_비교하기.js)   |  [Python3](./01XXX/1330-두_수_비교하기.py)   |           |
@@ -30,6 +31,7 @@
 
 | 번호 | 문제                    |                     문제 URL                     | 난이도        |                       문제 풀이                       |                     문제 풀이                      | 문제 출처 |
 | :--: | :---------------------- | :----------------------------------------------: | :------------ | :---------------------------------------------------: | :------------------------------------------------: | :-------- |
+| 2164 | 카드2                   | [문제주소](https://www.acmicpc.net/problem/2164) | 🟧 실버 IV    |        [JavaScript](<./02XXX/2164-카드(2).js>)        |        [Python3](<./02XXX/2164-카드(2).py>)        |           |
 | 2292 | 벌집                    | [문제주소](https://www.acmicpc.net/problem/2292) | 🟫 브론즈 II  |          [JavaScript](./02XXX/2292-벌집.js)           |          [Python3](./02XXX/2292-벌집.py)           |           |
 | 2338 | 긴자리 계산             | [문제주소](https://www.acmicpc.net/problem/2338) | 🟫 브론즈 V   |       [JavaScript](./02XXX/2338-긴자리_계산.js)       |       [Python3](./02XXX/2338-긴자리_계산.py)       |           |
 | 2438 | 별 찍기 - 1             | [문제주소](https://www.acmicpc.net/problem/2438) | 🟫 브론즈 III |      [JavaScript](<./02XXX/2438-별_찍기(1).js>)       |      [Python3](<./02XXX/2438-별_찍기(1).py>)       |           |
@@ -41,6 +43,7 @@
 | 2577 | 숫자의 개수             | [문제주소](https://www.acmicpc.net/problem/2577) | 🟫 브론즈 II  |       [JavaScript](./02XXX/2577-숫자의_개수.js)       |       [Python3](./02XXX/2577-숫자의_개수.py)       |           |
 | 2581 | 소수                    | [문제주소](https://www.acmicpc.net/problem/2581) | 🟧 실버 V     |          [JavaScript](./02XXX/2581-소수.js)           |          [Python3](./02XXX/2581-소수.py)           |           |
 | 2588 | 곱셈                    | [문제주소](https://www.acmicpc.net/problem/2588) | 🟫 브론즈 IV  |          [JavaScript](./02XXX/2588-곱셈.js)           |          [Python3](./02XXX/2588-곱셈.py)           |           |
+| 2606 | 바이러스                | [문제주소](https://www.acmicpc.net/problem/2606) | 🟧 실버 III   |        [JavaScript](./02XXX/2606-바이러스.js)         |        [Python3](./02XXX/2606-바이러스.py)         |           |
 | 2609 | 최대공약수와 최소공배수 | [문제주소](https://www.acmicpc.net/problem/2609) | 🟧 실버 V     | [JavaScript](./02XXX/2609-최대공약수와_최소공배수.js) | [Python3](./02XXX/2609-최대공약수와_최소공배수.py) |           |
 | 2675 | 문자열 반복             | [문제주소](https://www.acmicpc.net/problem/2675) | 🟫 브론즈 II  |       [JavaScript](./02XXX/2675-문자열_반복.js)       |       [Python3](./02XXX/2675-문자열_반복.py)       |           |
 | 2739 | 구구단                  | [문제주소](https://www.acmicpc.net/problem/2739) | 🟫 브론즈 III |         [JavaScript](./02XXX/2739-구구단.js)          |         [Python3](./02XXX/2739-구구단.py)          |           |
