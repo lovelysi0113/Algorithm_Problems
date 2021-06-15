@@ -49,7 +49,6 @@
 | 42883 | 큰 수 만들기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42883) |     [JavaScript](./42883-큰_수_만들기.js)     |     [Python3](./42883-큰_수_만들기.py)     | 탐욕법(Greedy)                 |
 | 42885 | 구명보트             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42885) |       [JavaScript](./42885-구명보트.js)       |       [Python3](./42885-구명보트.py)       | 탐욕법(Greedy)                 |
 | 42888 | 오픈채팅방           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42888) |      [JavaScript](./42888-오픈채팅방.js)      |      [Python3](./42888-오픈채팅방.py)      | 2019 KAKAO BLIND RECRUITMENT   |
-| 42890 |  후보키 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42890) | [JavaScript](./42890-후보키.js)  | [Python3](./42890-후보키.py)  | 2019 KAKAO BLIND RECRUITMENT  |
 | 43165 | 타겟 넘버            | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/43165) |      [JavaScript](./43165-타겟_넘버.js)       |      [Python3](./43165-타겟_넘버.py)       | 깊이/너비 우선 탐색(DFS/BFS)   |
 | 49993 | 스킬트리             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/49993) |       [JavaScript](./49993-스킬트리.js)       |       [Python3](./49993-스킬트리.py)       | Summer/Winter Coding(~2018)    |
 | 49994 | 방문 길이            | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/49994) |      [JavaScript](./49994-방문_길이.js)       |      [Python3](./49994-방문_길이.py)       | Summer/Winter Coding(~2018)    |
@@ -58,7 +57,6 @@
 | 62048 | 멀쩡한 사각형        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/62048) |    [JavaScript](./62048-멀쩡한_사각형.js)     |    [Python3](./62048-멀쩡한_사각형.py)     | Summer/Winter Coding(2019)     |
 | 64065 | 튜플                 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/64065) |         [JavaScript](./64065-튜플.js)         |         [Python3](./64065-튜플.py)         | 2019 카카오 개발자 겨울 인턴십 |
 | 67257 | 수식 최대화          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/67257) |     [JavaScript](./67257-수식_최대화.js)      |     [Python3](./67257-수식_최대화.py)      | 2020 카카오 인턴십             |
-| 68645 |  삼각 달팽이 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/68645) | [JavaScript](./68645-삼각 달팽이.js)  | [Python3](./68645-삼각 달팽이.py)  | 월간 코드 챌린지 시즌1  |
 | 70129 | 이진 변환 반복하기   | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/70129) |  [JavaScript](./70129-이진_변환_반복하기.js)  |  [Python3](./70129-이진_변환_반복하기.py)  | 월간 코드 챌린지 시즌1         |
 | 72411 | 메뉴 리뉴얼          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/72411) |     [JavaScript](./72411-메뉴_리뉴얼.js)      |     [Python3](./72411-메뉴_리뉴얼.py)      | 2021 KAKAO BLIND RECRUITMENT   |
 | 76502 | 괄호 회전하기        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/76502) |    [JavaScript](./76502-괄호_회전하기.js)     |    [Python3](./76502-괄호_회전하기.py)     | 월간 코드 챌린지 시즌2         |
