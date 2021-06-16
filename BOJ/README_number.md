@@ -17,6 +17,7 @@
 | 1152 | 단어의 개수       | [문제주소](https://www.acmicpc.net/problem/1152) | 🟫 브론즈 II  |    [JavaScript](./01XXX/1152-단어의_개수.js)    |    [Python3](./01XXX/1152-단어의_개수.py)    |           |
 | 1157 | 단어 공부         | [문제주소](https://www.acmicpc.net/problem/1157) | 🟫 브론즈 I   |     [JavaScript](./01XXX/1157-단어_공부.js)     |     [Python3](./01XXX/1157-단어_공부.py)     |           |
 | 1260 | DFS와 BFS         | [문제주소](https://www.acmicpc.net/problem/1260) | 🟧 실버 V     |     [JavaScript](./01XXX/1260-DFS와_BFS.js)     |     [Python3](./01XXX/1260-DFS와_BFS.py)     |           |
+| 1271 | 엄청난 부자2 | [문제주소](https://www.acmicpc.net/problem/1271) | 🟫 브론즈 V  |      [JavaScript](./01XXX/1271-엄청난_부자2.js)      |      [Python3](./01XXX/1271-엄청난_부자2.py)      |           |
 | 1297 | TV 크기           | [문제주소](https://www.acmicpc.net/problem/1297) | 🟫 브론즈 IV  |      [JavaScript](./01XXX/1297-TV_크기.js)      |      [Python3](./01XXX/1297-TV_크기.py)      |           |
 | 1316 | 그룹 단어 체커    | [문제주소](https://www.acmicpc.net/problem/1316) | 🟧 실버 V     |  [JavaScript](./01XXX/1316-그룹_단어_체커.js)   |  [Python3](./01XXX/1316-그룹_단어_체커.py)   |           |
 | 1330 | 두 수 비교하기    | [문제주소](https://www.acmicpc.net/problem/1330) | 🟫 브론즈 IV  |  [JavaScript](./01XXX/1330-두_수_비교하기.js)   |  [Python3](./01XXX/1330-두_수_비교하기.py)   |           |
