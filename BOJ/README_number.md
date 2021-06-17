@@ -22,6 +22,7 @@
 | 1316 | 그룹 단어 체커    | [문제주소](https://www.acmicpc.net/problem/1316) | 🟧 실버 V     |  [JavaScript](./01XXX/1316-그룹_단어_체커.js)   |  [Python3](./01XXX/1316-그룹_단어_체커.py)   |           |
 | 1330 | 두 수 비교하기    | [문제주소](https://www.acmicpc.net/problem/1330) | 🟫 브론즈 IV  |  [JavaScript](./01XXX/1330-두_수_비교하기.js)   |  [Python3](./01XXX/1330-두_수_비교하기.py)   |           |
 | 1546 | 평균              | [문제주소](https://www.acmicpc.net/problem/1546) | 🟫 브론즈 I   |       [JavaScript](./01XXX/1546-평균.js)        |       [Python3](./01XXX/1546-평균.py)        |           |
+| 1550 | 16진수              | [문제주소](https://www.acmicpc.net/problem/1550) | 🟫 브론즈 V   |       [JavaScript](./01XXX/1550-16진수.js)        |       [Python3](./01XXX/1550-16진수.py)        |           |
 | 1712 | 손익분기점        | [문제주소](https://www.acmicpc.net/problem/1712) | 🟫 브론즈 IV  |    [JavaScript](./01XXX/1712-손익분기점.js)     |    [Python3](./01XXX/1712-손익분기점.py)     |           |
 | 1874 | 스택 수열         | [문제주소](https://www.acmicpc.net/problem/1874) | 🟧 실버 III   |     [JavaScript](./01XXX/1874-스택_수열.js)     |     [Python3](./01XXX/1874-스택_수열.py)     |           |
 | 1920 | 수 찾기           | [문제주소](https://www.acmicpc.net/problem/1920) | 🟧 실버 IV    |      [JavaScript](./01XXX/1920-수_찾기.js)      |      [Python3](./01XXX/1920-수_찾기.py)      |           |
