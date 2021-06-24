@@ -30,6 +30,7 @@
 | 12981 | 영어 끝말잇기           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12981) |      [JavaScript](./12981-영어_끝말잇기.js)      |      [Python3](./12981-영어_끝말잇기.py)      | Summer/Winter Coding(~2018)  |
 | 12985 | 예상 대진표             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12985) |       [JavaScript](./12985-예상_대진표.js)       |       [Python3](./12985-예상_대진표.py)       | 2017 팁스타운                |
 | 17677 | 뉴스 클러스터링 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/17677) |          [JavaScript](./17677-뉴스_클러스터링.js)           |          [Python3](./17677-뉴스_클러스터링.py)           | 2018 KAKAO BLIND RECRUITMENT |
+| 17679 | 프렌즈4블록 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/17679) |          [JavaScript](./17679-프렌즈4블록.js)           |          [Python3](./17679-프렌즈4블록.py)           | 2018 KAKAO BLIND RECRUITMENT |
 | 17680 | 캐시                    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/17680) |          [JavaScript](./17680-캐시.js)           |          [Python3](./17680-캐시.py)           | 2018 KAKAO BLIND RECRUITMENT |
 | 17683 | 방금그곡  | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/17683) | [JavaScript](./17683-방금그곡.js)  | [Python3](./17683-방금그곡.py)  | 	2018 KAKAO BLIND RECRUITMENT  |
 | 17687 | n진수 게임              | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/17687) |       [JavaScript](./17687-n진수_게임.js)        |       [Python3](./17687-n진수_게임.py)        | 2018 KAKAO BLIND RECRUITMENT |
