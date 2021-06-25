@@ -17,13 +17,13 @@
 | 1152 | 단어의 개수       | [문제주소](https://www.acmicpc.net/problem/1152) | 🟫 브론즈 II  |    [JavaScript](./01XXX/1152-단어의_개수.js)    |    [Python3](./01XXX/1152-단어의_개수.py)    |           |
 | 1157 | 단어 공부         | [문제주소](https://www.acmicpc.net/problem/1157) | 🟫 브론즈 I   |     [JavaScript](./01XXX/1157-단어_공부.js)     |     [Python3](./01XXX/1157-단어_공부.py)     |           |
 | 1260 | DFS와 BFS         | [문제주소](https://www.acmicpc.net/problem/1260) | 🟧 실버 V     |     [JavaScript](./01XXX/1260-DFS와_BFS.js)     |     [Python3](./01XXX/1260-DFS와_BFS.py)     |           |
-| 1271 | 엄청난 부자2 | [문제주소](https://www.acmicpc.net/problem/1271) | 🟫 브론즈 V  |      [JavaScript](./01XXX/1271-엄청난_부자2.js)      |      [Python3](./01XXX/1271-엄청난_부자2.py)      |           |
+| 1271 | 엄청난 부자2      | [문제주소](https://www.acmicpc.net/problem/1271) | 🟫 브론즈 V   |   [JavaScript](./01XXX/1271-엄청난_부자2.js)    |   [Python3](./01XXX/1271-엄청난_부자2.py)    |           |
 | 1297 | TV 크기           | [문제주소](https://www.acmicpc.net/problem/1297) | 🟫 브론즈 IV  |      [JavaScript](./01XXX/1297-TV_크기.js)      |      [Python3](./01XXX/1297-TV_크기.py)      |           |
 | 1316 | 그룹 단어 체커    | [문제주소](https://www.acmicpc.net/problem/1316) | 🟧 실버 V     |  [JavaScript](./01XXX/1316-그룹_단어_체커.js)   |  [Python3](./01XXX/1316-그룹_단어_체커.py)   |           |
 | 1330 | 두 수 비교하기    | [문제주소](https://www.acmicpc.net/problem/1330) | 🟫 브론즈 IV  |  [JavaScript](./01XXX/1330-두_수_비교하기.js)   |  [Python3](./01XXX/1330-두_수_비교하기.py)   |           |
 | 1546 | 평균              | [문제주소](https://www.acmicpc.net/problem/1546) | 🟫 브론즈 I   |       [JavaScript](./01XXX/1546-평균.js)        |       [Python3](./01XXX/1546-평균.py)        |           |
-| 1550 | 16진수              | [문제주소](https://www.acmicpc.net/problem/1550) | 🟫 브론즈 V   |       [JavaScript](./01XXX/1550-16진수.js)        |       [Python3](./01XXX/1550-16진수.py)        |           |
-| 1655 | 가운데를 말해요 | [문제주소](https://www.acmicpc.net/problem/1655) | 🟨 골드 II     |          [JavaScript](./01XXX/1655-가운데를_말해요.js)           |          [Python3](./01XXX/1655-가운데를_말해요.py)           |  |
+| 1550 | 16진수            | [문제주소](https://www.acmicpc.net/problem/1550) | 🟫 브론즈 V   |      [JavaScript](./01XXX/1550-16진수.js)       |      [Python3](./01XXX/1550-16진수.py)       |           |
+| 1655 | 가운데를 말해요   | [문제주소](https://www.acmicpc.net/problem/1655) | 🟨 골드 II    |  [JavaScript](./01XXX/1655-가운데를_말해요.js)  |  [Python3](./01XXX/1655-가운데를_말해요.py)  |           |
 | 1712 | 손익분기점        | [문제주소](https://www.acmicpc.net/problem/1712) | 🟫 브론즈 IV  |    [JavaScript](./01XXX/1712-손익분기점.js)     |    [Python3](./01XXX/1712-손익분기점.py)     |           |
 | 1874 | 스택 수열         | [문제주소](https://www.acmicpc.net/problem/1874) | 🟧 실버 III   |     [JavaScript](./01XXX/1874-스택_수열.js)     |     [Python3](./01XXX/1874-스택_수열.py)     |           |
 | 1920 | 수 찾기           | [문제주소](https://www.acmicpc.net/problem/1920) | 🟧 실버 IV    |      [JavaScript](./01XXX/1920-수_찾기.js)      |      [Python3](./01XXX/1920-수_찾기.py)      |           |
@@ -38,9 +38,11 @@
 | 2164 | 카드2                   | [문제주소](https://www.acmicpc.net/problem/2164) | 🟧 실버 IV    |        [JavaScript](<./02XXX/2164-카드(2).js>)        |        [Python3](<./02XXX/2164-카드(2).py>)        |           |
 | 2292 | 벌집                    | [문제주소](https://www.acmicpc.net/problem/2292) | 🟫 브론즈 II  |          [JavaScript](./02XXX/2292-벌집.js)           |          [Python3](./02XXX/2292-벌집.py)           |           |
 | 2338 | 긴자리 계산             | [문제주소](https://www.acmicpc.net/problem/2338) | 🟫 브론즈 V   |       [JavaScript](./02XXX/2338-긴자리_계산.js)       |       [Python3](./02XXX/2338-긴자리_계산.py)       |           |
+| 2420 | 사파리월드              | [문제주소](https://www.acmicpc.net/problem/2420) | 🟫 브론즈 IV  |       [JavaScript](./02XXX/2420-사파리월드.js)        |       [Python3](./02XXX/2420-사파리월드.py)        |           |
 | 2438 | 별 찍기 - 1             | [문제주소](https://www.acmicpc.net/problem/2438) | 🟫 브론즈 III |      [JavaScript](<./02XXX/2438-별_찍기(1).js>)       |      [Python3](<./02XXX/2438-별_찍기(1).py>)       |           |
 | 2439 | 별 찍기 - 2             | [문제주소](https://www.acmicpc.net/problem/2439) | 🟫 브론즈 III |      [JavaScript](<./02XXX/2439-별_찍기(2).js>)       |      [Python3](<./02XXX/2439-별_찍기(2).py>)       |           |
 | 2475 | 검증수                  | [문제주소](https://www.acmicpc.net/problem/2475) | 🟫 브론즈 V   |         [JavaScript](./02XXX/2475-검증수.js)          |         [Python3](./02XXX/2475-검증수.py)          |           |
+| 2525 | 오븐 시계               | [문제주소](https://www.acmicpc.net/problem/2525) | 🟫 브론즈 IV  |        [JavaScript](./02XXX/2525-오븐_시계.js)        |        [Python3](./02XXX/2525-오븐_시계.py)        |           |
 | 2557 | Hello World             | [문제주소](https://www.acmicpc.net/problem/2557) | 🟫 브론즈 V   |       [JavaScript](./02XXX/2557-Hello_World.js)       |       [Python3](./02XXX/2557-Hello_World.py)       |           |
 | 2558 | A+B - 2                 | [문제주소](https://www.acmicpc.net/problem/2558) | 🟫 브론즈 V   |        [JavaScript](<./02XXX/2558-A+B(2).js>)         |        [Python3](<./02XXX/2558-A+B(2).py>)         |           |
 | 2562 | 최댓값                  | [문제주소](https://www.acmicpc.net/problem/2562) | 🟫 브론즈 II  |         [JavaScript](./02XXX/2562-최댓값.js)          |         [Python3](./02XXX/2562-최댓값.py)          |           |
@@ -57,7 +59,7 @@
 | 2751 | 수 정렬하기 2           | [문제주소](https://www.acmicpc.net/problem/2751) | 🟧 실버 V     |    [JavaScript](<./02XXX/2751-수_정렬하기(2).js>)     |    [Python3](<./02XXX/2751-수_정렬하기(2).py>)     |           |
 | 2752 | 세수정렬                | [문제주소](https://www.acmicpc.net/problem/2752) | 🟫 브론즈 IV  |        [JavaScript](./02XXX/2752-세수정렬.js)         |        [Python3](./02XXX/2752-세수정렬.py)         |           |
 | 2753 | 윤년                    | [문제주소](https://www.acmicpc.net/problem/2753) | 🟫 브론즈 IV  |          [JavaScript](./02XXX/2753-윤년.js)           |          [Python3](./02XXX/2753-윤년.py)           |           |
-| 2805 | 나무 자르기 | [문제주소](https://www.acmicpc.net/problem/2805) | 🟧 실버 III     |          [JavaScript](./02XXX/2805-나무_자르기.js)           |          [Python3](./02XXX/2805-나무_자르기.py)           |  |
+| 2805 | 나무 자르기             | [문제주소](https://www.acmicpc.net/problem/2805) | 🟧 실버 III   |       [JavaScript](./02XXX/2805-나무_자르기.js)       |       [Python3](./02XXX/2805-나무_자르기.py)       |           |
 | 2845 | 파티가 끝나고 난 뒤     | [문제주소](https://www.acmicpc.net/problem/2845) | 🟫 브론즈 V   |   [JavaScript](./02XXX/2845-파티가_끝나고_난_뒤.js)   |   [Python3](./02XXX/2845-파티가_끝나고_난_뒤.py)   |           |
 | 2884 | 알람 시계               | [문제주소](https://www.acmicpc.net/problem/2884) | 🟫 브론즈 III |        [JavaScript](./02XXX/2884-알람_시계.js)        |        [Python3](./02XXX/2884-알람_시계.py)        |           |
 | 2908 | 상수                    |   [문제주소](https://www.acmicpc.net/problem/)   | 🟫 브론즈 II  |          [JavaScript](./02XXX/2908-상수.js)           |          [Python3](./02XXX/2908-상수.py)           |           |
@@ -99,11 +101,11 @@
 
 ## 09XXX
 
-| 번호 | 문제      |                     문제 URL                     | 난이도       |                문제 풀이                |              문제 풀이               | 문제 출처 |
-| :--: | :-------- | :----------------------------------------------: | :----------- | :-------------------------------------: | :----------------------------------: | :-------- |
-| 9012 | 괄호      | [문제주소](https://www.acmicpc.net/problem/9012) | 🟧 실버 IV   |   [JavaScript](./09XXX/9012-괄호.js)    |   [Python3](./09XXX/9012-괄호.py)    |           |
-| 9375 | 패션왕 신해빈 | [문제주소](https://www.acmicpc.net/problem/9375) | 🟧 실버 III     |          [JavaScript](./09XXX/9375-패션왕_신해빈.js)           |          [Python3](./09XXX/9375-패션왕_신해빈.py)           |  |
-| 9498 | 시험 성적 | [문제주소](https://www.acmicpc.net/problem/9498) | 🟫 브론즈 IV | [JavaScript](./09XXX/9498-시험_성적.js) | [Python3](./09XXX/9498-시험_성적.py) |           |
+| 번호 | 문제          |                     문제 URL                     | 난이도       |                  문제 풀이                  |                문제 풀이                 | 문제 출처 |
+| :--: | :------------ | :----------------------------------------------: | :----------- | :-----------------------------------------: | :--------------------------------------: | :-------- |
+| 9012 | 괄호          | [문제주소](https://www.acmicpc.net/problem/9012) | 🟧 실버 IV   |     [JavaScript](./09XXX/9012-괄호.js)      |     [Python3](./09XXX/9012-괄호.py)      |           |
+| 9375 | 패션왕 신해빈 | [문제주소](https://www.acmicpc.net/problem/9375) | 🟧 실버 III  | [JavaScript](./09XXX/9375-패션왕_신해빈.js) | [Python3](./09XXX/9375-패션왕_신해빈.py) |           |
+| 9498 | 시험 성적     | [문제주소](https://www.acmicpc.net/problem/9498) | 🟫 브론즈 IV |   [JavaScript](./09XXX/9498-시험_성적.js)   |   [Python3](./09XXX/9498-시험_성적.py)   |           |
 
 ## 10XXX
 
@@ -136,7 +138,7 @@
 | :---: | :---------- | :-----------------------------------------------: | :------------ | :----------------------------------------: | :-------------------------------------: | :-------- |
 | 11021 | A+B - 7     | [문제주소](https://www.acmicpc.net/problem/11021) | 🟫 브론즈 III |  [JavaScript](<./11XXX/11021-A+B(7).js>)   |  [Python3](<./11XXX/11021-A+B(7).py>)   |           |
 | 11022 | A+B - 8     | [문제주소](https://www.acmicpc.net/problem/11022) | 🟫 브론즈 III |  [JavaScript](<./11XXX/11022-A+B(8).js>)   |  [Python3](<./11XXX/11022-A+B(8).py>)   |           |
-| 11279 | 최대 힙  | [문제주소](https://www.acmicpc.net/problem/11279) | 🟧 실버 II    | [JavaScript](./11XXX/11279-최대_힙.js)  | [Python3](./11XXX/11279-최대_힙.py)  |           |
+| 11279 | 최대 힙     | [문제주소](https://www.acmicpc.net/problem/11279) | 🟧 실버 II    |   [JavaScript](./11XXX/11279-최대_힙.js)   |   [Python3](./11XXX/11279-최대_힙.py)   |           |
 | 11653 | 소인수분해  | [문제주소](https://www.acmicpc.net/problem/11653) | 🟧 실버 IV    | [JavaScript](./11XXX/11653-소인수분해.js)  | [Python3](./11XXX/11653-소인수분해.py)  |           |
 | 11654 | 아스키 코드 | [문제주소](https://www.acmicpc.net/problem/11654) | 🟫 브론즈 V   | [JavaScript](./11XXX/11654-아스키_코드.js) | [Python3](./11XXX/11654-아스키_코드.py) |           |
 | 11720 | 숫자의 합   | [문제주소](https://www.acmicpc.net/problem/11720) | 🟫 브론즈 II  |  [JavaScript](./11XXX/11720-숫자의_합.js)  |  [Python3](./11XXX/11720-숫자의_합.py)  |           |
