@@ -90,6 +90,7 @@
 | 5086 | 배수와 약수         | [문제주소](https://www.acmicpc.net/problem/5086) | 🟫 브론즈 III |     [JavaScript](./05XXX/5086-배수와_약수.js)     |     [Python3](./05XXX/5086-배수와_약수.py)     |           |
 | 5337 | 웰컴                | [문제주소](https://www.acmicpc.net/problem/5337) | 🟫 브론즈 V   |        [JavaScript](./05XXX/5337-웰컴.js)         |        [Python3](./05XXX/5337-웰컴.py)         |           |
 | 5338 | 마이크로소프트 로고 | [문제주소](https://www.acmicpc.net/problem/5338) | 🟫 브론즈 V   | [JavaScript](./05XXX/5338-마이크로소프트_로고.js) | [Python3](./05XXX/5338-마이크로소프트_로고.py) |           |
+| 5543 | 상근날드            | [문제주소](https://www.acmicpc.net/problem/5543) | 🟫 브론즈 IV  |      [JavaScript](./05XXX/5543-상근날드.js)       |      [Python3](./05XXX/5543-상근날드.py)       |           |
 | 5554 | 심부름 가는 길      | [문제주소](https://www.acmicpc.net/problem/5554) | 🟫 브론즈 V   |   [JavaScript](./05XXX/5554-심부름_가는_길.js)    |   [Python3](./05XXX/5554-심부름_가는_길.py)    |           |
 | 5622 | 다이얼              | [문제주소](https://www.acmicpc.net/problem/5622) | 🟫 브론즈 II  |       [JavaScript](./05XXX/5622-다이얼.js)        |       [Python3](./05XXX/5622-다이얼.py)        |           |
 
