@@ -42,3 +42,43 @@ function solution(n, computers) {
 	}
 	return network;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-06-29
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://programmers.co.kr/learn/courses/30/lessons/43162
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ **/
+
+function solution(n, computers) {
+	// 방문한 컴퓨터 체크하는 배열
+	let visited = Array(n).fill(false);
+
+	// 0번 컴퓨터부터 확인
+	let network = 0;
+	for (let com = 0; com < n; com++) {
+		if (!visited[com]) {
+			// 네트워크 연결 시작
+			network += 1;
+			// 연결된 컴퓨터가 있는지 확인
+			let stack = [com];
+			while (stack.length > 0) {
+				let now = stack.pop();
+				visited[now] = true;
+				computers[now].forEach((chk, next) => {
+					if (chk === 1 && !visited[next]) {
+						stack.push(next);
+					}
+				});
+			}
+		}
+	}
+
+	return network;
+}

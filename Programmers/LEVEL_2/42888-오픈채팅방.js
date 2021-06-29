@@ -31,3 +31,40 @@ function solution(record) {
 		return el.join('');
 	});
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-06-29
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://programmers.co.kr/learn/courses/30/lessons/42888
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ **/
+
+function solution(record) {
+	let nicknames = {};
+	let messages = [];
+
+	record.forEach(el => {
+		let [action, userid, name] = el.split(' ');
+		if (action === 'Enter') {
+			// [유저 아이디] 사용자가 [닉네임]으로 채팅방에 입장
+			nicknames[userid] = name;
+			messages.push([userid, '님이 들어왔습니다.']);
+		} else if (action === 'Leave') {
+			// [유저 아이디] 사용자가 채팅방에서 퇴장
+			messages.push([userid, '님이 나갔습니다.']);
+		} else if (action === 'Change') {
+			// [유저 아이디] 사용자가 닉네임을 [닉네임]으로 변경
+			nicknames[userid] = name;
+		}
+	});
+
+	return messages.map(message => {
+		return nicknames[message[0]] + message[1];
+	});
+}
