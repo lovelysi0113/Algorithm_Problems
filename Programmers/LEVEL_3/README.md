@@ -4,16 +4,18 @@
 
 ## 12XXX
 
-| 번호  | 문제         |                               문제 URL                               |              문제 풀이              |            문제 풀이             | 문제 출처 |
-| :---: | :----------- | :------------------------------------------------------------------: | :---------------------------------: | :------------------------------: | :-------- |
-| 12900 | 2 x n 타일링 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12900) | [JavaScript](./12900-2xn_타일링.js) | [Python3](./12900-2xn_타일링.py) |           |
-| 12927 | 야근 지수    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12927) | [JavaScript](./12927-야근_지수.js)  | [Python3](./12927-야근_지수.py)  |           |
+| 번호  | 문제             |                               문제 URL                               |                 문제 풀이                 |            문제 풀이             | 문제 출처 |
+| :---: | :--------------- | :------------------------------------------------------------------: | :---------------------------------------: | :------------------------------: | :-------- |
+| 12900 | 2 x n 타일링     | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12900) |    [JavaScript](./12900-2xn_타일링.js)    | [Python3](./12900-2xn_타일링.py) |           |
+| 12904 | 가장 긴 팰린드롬 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12904) | [JavaScript](./12904-가장_긴_팰린드롬.js) |                                  |           |
+| 12927 | 야근 지수        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12927) |    [JavaScript](./12927-야근_지수.js)     | [Python3](./12927-야근_지수.py)  |           |
 
 ## 42XXX~
 
 | 번호  | 문제            |                               문제 URL                               |                문제 풀이                 |               문제 풀이               | 문제 출처                    |
 | :---: | :-------------- | :------------------------------------------------------------------: | :--------------------------------------: | :-----------------------------------: | :--------------------------- |
 | 42627 | 디스크 컨트롤러 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42627) | [JavaScript](./42627-디스크_컨트롤러.js) | [Python3](./42627-디스크_컨트롤러.py) | 힙(Heap)                     |
+| 42884 | 단속카메라      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42884) |   [JavaScript](./42884-단속카메라.js)    |                                       | 탐욕법(Greedy)               |
 | 43162 | 네트워크        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/43162) |    [JavaScript](./43162-네트워크.js)     |                                       | 깊이/너비 우선 탐색(DFS/BFS) |
 | 43163 | 단어 변환       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/43163) |    [JavaScript](./43163-단어_변환.js)    |                                       | 깊이/너비 우선 탐색(DFS/BFS) |
 | 43238 | 입국심사        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/43238) |    [JavaScript](./43238-입국심사.js)     |    [Python3](./43238-입국심사.py)     | 이분탐색                     |
