@@ -46,3 +46,43 @@ function solution(cacheSize, cities) {
 
 	return total;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-06-30
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://programmers.co.kr/learn/courses/30/lessons/17680
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ **/
+
+function solution(cacheSize, cities) {
+	let cache = [];
+
+	// 도시 이름 처리하기
+	let time = 0;
+	cities.forEach(city => {
+		city = city.toLowerCase();
+		if (cache.includes(city)) {
+			// cache hit
+			time += 1;
+			cache.splice(cache.indexOf(city), 1);
+			cache.push(city);
+		} else {
+			// cache miss
+			time += 5;
+			if (cache.length === cacheSize) {
+				cache.shift();
+			}
+			if (cacheSize > 0) {
+				cache.push(city);
+			}
+		}
+	});
+
+	return time;
+}
