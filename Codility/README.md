@@ -1,10 +1,10 @@
-# 제주코딩베이스캠프
+# 코딜리티
 
-## [사이트](http://www.paullab.co.kr/codefestival.html)
+## [사이트](https://app.codility.com/programmers/)
 
 ## 문제 유형
 
-- [자바스크립트(JS) 100제](./JS100/README.md)
+- [Lessons](./Lessons/README.md)
 
 ## 문제 리스트 표시 규칙
 
