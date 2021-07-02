@@ -61,3 +61,18 @@
 |    38    | 호준이의 아르바이트          |     [문제주소](https://www.notion.so/38-371eb506b05f4b8db674569a08304799)     |     [JavaScript](./38-호준이의_아르바이트.js)      |
 |    39    | 오타 수정하기                |     [문제주소](https://www.notion.so/39-e31823d5c6184efc95fdf78a86843414)     |        [JavaScript](./39-오타_수정하기.js)         |
 |    40    | 놀이동산에 가자              |     [문제주소](https://www.notion.so/40-592ce594719b4054a5bc4a38c5475ba5)     |       [JavaScript](./40-놀이동산에_가자.js)        |
+
+## 41 ~ 50
+
+| 문제번호 | 문제 제목                |                                   문제 주소                                   |                 문제 풀이 코드                 |
+| :------: | :----------------------- | :---------------------------------------------------------------------------: | :--------------------------------------------: |
+|    41    | 소수판별                 |     [문제주소](https://www.notion.so/41-994743b827054aadadbe471001b6531c)     |         [JavaScript](./41-소수판별.js)         |
+|    42    | 2020년                   |  [문제주소](https://www.notion.so/42-2020-ae1dd4dc05cd43dbb7475afb52bc00c4)   |          [JavaScript](./42-2020년.js)          |
+|    43    | 10진수를 2진수로         |  [문제주소](https://www.notion.so/43-10-2-ea6da83e61ba4b038841ec035a621fea)   |     [JavaScript](./43-10진수를_2진수로.js)     |
+|    44    | 각 자리수의 합           |     [문제주소](https://www.notion.so/44-a15b4323690f449ebb91275d7d38662f)     |      [JavaScript](./44-각_자리수의_합.js)      |
+|    45    | getTime()함수 사용하기   | [문제주소](https://www.notion.so/45-getTime-88b0941980cc47859649df7576966391) | [JavaScript](<./45-getTime()함수_사용하기.js>) |
+|    46    | 각 자리수의 합 2         |    [문제주소](https://www.notion.so/46-2-1349c673327740de973e50d1297354f5)    |     [JavaScript](./46-각_자리수의_합2.js)      |
+|    47    | set 자료형의 응용        |   [문제주소](https://www.notion.so/47-set-8b73fa6b52114d128bba7bc6c6da83c6)   |    [JavaScript](./47-set_자료형의_응용.js)     |
+|    48    | 대소문자 바꿔서 출력하기 |     [문제주소](https://www.notion.so/48-ab0fe531a1ca4042b9436c1e3dc5a75d)     | [JavaScript](./48-대소문자_바꿔서_출력하기.js) |
+|    49    | 최댓값 구하기            |     [문제주소](https://www.notion.so/49-2052f88fe90f4bde93cea5fb63627483)     |      [JavaScript](./49-최댓값_구하기.js)       |
+|    50    | 버블정렬 구현하기        |     [문제주소](https://www.notion.so/50-bb22106895db4766b2517b0f61a8cc2d)     |    [JavaScript](./50-버블정렬_구현하기.js)     |
