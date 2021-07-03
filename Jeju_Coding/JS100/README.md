@@ -76,3 +76,18 @@
 |    48    | 대소문자 바꿔서 출력하기 |     [문제주소](https://www.notion.so/48-ab0fe531a1ca4042b9436c1e3dc5a75d)     | [JavaScript](./48-대소문자_바꿔서_출력하기.js) |
 |    49    | 최댓값 구하기            |     [문제주소](https://www.notion.so/49-2052f88fe90f4bde93cea5fb63627483)     |      [JavaScript](./49-최댓값_구하기.js)       |
 |    50    | 버블정렬 구현하기        |     [문제주소](https://www.notion.so/50-bb22106895db4766b2517b0f61a8cc2d)     |    [JavaScript](./50-버블정렬_구현하기.js)     |
+
+## 51 ~ 60
+
+| 문제번호 |        문제 제목        |                                    문제 주소                                     |                문제 풀이 코드                 |
+| :------: | :---------------------: | :------------------------------------------------------------------------------: | :-------------------------------------------: |
+|    51    | merge sort를 만들어보자 | [문제주소](https://www.notion.so/51-merge-sort-217249ae47f2424baeab023685c90830) | [JavaScript](./51-merge_sort를_만들어보자.js) |
+|    52    |       quick sort        | [문제주소](https://www.notion.so/52-quick-sort-46b7823bdea64ddfb6a6c7083be7cba9) |       [JavaScript](./52-quick_sort.js)        |
+|    53    |       괄호 문자열       |      [문제주소](https://www.notion.so/53-8776d8e89b91496cb7a3bfa09a84fe49)       |       [JavaScript](./53-괄호_문자열.js)       |
+|    54    |       연속되는 수       |      [문제주소](https://www.notion.so/54-169748106ffe46b6bed0e62ced61d4d5)       |       [JavaScript](./54-연속되는_수.js)       |
+|    55    |       하노이의 탑       |      [문제주소](https://www.notion.so/55-105b77098f7e4b99a156280ee0550866)       |       [JavaScript](./55-하노이의_탑.js)       |
+|    56    |    객체의 함수 응용     |      [문제주소](https://www.notion.so/56-abc381f5916d4775804fbae9365ad0e6)       |    [JavaScript](./56-객체의_함수_응용.js)     |
+|    57    |        1의 개수         |     [문제주소](https://www.notion.so/57-1-35ac8107242f4e1da2f8fd57ad2a8d1d)      |        [JavaScript](./57-1의_개수.js)         |
+|    58    |        콤마 찍기        |      [문제주소](https://www.notion.so/58-4152dead59ad4ab7801752d6604e037d)       |        [JavaScript](./58-콤마_찍기.js)        |
+|    59    |       빈칸채우기        |      [문제주소](https://www.notion.so/59-5e36b2d5c7a34a3999812f8f9e56eb52)       |       [JavaScript](./59-빈칸채우기.js)        |
+|    60    |       번호 매기기       |      [문제주소](https://www.notion.so/60-8b2e85dd50e84cd0bc77d1e67dbace70)       |       [JavaScript](./60-번호_매기기.js)       |
