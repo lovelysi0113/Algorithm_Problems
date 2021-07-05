@@ -40,3 +40,12 @@
 |  2   | GenomicRangeQuery | [Task](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/) | [JavaScript](./Lesson05/2-GenomicRangeQuery.js) |
 |  3   | MinAvgTwoSlice    |  [Task](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)  |  [JavaScript](./Lesson05/3-MinAvgTwoSlice.js)   |
 |  4   | PassingCars       |    [Task](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)     |    [JavaScript](./Lesson05/4-PassingCars.js)    |
+
+## [Lesson 6](https://app.codility.com/programmers/lessons/6-sorting/): Sorting
+
+| 번호 | 문제                      |                                           문제 URL                                           |                        문제 풀이                        |
+| :--: | :------------------------ | :------------------------------------------------------------------------------------------: | :-----------------------------------------------------: |
+|  1   | Distinct                  |           [Task](https://app.codility.com/programmers/lessons/6-sorting/distinct/)           |         [JavaScript](./Lesson06/1-Distinct.js)          |
+|  2   | MaxProductOfThree         |     [Task](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/)     |     [JavaScript](./Lesson06/2-MaxProductOfThree.js)     |
+|  3   | NumberOfDiscIntersections | [Task](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/) | [JavaScript](./Lesson06/3-NumberOfDiscIntersections.js) |
+|  4   | Triangle                  |           [Task](https://app.codility.com/programmers/lessons/6-sorting/triangle/)           |         [JavaScript](./Lesson06/4-Triangle.js)          |
