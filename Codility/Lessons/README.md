@@ -49,3 +49,12 @@
 |  2   | MaxProductOfThree         |     [Task](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/)     |     [JavaScript](./Lesson06/2-MaxProductOfThree.js)     |
 |  3   | NumberOfDiscIntersections | [Task](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/) | [JavaScript](./Lesson06/3-NumberOfDiscIntersections.js) |
 |  4   | Triangle                  |           [Task](https://app.codility.com/programmers/lessons/6-sorting/triangle/)           |         [JavaScript](./Lesson06/4-Triangle.js)          |
+
+## [Lesson 7](https://app.codility.com/programmers/lessons/7-stacks_and_queues/): Stacks and Queues
+
+| 번호 | 문제      |                                       문제 URL                                       |                문제 풀이                |
+| :--: | :-------- | :----------------------------------------------------------------------------------: | :-------------------------------------: |
+|  1   | Brackets  |  [Task](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/)  | [JavaScript](./Lesson07/1-Brackets.js)  |
+|  2   | Fish      |    [Task](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)    |   [JavaScript](./Lesson07/2-Fish.js)    |
+|  3   | Nesting   |  [Task](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/)   |  [JavaScript](./Lesson07/3-Nesting.js)  |
+|  4   | StoneWall | [Task](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/) | [JavaScript](./Lesson07/4-StoneWall.js) |
