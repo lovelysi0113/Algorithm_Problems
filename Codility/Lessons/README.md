@@ -31,3 +31,12 @@
 |  2   | MaxCounters    |  [Task](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)   |  [JavaScript](./Lesson04/2-MaxCounters.js)   |
 |  3   | MissingInteger | [Task](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) | [JavaScript](./Lesson04/3-MissingInteger.js) |
 |  4   | PermCheck      |   [Task](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)    |   [JavaScript](./Lesson04/4-PermCheck.js)    |
+
+## [Lesson 5](https://app.codility.com/programmers/lessons/5-prefix_sums/): Prefix Sums
+
+| 번호 | 문제              |                                        문제 URL                                         |                    문제 풀이                    |
+| :--: | :---------------- | :-------------------------------------------------------------------------------------: | :---------------------------------------------: |
+|  1   | CountDiv          |      [Task](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)      |     [JavaScript](./Lesson05/1-CountDiv.js)      |
+|  2   | GenomicRangeQuery | [Task](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/) | [JavaScript](./Lesson05/2-GenomicRangeQuery.js) |
+|  3   | MinAvgTwoSlice    |  [Task](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/)  |  [JavaScript](./Lesson05/3-MinAvgTwoSlice.js)   |
+|  4   | PassingCars       |    [Task](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/)     |    [JavaScript](./Lesson05/4-PassingCars.js)    |
