@@ -22,3 +22,12 @@
 |  1   | FrogJmp         |     [Task](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)      |     [JavaScript](./Lesson03/1-FrogJmp.js)     |
 |  2   | PermMissingElem | [Task](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) | [JavaScript](./Lesson03/2-PermMissingElem.js) |
 |  3   | TapeEquilibrium | [Task](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)  | [JavaScript](./Lesson03/3-TapeEquilibrium.js) |
+
+## [Lesson 4](https://app.codility.com/programmers/lessons/4-counting_elements/): Counting Elements
+
+| 번호 | 문제           |                                         문제 URL                                          |                  문제 풀이                   |
+| :--: | :------------- | :---------------------------------------------------------------------------------------: | :------------------------------------------: |
+|  1   | FrogRiverOne   | [Task](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)  |  [JavaScript](./Lesson04/1-FrogRiverOne.js)  |
+|  2   | MaxCounters    |  [Task](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)   |  [JavaScript](./Lesson04/2-MaxCounters.js)   |
+|  3   | MissingInteger | [Task](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) | [JavaScript](./Lesson04/3-MissingInteger.js) |
+|  4   | PermCheck      |   [Task](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)    |   [JavaScript](./Lesson04/4-PermCheck.js)    |
