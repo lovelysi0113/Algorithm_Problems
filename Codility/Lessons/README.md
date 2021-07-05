@@ -14,3 +14,11 @@
 | :--: | :-------------------- | :-------------------------------------------------------------------------------------: | :-------------------------------------------------: |
 |  1   | CyclicRotation        |     [Task](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/)      |    [JavaScript](./Lesson02/1-CyclicRotation.js)     |
 |  2   | OddOccurrencesInArray | [Task](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) | [JavaScript](./Lesson02/2-OddOccurrencesInArray.js) |
+
+## [Lesson 3](https://app.codility.com/programmers/lessons/3-time_complexity/): Time Complexity
+
+| 번호 | 문제            |                                         문제 URL                                          |                   문제 풀이                   |
+| :--: | :-------------- | :---------------------------------------------------------------------------------------: | :-------------------------------------------: |
+|  1   | FrogJmp         |     [Task](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)      |     [JavaScript](./Lesson03/1-FrogJmp.js)     |
+|  2   | PermMissingElem | [Task](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) | [JavaScript](./Lesson03/2-PermMissingElem.js) |
+|  3   | TapeEquilibrium | [Task](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)  | [JavaScript](./Lesson03/3-TapeEquilibrium.js) |
