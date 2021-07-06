@@ -58,3 +58,10 @@
 |  2   | Fish      |    [Task](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)    |   [JavaScript](./Lesson07/2-Fish.js)    |
 |  3   | Nesting   |  [Task](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/)   |  [JavaScript](./Lesson07/3-Nesting.js)  |
 |  4   | StoneWall | [Task](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/) | [JavaScript](./Lesson07/4-StoneWall.js) |
+
+## [Lesson 8](https://app.codility.com/programmers/lessons/8-leader/): Leader
+
+| 번호 | 문제       |                                  문제 URL                                  |                문제 풀이                 |
+| :--: | :--------- | :------------------------------------------------------------------------: | :--------------------------------------: |
+|  1   | Dominator  |  [Task](https://app.codility.com/programmers/lessons/8-leader/dominator/)  | [JavaScript](./Lesson08/1-Dominator.js)  |
+|  2   | EquiLeader | [Task](https://app.codility.com/programmers/lessons/8-leader/equi_leader/) | [JavaScript](./Lesson08/2-EquiLeader.js) |
