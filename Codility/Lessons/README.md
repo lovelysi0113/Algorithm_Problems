@@ -65,3 +65,11 @@
 | :--: | :--------- | :------------------------------------------------------------------------: | :--------------------------------------: |
 |  1   | Dominator  |  [Task](https://app.codility.com/programmers/lessons/8-leader/dominator/)  | [JavaScript](./Lesson08/1-Dominator.js)  |
 |  2   | EquiLeader | [Task](https://app.codility.com/programmers/lessons/8-leader/equi_leader/) | [JavaScript](./Lesson08/2-EquiLeader.js) |
+
+## [Lesson 9](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/): Maximum slice problem
+
+| 번호 | 문제              |                                              문제 URL                                              |                    문제 풀이                    |
+| :--: | :---------------- | :------------------------------------------------------------------------------------------------: | :---------------------------------------------: |
+|  1   | MaxDoubleSliceSum | [Task](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/) | [JavaScript](./Lesson09/1-MaxDoubleSliceSum.js) |
+|  2   | MaxProfit         |      [Task](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/)      |     [JavaScript](./Lesson09/2-MaxProfit.js)     |
+|  3   | MaxSliceSum       |    [Task](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)     |    [JavaScript](./Lesson09/3-MaxSliceSum.js)    |
