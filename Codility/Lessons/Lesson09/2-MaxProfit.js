@@ -38,3 +38,38 @@ function solution(A) {
 	}
 	return maxProfit;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-07-06
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/
+ *
+ * COMMENT:
+ * 배열의 처음부터 가격을 검사하며 만약에 현재 찾은 최솟값보다 작으면 최솟값을 갱신해주고
+ * 최솟값보다 크면 빼줘서 현재 인덱스까지의 최대 profit을 구한다
+ * 이 과정을 반복하며 A에서 나올 수 있는 profit의 최댓값을 구할 수 있다
+ **/
+
+function solution(A) {
+	// A가 빈 배열일 수 있다
+	if (A.length <= 1) {
+		return 0;
+	}
+
+	let profit = 0;
+	let minPrice = A[0];
+	A.forEach(price => {
+		if (price < minPrice) {
+			// 최솟값 갱신
+			minPrice = price;
+		} else {
+			// profit의 최댓값 구하기
+			profit = Math.max(profit, price - minPrice);
+		}
+	});
+	return profit;
+}
