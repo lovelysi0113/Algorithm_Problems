@@ -47,3 +47,41 @@ function solution(A) {
 	}
 	return answer;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-07-07
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/
+ *
+ * COMMENT:
+ * A의 요소를 하나씩 검사하면서 약수의 갯수가 몇개인지 구하고 전체 갯수에서 빼준다
+ **/
+
+function solution(A) {
+	// A 안의 요소 갯수 세기
+	let N = A.length;
+	let elements = Array(2 * N + 1).fill(0);
+	A.forEach(num => (elements[num] += 1));
+
+	// non-divisor 갯수 세기
+	let answer = [];
+	for (let idx = 0; idx < N; idx++) {
+		let num = A[idx];
+		let divisor = 0;
+		for (let chk = 1; chk <= Math.sqrt(num); chk++) {
+			if (num % chk === 0) {
+				divisor += elements[chk];
+				if (chk * chk !== num) {
+					divisor += elements[num / chk];
+				}
+			}
+		}
+		answer.push(N - divisor);
+	}
+
+	return answer;
+}
