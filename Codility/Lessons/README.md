@@ -73,3 +73,12 @@
 |  1   | MaxDoubleSliceSum | [Task](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/) | [JavaScript](./Lesson09/1-MaxDoubleSliceSum.js) |
 |  2   | MaxProfit         |      [Task](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/)      |     [JavaScript](./Lesson09/2-MaxProfit.js)     |
 |  3   | MaxSliceSum       |    [Task](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)     |    [JavaScript](./Lesson09/3-MaxSliceSum.js)    |
+
+## [Lesson 10](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/): Prime and composite numbers
+
+| 번호 | 문제                  |                                                   문제 URL                                                   |                      문제 풀이                      |
+| :--: | :-------------------- | :----------------------------------------------------------------------------------------------------------: | :-------------------------------------------------: |
+|  1   | CountFactors          |      [Task](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)      |     [JavaScript](./Lesson10/1-CountFactors.js)      |
+|  2   | Flags                 |          [Task](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/)          |         [JavaScript](./Lesson10/2-Flags.js)         |
+|  3   | MinPerimeterRectangle | [Task](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/) | [JavaScript](./Lesson10/3-MinPerimeterRectangle.js) |
+|  4   | Peaks                 |          [Task](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/peaks/)          |         [JavaScript](./Lesson10/4-Peaks.js)         |
