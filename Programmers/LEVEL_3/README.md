@@ -16,6 +16,7 @@
 
 | 번호  | 문제            |                               문제 URL                               |                문제 풀이                 |               문제 풀이               | 문제 출처                    |
 | :---: | :-------------- | :------------------------------------------------------------------: | :--------------------------------------: | :-----------------------------------: | :--------------------------- |
+| 42579 | 베스트앨범      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42579) |   [JavaScript](./42579-베스트앨범.js)    |                                       | 해시                         |
 | 42627 | 디스크 컨트롤러 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42627) | [JavaScript](./42627-디스크_컨트롤러.js) | [Python3](./42627-디스크_컨트롤러.py) | 힙(Heap)                     |
 | 42884 | 단속카메라      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42884) |   [JavaScript](./42884-단속카메라.js)    |                                       | 탐욕법(Greedy)               |
 | 43162 | 네트워크        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/43162) |    [JavaScript](./43162-네트워크.js)     |                                       | 깊이/너비 우선 탐색(DFS/BFS) |
