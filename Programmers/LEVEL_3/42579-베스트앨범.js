@@ -40,3 +40,49 @@ function solution(genres, plays) {
 
 	return answer;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-07-12
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://programmers.co.kr/learn/courses/30/lessons/
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ **/
+
+function solution(genres, plays) {
+	let songs = {};
+	for (let idx = 0; idx < genres.length; idx++) {
+		let genre = genres[idx];
+		let play = plays[idx];
+		if (songs[genre] === undefined) {
+			// 총 재생 횟수, 제일 많이 재생된 노래 번호
+			songs[genre] = [0, []];
+		}
+		songs[genre][0] += play;
+		songs[genre][1].push([play, idx]);
+	}
+
+	let order = Object.keys(songs).sort((a, b) => songs[b][0] - songs[a][0]);
+
+	let albums = [];
+	order.forEach(genre => {
+		let musics = songs[genre][1].sort((a, b) => {
+			if (a[0] !== b[0]) return a[0] - b[0];
+			else return b[1] - a[1];
+		});
+		let cnt = 0;
+		while (musics.length > 0) {
+			let now = musics.pop();
+			albums.push(now[1]);
+			cnt++;
+			if (cnt === 2) break;
+		}
+	});
+
+	return albums;
+}
