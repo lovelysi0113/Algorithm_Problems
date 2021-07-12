@@ -39,3 +39,38 @@ function solution(priorities, location) {
 
 	return print;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-07-12
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://programmers.co.kr/learn/courses/30/lessons/42587
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ **/
+
+function solution(priorities, location) {
+	let waiting = priorities.map((priority, idx) => [priority, idx]);
+
+	let print = 0;
+
+	while (waiting.length > 0) {
+		// 1. 인쇄 대기목록의 가장 앞에 있는 문서(J)를 대기목록에서 꺼냅니다
+		let [priority, idx] = waiting.shift();
+		priorities.shift();
+		let max = Math.max(...priorities);
+		if (priority < max) {
+			// 2. 나머지 인쇄 대기목록에서 J보다 중요도가 높은 문서가 한 개라도 존재하면 J를 대기목록의 가장 마지막에 넣습니다
+			waiting.push([priority, idx]);
+			priorities.push(priority);
+		} else {
+			// 3. 그렇지 않으면 J를 인쇄합니다
+			print++;
+			if (idx === location) return print;
+		}
+	}
+}

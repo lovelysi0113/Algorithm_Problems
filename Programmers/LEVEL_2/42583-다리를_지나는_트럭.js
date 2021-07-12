@@ -46,3 +46,44 @@ function solution(bridge_length, weight, truck_weights) {
 
 	return time;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-07-12
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://programmers.co.kr/learn/courses/30/lessons/42583
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ **/
+
+function solution(bridge_length, weight, truck_weights) {
+	let bridge = Array(bridge_length).fill(0);
+
+	let sumWeight = 0;
+	let time = 0;
+
+	while (truck_weights.length > 0) {
+		// 1초 지남
+		time += 1;
+		let now = bridge.shift();
+		sumWeight -= now;
+
+		// 새로운 트럭이 다리에 올라갈 수 있는지 확인
+		if (sumWeight + truck_weights[0] <= weight) {
+			// 트럭이 다리 위로 올라갈 수 있음
+			let truck = truck_weights.shift();
+			sumWeight += truck;
+			bridge.push(truck);
+		} else {
+			// 트럭이 올라갈 수 없음
+			bridge.push(0);
+		}
+	}
+
+	// 지금까지 나온 시간 + 마지막 트럭이 다리를 지나가는 시간
+	return time + bridge_length;
+}

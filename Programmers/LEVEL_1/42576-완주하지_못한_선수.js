@@ -33,7 +33,7 @@ function solution(participant, completion) {
  * DATE: 2021-07-12
  * AUTHOR: lovelysi0113
  *
- * URL: https://programmers.co.kr/learn/courses/30/lessons/
+ * URL: https://programmers.co.kr/learn/courses/30/lessons/42576
  *
  * COMMENT:
  * 코딩테스트 준비로 다시 한번 풀어보았다
