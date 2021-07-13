@@ -51,3 +51,54 @@ const isPrime = num => {
 	}
 	return true;
 };
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-07-13
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://programmers.co.kr/learn/courses/30/lessons/42839
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ **/
+
+function solution(numbers) {
+	// 한자리 숫자로 분리
+	numbers = numbers.split('').sort((a, b) => a - b);
+
+	// 종이 조각으로 만들 수 있는 숫자
+	let total = [];
+	for (let select = 1; select <= numbers.length; select++) {
+		let nums = makeNumber(numbers, select);
+		total.push(...nums.map(num => parseInt(num)));
+	}
+
+	// 소수 찾기
+	return [...new Set(total)].filter(num => isPrime(num)).length;
+}
+
+function makeNumber(arr, select) {
+	if (select === 1) {
+		return arr;
+	}
+	let result = [];
+	for (let idx = 0; idx < arr.length; idx++) {
+		let numarr = makeNumber([...arr.slice(0, idx), ...arr.slice(idx + 1)], select - 1);
+		result.push(...numarr.map(el => arr[idx] + el));
+	}
+	return result;
+}
+
+function isPrime(num) {
+	if (num <= 1) return false;
+	if (num === 2) return true;
+	for (let chk = 2; chk <= Math.sqrt(num); chk++) {
+		if (num % chk === 0) {
+			return false;
+		}
+	}
+	return true;
+}
