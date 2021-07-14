@@ -40,3 +40,50 @@ function solution(S) {
 		return 1;
 	}
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-07-14
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ **/
+
+// 시간 복잡도: O(N)
+
+function solution(S) {
+	// properly nested: S의 길이가 0이거나 괄호의 짝이 모두 맞음
+	// properly nested를 만족하면 1, 아니면 0 리턴
+
+	let N = S.length;
+	// N = 0인 경우 1 리턴
+	if (N === 0) return 1;
+	// N = 홀수인 경우 무조건 하나가 남으므로 짝이 맞지 않음
+	if (N % 2 !== 0) return 0;
+
+	// 열린 괄호를 담는 stack
+	let stack = [];
+
+	// 문자열 S가 properly nested를 만족하는지 확인
+	for (let idx = 0; idx < N; idx++) {
+		if (S[idx] === '(') {
+			// 열린 괄호인 경우
+			stack.push(S[idx]);
+		} else {
+			// 닫힌 괄호인 경우
+			// stack이 비어있으면 현재 닫힌 괄호와 짝 지어줄 열린 괄호가 없다는 의미 -> 0 리턴
+			if (stack.length === 0) return 0;
+			// 열린 괄호를 stack에서 꺼냄
+			stack.pop();
+		}
+	}
+
+	// stack에 남은 열린 괄호가 있다면 짝이 맞지 않는다는 의미 -> 0 리턴
+	if (stack.length > 0) return 0;
+	else return 1;
+}

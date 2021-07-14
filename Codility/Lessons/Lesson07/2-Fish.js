@@ -39,3 +39,65 @@ function solution(A, B) {
 
 	return stack[0].length + stack[1].length;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-07-14
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ **/
+
+// 시간 복잡도: O(N)
+
+function solution(A, B) {
+	// A[K]: K 물고기의 크기
+	// B[K]: K 물고기의 방향
+	// 두 물고기가 마주쳤을 때 크기가 큰 물고기가 작은 물고기를 잡아먹음
+	// 살아남은 물고기의 수를 구해야 한다
+
+	// N = 1이면 답은 무조건 1이다
+	let N = A.length;
+	if (N === 1) return 1;
+
+	// upstream: 위로 올라가는(0) 물고기들
+	// downstream: 아래로 내려가는(1) 물고기들
+	let upstream = [];
+	let downstream = [];
+
+	for (let K = 0; K < N; K++) {
+		let nowFish = A[K];
+		if (B[K] === 0) {
+			// 현재 물고기: 위로 올라감
+			if (downstream.length === 0) {
+				// 마주치는 물고기 없음
+				upstream.push(nowFish);
+			} else {
+				while (downstream.length > 0) {
+					// 물고기 마주침 -> 크기 비교
+					let meetFish = downstream.pop();
+					if (meetFish > nowFish) {
+						// 아래로 내려가는 고기가 더 큼
+						downstream.push(meetFish);
+						break;
+					}
+				}
+				if (downstream.length === 0) {
+					// 현재 물고기가 제일 큼
+					upstream.push(nowFish);
+				}
+			}
+		} else {
+			// 현재 물고기: 아래로 내려감 -> 마주치는 물고기 없음
+			downstream.push(nowFish);
+		}
+	}
+
+	// 살아남은 물고기 수 = 위로 올라가는 물고기 수 + 아래로 내려가는 물고기 수
+	return upstream.length + downstream.length;
+}
