@@ -33,3 +33,43 @@ function solution(A) {
 	}
 	return A[A.length - 1];
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-07-14
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ **/
+
+// 시간 복잡도: O(N) or O(N*log(N))
+
+function solution(A) {
+	// 빈 배열이 아닌 A는 홀수로 이루어져 있음
+	// 각 요소마다 pair가 있다, pair => 두 개의 값이 같음
+	// 오직 하나의 요소만 pair가 없다
+	// pair가 없는 요소 찾는 문제
+
+	// N이 1인 경우 -> 바로 정답이 나온다
+	let N = A.length;
+	if (N === 1) return A[0];
+
+	// A를 오름차순으로 정렬하기
+	A.sort((a, b) => a - b);
+
+	// 두개씩 pair인지 확인해보기
+	for (let idx = 0; idx < N - 1; idx += 2) {
+		if (A[idx] !== A[idx + 1]) {
+			// 두 개가 다르면 앞쪽에 있는 요소가 pair가 없음
+			return A[idx];
+		}
+	}
+
+	// 마지막 하나가 pair가 없음(앞의 모든 요소들은 모두 pair이다)
+	return A[N - 1];
+}
