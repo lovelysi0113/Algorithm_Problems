@@ -45,3 +45,41 @@ function combination(arr, select) {
 	}
 	return result;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-07-14
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://app.codility.com/programmers/lessons/6-sorting/triangle/
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ **/
+
+// 시간 복잡도: O(N*log(N))
+
+function solution(A) {
+	// A[P] + A[Q] > A[R], A[Q] + A[R] > A[P], A[R] + A[P] > A[Q]을 만족하는
+	// (P, Q, R)이 있으면 1, 없으면 0 리턴
+
+	// N < 3이면 3개를 고를 수 없으므로 0 리턴
+	let N = A.length;
+	if (N < 3) return 0;
+
+	// A를 오름차순 정렬
+	A.sort((a, b) => a - b);
+
+	// 오름차순 정렬했으므로 A[P] < A[Q] < A[R]을 항상 만족한다
+	// 따라서 A[Q] + A[R] > A[P], A[R] + A[P] > A[Q]는 항상 참이 되므로
+	// A[P] + A[Q] > A[R]인지만 확인하면 된다
+	// 인접한 인덱스 3개를 비교하여 A[P] + A[Q] > A[R]를 만족하는지 확인한다
+	for (let idx = 2; idx < N; idx++) {
+		if (A[idx - 2] + A[idx - 1] > A[idx]) return 1;
+	}
+
+	// for문을 다 돌았다 -> triangular triplet이 없다
+	return 0;
+}

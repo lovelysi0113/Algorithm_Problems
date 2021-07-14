@@ -32,3 +32,57 @@ function solution(A) {
 	}
 	return answer > 10000000 ? -1 : answer;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-07-14
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ * 참고한 풀이: https://darkstart.tistory.com/195
+ **/
+
+// 시간 복잡도: O(N*log(N)) or O(N)
+
+function solution(A) {
+	// 평면에 N개의 원을 그림
+	// A[J] = K : (J, 0) 위치에 반지름이 K인 원을 그림
+	// 서로 교차/포함하는 pair의 갯수 구하기
+
+	// N = 0, 1이면 답은 0이다
+	let N = A.length;
+	if (N <= 1) return 0;
+
+	// lower[J]: J 위치에 그려진 원의 최솟값
+	// upper[J]: J 위치에 그려진 원의 최댓값
+	let lower = [];
+	let upper = [];
+	A.forEach((K, J) => {
+		lower.push(J - K);
+		upper.push(J + K);
+	});
+
+	// lower, upper 정렬
+	lower.sort((a, b) => a - b);
+	upper.sort((a, b) => a - b);
+
+	// upper와 lower가 겹치는 횟수 구하기
+	let pair = 0;
+	let lowerIdx = 0;
+	for (let upperIdx = 0; upperIdx < N; upperIdx++) {
+		while (lowerIdx < N && lower[lowerIdx] <= upper[upperIdx]) {
+			pair += lowerIdx; // 겹치는 갯수 더하기
+			pair -= upperIdx; // 전에 계산했던 것과 중복 값 빼기
+			lowerIdx += 1;
+		}
+	}
+
+	// 일정 수 넘으면 -1 리턴
+	if (pair > 10000000) return -1;
+	else return pair;
+}
