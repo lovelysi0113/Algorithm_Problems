@@ -73,3 +73,41 @@ function solution(A) {
 	});
 	return profit;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-07-15
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ **/
+
+// 시간 복잡도: O(N)
+
+function solution(A) {
+	// profit: P <= Q일 때 A[Q] - A[P]
+	// profit의 최댓값 구하기, 만약 profit이 음수이면 0 리턴
+
+	// N이 1 이하일 때 0 리턴
+	let N = A.length;
+	if (N <= 1) return 0;
+
+	let start = A[0]; // price의 최솟값 저장
+	let profit = 0; // profit의 최댓값 저장
+	for (let idx = 1; idx < N; idx++) {
+		// start = A[0]~A[idx] 중에서 가장 최솟값
+		start = Math.min(start, A[idx]);
+		// now = 오늘 팔았을 때 나오는 수익
+		let now = A[idx] - start;
+		profit = Math.max(profit, now);
+	}
+
+	// profit이 음수이면 0 리턴
+	if (profit < 0) return 0;
+	else return profit;
+}

@@ -60,3 +60,48 @@ function combination(arr, select) {
 	}
 	return result;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-07-15
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ **/
+
+// 시간 복잡도: O(N)
+
+function solution(A) {
+	// A[X + 1] + A[X + 2] + ... + A[Y - 1] + A[Y + 1] + A[Y + 2] + ... + A[Z - 1]의 최댓값 구하기
+
+	// N = 3인 경우, 답은 무조건 0이다
+	let N = A.length;
+	if (N === 3) return 0;
+
+	// 나올 수 있는 Y의 범위
+	let minY = 1;
+	let maxY = N - 2;
+
+	// left[idx]: A[0]~A[idx]에서 나올 수 있는 부분합의 최댓값
+	let left = Array(N).fill(0);
+	for (let idx = minY; idx <= maxY; idx++) {
+		left[idx] = Math.max(0, left[idx - 1] + A[idx]);
+	}
+	// right[idx]: A[idx]~A[N-1]에서 나올 수 있는 부분합의 최댓값
+	let right = Array(N).fill(0);
+	for (let idx = maxY; idx >= minY; idx--) {
+		right[idx] = Math.max(0, right[idx + 1] + A[idx]);
+	}
+
+	// Y를 기준으로 left[Y-1] + right[Y+1] 중에서 최댓값 찾기
+	let answer = 0;
+	for (let Y = minY; Y <= maxY; Y++) {
+		answer = Math.max(answer, left[Y - 1] + right[Y + 1]);
+	}
+	return answer;
+}
