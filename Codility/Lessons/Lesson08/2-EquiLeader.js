@@ -73,3 +73,76 @@ function solution(A) {
 	}
 	return answer;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-07-15
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://app.codility.com/programmers/lessons/8-leader/equi_leader/
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ **/
+
+// 시간 복잡도: O(N)
+
+function solution(A) {
+	// leader: more than half인 요소의 값
+	// A[0]~A[S]에서의 leader와 A[S+1]~A[N-1]에서의 leader가 같은 경우가 나오는 S의 갯수 구하기
+
+	// N = 1인 경우 항상 0이다
+	let N = A.length;
+	if (N === 1) return 0;
+
+	// front[idx]: A[0]~A[idx]에서의 leader
+	let front = [];
+	let frontElements = {}; // 값 별로 요소의 갯수 저장
+	let maxValue = 0; // 갯수가 가장 많은 요소의 값
+	let maxCnt = 0; // maxValue의 갯수
+	for (let idx = 0; idx < N - 1; idx++) {
+		let value = A[idx];
+		if (frontElements[value] === undefined) {
+			frontElements[value] = 0;
+		}
+		frontElements[value] += 1;
+		if (maxCnt < frontElements[value]) {
+			maxCnt = frontElements[value];
+			maxValue = value;
+		}
+		if (maxCnt > (idx + 1) / 2) front.push(maxValue);
+		else front.push(Infinity);
+	}
+
+	// back[idx]: A[idx+1]~A[N-1]에서의 leader
+	let back = [];
+	let backElements = {}; // 값 별로 요소의 갯수 저장
+	maxValue = 0; // 갯수가 가장 많은 요소의 값
+	maxCnt = 0; // maxValue의 갯수
+	for (let idx = N - 1; idx > 0; idx--) {
+		let value = A[idx];
+		if (backElements[value] === undefined) {
+			backElements[value] = 0;
+		}
+		backElements[value] += 1;
+		if (maxCnt < backElements[value]) {
+			maxCnt = backElements[value];
+			maxValue = value;
+		}
+		if (maxCnt > (N - idx) / 2) back.push(maxValue);
+		else back.push(Infinity);
+	}
+	back.reverse();
+
+	// front[S]와 back[S] 비교
+	let answer = 0;
+	for (let S = 0; S < N - 1; S++) {
+		if (front[S] !== Infinity && front[S] === back[S]) {
+			answer += 1;
+		}
+	}
+
+	return answer;
+}
