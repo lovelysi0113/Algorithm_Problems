@@ -79,3 +79,47 @@ function solution(A) {
 
 	return startIdx;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-07-14
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ **/
+
+// 시간 복잡도: O(N)
+
+function solution(A) {
+	// 배열 A에서 A[P]~A[Q]의 평균값이 최소가 되는 P 구하기
+
+	// 예외처리: N이 2이면 P는 무조건 0이다
+	let N = A.length;
+	if (N === 2) return 0;
+
+	// minAvg: A[P]~A[Q]의 평균값의 최솟값
+	let minAvg = (A[0] + A[1]) / 2;
+	let P = 0;
+
+	for (let idx = 2; idx < N; idx++) {
+		// 2개의 평균값 구하기
+		let twoAvg = (A[idx] + A[idx - 1]) / 2;
+		if (twoAvg < minAvg) {
+			minAvg = twoAvg;
+			P = idx - 1;
+		}
+		// 3개의 평균값 구하기
+		let threeAvg = (A[idx] + A[idx - 1] + A[idx - 2]) / 3;
+		if (threeAvg < minAvg) {
+			minAvg = threeAvg;
+			P = idx - 2;
+		}
+	}
+
+	return P;
+}

@@ -36,3 +36,31 @@ function solution(A, B, K) {
 	}
 	return answer;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-07-14
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ **/
+
+// 시간 복잡도: O(1)
+
+function solution(A, B, K) {
+	// A ~ B 사이의 수에서 K로 나누어 떨어지는 수의 갯수 구하기
+
+	for (let num = A; num <= B; num++) {
+		if (num % K === 0) {
+			// num이 K로 나누어 떨어지는 수이면 num+K도 K로 나누어 떨어진다
+			return Math.floor((B - num) / K) + 1;
+		}
+	}
+
+	return 0;
+}

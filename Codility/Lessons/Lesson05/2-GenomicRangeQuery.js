@@ -72,3 +72,48 @@ function solution(S, P, Q) {
 
 	return answer;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-07-14
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ **/
+
+// 시간 복잡도: O(N + M)
+
+function solution(S, P, Q) {
+	// P ~ Q 범위에서 가장 작은 impact factor 구하기
+
+	// S를 impact factor로 변환
+	const impact = { A: 1, C: 2, G: 3, T: 4 };
+	// factorCnt: 0~K번째까지의 각 factor의 갯수
+	let factorCnt = [[0, 0, 0, 0, 0]];
+	for (let idx = 0; idx < S.length; idx++) {
+		let now = [...factorCnt[idx]];
+		now[impact[S[idx]]] += 1;
+		factorCnt.push(now);
+	}
+
+	// P ~ Q 범위에서 가장 작은 impact factor 구하기
+	// P~Q 범위에 있는 각 factor의 갯수 = factorCnt[Q+1] - factorCnt[P]
+	let answer = [];
+	for (let idx = 0; idx < P.length; idx++) {
+		let p = P[idx];
+		let q = Q[idx] + 1;
+		for (let chk = 1; chk <= 4; chk++) {
+			if (factorCnt[q][chk] - factorCnt[p][chk] > 0) {
+				answer.push(chk);
+				break;
+			}
+		}
+	}
+
+	return answer;
+}
