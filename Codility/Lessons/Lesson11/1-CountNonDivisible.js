@@ -85,3 +85,47 @@ function solution(A) {
 
 	return answer;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ * DATE: 2021-07-15
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/
+ *
+ * COMMENT:
+ * 코딩테스트 준비로 다시 한번 풀어보았다
+ **/
+
+// 시간 복잡도: O(N * log(N))
+
+function solution(A) {
+	// answer[i]: A의 요소들 중 A[i]로 나누어 떨어지지 않는 요소의 갯수
+	// answer 구하기
+
+	// N = 1이면 답은 [0]이다
+	let N = A.length;
+	if (N === 1) return [0];
+
+	// 숫자가 몇개씩 있는지 구하기
+	let elements = Array(2 * N + 1).fill(0);
+	A.forEach(num => (elements[num] += 1));
+
+	// 각 요소마다 non-divisors가 몇개인지 세기
+	let answer = Array(N).fill(N);
+	for (let idx = 0; idx < N; idx++) {
+		let num = A[idx];
+		for (let chk = 1; chk <= Math.sqrt(num); chk++) {
+			if (num % chk === 0) {
+				answer[idx] -= elements[chk];
+				if (chk * chk !== num) {
+					answer[idx] -= elements[num / chk];
+				}
+			}
+		}
+	}
+
+	return answer;
+}
