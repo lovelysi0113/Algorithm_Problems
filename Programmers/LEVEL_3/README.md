@@ -8,6 +8,8 @@
 | :---: | :--------------- | :------------------------------------------------------------------: | :---------------------------------------: | :------------------------------: | :--------------------------- |
 | 12900 | 2 x n 타일링     | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12900) |    [JavaScript](./12900-2xn_타일링.js)    | [Python3](./12900-2xn_타일링.py) |                              |
 | 12904 | 가장 긴 팰린드롬 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12904) | [JavaScript](./12904-가장_긴_팰린드롬.js) |                                  |                              |
+| 12907 | 거스름돈         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12907) |     [JavaScript](./12907-거스름돈.js)     |                                  |                              |
+| 12914 | 멀리 뛰기        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12914) |    [JavaScript](./12914-멀리_뛰기.js)     |                                  |                              |
 | 12927 | 야근 지수        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12927) |    [JavaScript](./12927-야근_지수.js)     | [Python3](./12927-야근_지수.py)  |                              |
 | 12979 | 기지국 설치      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12979) |   [JavaScript](./12979-기지국_설치.js)    |                                  | Summer/Winter Coding(~2018)  |
 | 17676 | 추석 트래픽      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/17676) |   [JavaScript](./17676-추석_트래픽.js)    |                                  | 2018 KAKAO BLIND RECRUITMENT |
