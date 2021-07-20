@@ -16,6 +16,7 @@
 | 1110 | 더하기 사이클     | [문제주소](https://www.acmicpc.net/problem/1110) | 🟫 브론즈 I   |   [JavaScript](./01XXX/1110-더하기_사이클.js)   |   [Python3](./01XXX/1110-더하기_사이클.py)   |           |
 | 1152 | 단어의 개수       | [문제주소](https://www.acmicpc.net/problem/1152) | 🟫 브론즈 II  |    [JavaScript](./01XXX/1152-단어의_개수.js)    |    [Python3](./01XXX/1152-단어의_개수.py)    |           |
 | 1157 | 단어 공부         | [문제주소](https://www.acmicpc.net/problem/1157) | 🟫 브론즈 I   |     [JavaScript](./01XXX/1157-단어_공부.js)     |     [Python3](./01XXX/1157-단어_공부.py)     |           |
+| 1159 | 농구 경기         | [문제주소](https://www.acmicpc.net/problem/1159) | 🟫 브론즈 II  |     [JavaScript](./01XXX/1159-농구_경기.js)     |                                              |           |
 | 1260 | DFS와 BFS         | [문제주소](https://www.acmicpc.net/problem/1260) | 🟧 실버 V     |     [JavaScript](./01XXX/1260-DFS와_BFS.js)     |     [Python3](./01XXX/1260-DFS와_BFS.py)     |           |
 | 1264 | 모음의 개수       | [문제주소](https://www.acmicpc.net/problem/1264) | 🟫 브론즈 II  |   [JavaScript](./01XXX/1264-모음의_-개수.js)    |                                              |           |
 | 1271 | 엄청난 부자2      | [문제주소](https://www.acmicpc.net/problem/1271) | 🟫 브론즈 V   |   [JavaScript](./01XXX/1271-엄청난_부자2.js)    |   [Python3](./01XXX/1271-엄청난_부자2.py)    |           |
@@ -32,21 +33,27 @@
 | 1712 | 손익분기점        | [문제주소](https://www.acmicpc.net/problem/1712) | 🟫 브론즈 IV  |    [JavaScript](./01XXX/1712-손익분기점.js)     |    [Python3](./01XXX/1712-손익분기점.py)     |           |
 | 1864 | 문어 숫자         | [문제주소](https://www.acmicpc.net/problem/1864) | 🟫 브론즈 III |     [JavaScript](./01XXX/1864-문어_숫자.js)     |                                              |           |
 | 1874 | 스택 수열         | [문제주소](https://www.acmicpc.net/problem/1874) | 🟧 실버 III   |     [JavaScript](./01XXX/1874-스택_수열.js)     |     [Python3](./01XXX/1874-스택_수열.py)     |           |
+| 1919 | 애너그램 만들기   | [문제주소](https://www.acmicpc.net/problem/1919) | 🟫 브론즈 II  |  [JavaScript](./01XXX/1919-애너그램_만들기.js)  |                                              |           |
 | 1920 | 수 찾기           | [문제주소](https://www.acmicpc.net/problem/1920) | 🟧 실버 IV    |      [JavaScript](./01XXX/1920-수_찾기.js)      |      [Python3](./01XXX/1920-수_찾기.py)      |           |
 | 1929 | 소수 구하기       | [문제주소](https://www.acmicpc.net/problem/1929) | 🟧 실버 II    |    [JavaScript](./01XXX/1929-소수_구하기.js)    |    [Python3](./01XXX/1929-소수_구하기.py)    |           |
 | 1934 | 최소공배수        | [문제주소](https://www.acmicpc.net/problem/1934) | 🟧 실버 V     |    [JavaScript](./01XXX/1934-최소공배수.js)     |    [Python3](./01XXX/1934-최소공배수.py)     |           |
 | 1978 | 소수 찾기         | [문제주소](https://www.acmicpc.net/problem/1978) | 🟧 실버 IV    |     [JavaScript](./01XXX/1978-소수_찾기.js)     |     [Python3](./01XXX/1978-소수_찾기.py)     |           |
+| 1996 | 지뢰 찾기         | [문제주소](https://www.acmicpc.net/problem/1996) | 🟫 브론즈 I   |     [JavaScript](./01XXX/1996-지뢰_찾기.js)     |                                              |           |
 
 ## 02XXX
 
 | 번호 | 문제                    |                     문제 URL                     | 난이도        |                       문제 풀이                       |                     문제 풀이                      | 문제 출처 |
 | :--: | :---------------------- | :----------------------------------------------: | :------------ | :---------------------------------------------------: | :------------------------------------------------: | :-------- |
+| 2083 | 럭비 클럽               | [문제주소](https://www.acmicpc.net/problem/2083) | 🟫 브론즈 I   |        [JavaScript](./02XXX/2083-럭비_클럽.js)        |                                                    |           |
 | 2164 | 카드2                   | [문제주소](https://www.acmicpc.net/problem/2164) | 🟧 실버 IV    |        [JavaScript](<./02XXX/2164-카드(2).js>)        |        [Python3](<./02XXX/2164-카드(2).py>)        |           |
 | 2292 | 벌집                    | [문제주소](https://www.acmicpc.net/problem/2292) | 🟫 브론즈 II  |          [JavaScript](./02XXX/2292-벌집.js)           |          [Python3](./02XXX/2292-벌집.py)           |           |
 | 2338 | 긴자리 계산             | [문제주소](https://www.acmicpc.net/problem/2338) | 🟫 브론즈 V   |       [JavaScript](./02XXX/2338-긴자리_계산.js)       |       [Python3](./02XXX/2338-긴자리_계산.py)       |           |
 | 2420 | 사파리월드              | [문제주소](https://www.acmicpc.net/problem/2420) | 🟫 브론즈 IV  |       [JavaScript](./02XXX/2420-사파리월드.js)        |       [Python3](./02XXX/2420-사파리월드.py)        |           |
 | 2438 | 별 찍기 - 1             | [문제주소](https://www.acmicpc.net/problem/2438) | 🟫 브론즈 III |      [JavaScript](<./02XXX/2438-별_찍기(1).js>)       |      [Python3](<./02XXX/2438-별_찍기(1).py>)       |           |
 | 2439 | 별 찍기 - 2             | [문제주소](https://www.acmicpc.net/problem/2439) | 🟫 브론즈 III |      [JavaScript](<./02XXX/2439-별_찍기(2).js>)       |      [Python3](<./02XXX/2439-별_찍기(2).py>)       |           |
+| 2440 | 별 찍기 - 3             | [문제주소](https://www.acmicpc.net/problem/2440) | 🟫 브론즈 III |      [JavaScript](<./02XXX/2440-별_찍기(3).js>)       |                                                    |           |
+| 2441 | 별 찍기 - 4             | [문제주소](https://www.acmicpc.net/problem/2441) | 🟫 브론즈 III |      [JavaScript](<./02XXX/2441-별_찍기(4).js>)       |                                                    |           |
+| 2460 | 지능형 기차 2           | [문제주소](https://www.acmicpc.net/problem/2460) | 🟫 브론즈 III |    [JavaScript](<./02XXX/2460-지능형_기차(2).js>)     |                                                    |           |
 | 2475 | 검증수                  | [문제주소](https://www.acmicpc.net/problem/2475) | 🟫 브론즈 V   |         [JavaScript](./02XXX/2475-검증수.js)          |         [Python3](./02XXX/2475-검증수.py)          |           |
 | 2525 | 오븐 시계               | [문제주소](https://www.acmicpc.net/problem/2525) | 🟫 브론즈 IV  |        [JavaScript](./02XXX/2525-오븐_시계.js)        |        [Python3](./02XXX/2525-오븐_시계.py)        |           |
 | 2557 | Hello World             | [문제주소](https://www.acmicpc.net/problem/2557) | 🟫 브론즈 V   |       [JavaScript](./02XXX/2557-Hello_World.js)       |       [Python3](./02XXX/2557-Hello_World.py)       |           |
