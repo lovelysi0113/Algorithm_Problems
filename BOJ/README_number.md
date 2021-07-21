@@ -9,8 +9,11 @@
 | 1000 | A+B               | [문제주소](https://www.acmicpc.net/problem/1000) | 🟫 브론즈 V   |        [JavaScript](./01XXX/1000-A+B.js)        |        [Python3](./01XXX/1000-A+B.py)        |           |
 | 1001 | A-B               | [문제주소](https://www.acmicpc.net/problem/1001) | 🟫 브론즈 V   |        [JavaScript](./01XXX/1001-A-B.js)        |        [Python3](./01XXX/1001-A-B.py)        |           |
 | 1008 | A/B               | [문제주소](https://www.acmicpc.net/problem/1008) | 🟫 브론즈 IV  |     [JavaScript](./01XXX/1008-A나누기B.js)      |     [Python3](./01XXX/1008-A나누기B.py)      |           |
+| 1009 | 분산처리          | [문제주소](https://www.acmicpc.net/problem/1009) | 🟫 브론즈 III |     [JavaScript](./01XXX/1009-분산처리.js)      |                                              |           |
+| 1032 | 명령 프롬프트     | [문제주소](https://www.acmicpc.net/problem/1032) | 🟫 브론즈 I   |   [JavaScript](./01XXX/1032-명령_프롬프트.js)   |                                              |           |
 | 1037 | 약수              | [문제주소](https://www.acmicpc.net/problem/1037) | 🟧 실버 V     |       [JavaScript](./01XXX/1037-약수.js)        |       [Python3](./01XXX/1037-약수.py)        |           |
 | 1065 | 한수              | [문제주소](https://www.acmicpc.net/problem/1065) | 🟧 실버 IV    |       [JavaScript](./01XXX/1065-한수.js)        |       [Python3](./01XXX/1065-한수.py)        |           |
+| 1075 | 나누기            | [문제주소](https://www.acmicpc.net/problem/1075) | 🟫 브론즈 II  |      [JavaScript](./01XXX/1075-나누기.js)       |                                              |           |
 | 1085 | 직사각형에서 탈출 | [문제주소](https://www.acmicpc.net/problem/1085) | 🟫 브론즈 III | [JavaScript](./01XXX/1085-직사각형에서_탈출.js) | [Python3](./01XXX/1085-직사각형에서_탈출.py) |           |
 | 1100 | 하얀 칸           | [문제주소](https://www.acmicpc.net/problem/1100) | 🟫 브론즈 II  |      [JavaScript](./01XXX/1100-하얀_칸.js)      |      [Python3](./01XXX/1100-하얀_칸.py)      |           |
 | 1110 | 더하기 사이클     | [문제주소](https://www.acmicpc.net/problem/1110) | 🟫 브론즈 I   |   [JavaScript](./01XXX/1110-더하기_사이클.js)   |   [Python3](./01XXX/1110-더하기_사이클.py)   |           |
@@ -53,8 +56,12 @@
 | 2439 | 별 찍기 - 2             | [문제주소](https://www.acmicpc.net/problem/2439) | 🟫 브론즈 III |      [JavaScript](<./02XXX/2439-별_찍기(2).js>)       |      [Python3](<./02XXX/2439-별_찍기(2).py>)       |           |
 | 2440 | 별 찍기 - 3             | [문제주소](https://www.acmicpc.net/problem/2440) | 🟫 브론즈 III |      [JavaScript](<./02XXX/2440-별_찍기(3).js>)       |                                                    |           |
 | 2441 | 별 찍기 - 4             | [문제주소](https://www.acmicpc.net/problem/2441) | 🟫 브론즈 III |      [JavaScript](<./02XXX/2441-별_찍기(4).js>)       |                                                    |           |
+| 2442 | 별 찍기 - 5             | [문제주소](https://www.acmicpc.net/problem/2442) | 🟫 브론즈 III |      [JavaScript](<./02XXX/2442-별_찍기(5).js>)       |                                                    |           |
+| 2443 | 별 찍기 - 6             | [문제주소](https://www.acmicpc.net/problem/2443) | 🟫 브론즈 III |      [JavaScript](<./02XXX/2443-별_찍기(6).js>)       |                                                    |           |
+| 2455 | 지능형 기차             | [문제주소](https://www.acmicpc.net/problem/2455) | 🟫 브론즈 III |       [JavaScript](./02XXX/2455-지능형_기차.js)       |                                                    |           |
 | 2460 | 지능형 기차 2           | [문제주소](https://www.acmicpc.net/problem/2460) | 🟫 브론즈 III |    [JavaScript](<./02XXX/2460-지능형_기차(2).js>)     |                                                    |           |
 | 2475 | 검증수                  | [문제주소](https://www.acmicpc.net/problem/2475) | 🟫 브론즈 V   |         [JavaScript](./02XXX/2475-검증수.js)          |         [Python3](./02XXX/2475-검증수.py)          |           |
+| 2506 | 점수계산                | [문제주소](https://www.acmicpc.net/problem/2506) | 🟫 브론즈 III |        [JavaScript](./02XXX/2506-점수계산.js)         |                                                    |           |
 | 2525 | 오븐 시계               | [문제주소](https://www.acmicpc.net/problem/2525) | 🟫 브론즈 IV  |        [JavaScript](./02XXX/2525-오븐_시계.js)        |        [Python3](./02XXX/2525-오븐_시계.py)        |           |
 | 2557 | Hello World             | [문제주소](https://www.acmicpc.net/problem/2557) | 🟫 브론즈 V   |       [JavaScript](./02XXX/2557-Hello_World.js)       |       [Python3](./02XXX/2557-Hello_World.py)       |           |
 | 2558 | A+B - 2                 | [문제주소](https://www.acmicpc.net/problem/2558) | 🟫 브론즈 V   |        [JavaScript](<./02XXX/2558-A+B(2).js>)         |        [Python3](<./02XXX/2558-A+B(2).py>)         |           |
