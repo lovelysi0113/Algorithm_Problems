@@ -11,6 +11,7 @@
 | 12907 | 거스름돈         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12907) |     [JavaScript](./12907-거스름돈.js)     |                                  |                              |
 | 12914 | 멀리 뛰기        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12914) |    [JavaScript](./12914-멀리_뛰기.js)     |                                  |                              |
 | 12927 | 야근 지수        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12927) |    [JavaScript](./12927-야근_지수.js)     | [Python3](./12927-야근_지수.py)  |                              |
+| 12938 | 최고의 집합      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12938) |   [JavaScript](./12938-최고의_집합.js)    |                                  |                              |
 | 12979 | 기지국 설치      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12979) |   [JavaScript](./12979-기지국_설치.js)    |                                  | Summer/Winter Coding(~2018)  |
 | 17676 | 추석 트래픽      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/17676) |   [JavaScript](./17676-추석_트래픽.js)    |                                  | 2018 KAKAO BLIND RECRUITMENT |
 
