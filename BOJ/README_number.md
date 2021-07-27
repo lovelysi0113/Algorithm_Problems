@@ -118,40 +118,63 @@
 
 ## 04XXX
 
-| 번호 | 문제          |                     문제 URL                     | 난이도        |                  문제 풀이                  |                문제 풀이                 | 문제 출처 |
-| :--: | :------------ | :----------------------------------------------: | :------------ | :-----------------------------------------: | :--------------------------------------: | :-------- |
-| 4153 | 직각삼각형    | [문제주소](https://www.acmicpc.net/problem/4153) | 🟫 브론즈 III |  [JavaScript](./04XXX/4153-직각삼각형.js)   |  [Python3](./04XXX/4153-직각삼각형.py)   |           |
-| 4344 | 평균은 넘겠지 | [문제주소](https://www.acmicpc.net/problem/4344) | 🟫 브론즈 I   | [JavaScript](./04XXX/4344-평균은_넘겠지.js) | [Python3](./04XXX/4344-평균은_넘겠지.py) |           |
-| 4673 | 셀프 넘버     | [문제주소](https://www.acmicpc.net/problem/4673) | 🟧 실버 V     |   [JavaScript](./04XXX/4673-셀프_넘버.js)   |   [Python3](./04XXX/4673-셀프_넘버.py)   |           |
-| 4949 | 균형잡힌 세상 | [문제주소](https://www.acmicpc.net/problem/4949) | 🟧 실버 IV    | [JavaScript](./04XXX/4949-균형잡힌_세상.js) | [Python3](./04XXX/4949-균형잡힌_세상.py) |           |
+| 번호 | 문제             |                     문제 URL                     | 난이도        |                   문제 풀이                    |                문제 풀이                 | 문제 출처 |
+| :--: | :--------------- | :----------------------------------------------: | :------------ | :--------------------------------------------: | :--------------------------------------: | :-------- |
+| 4101 | 크냐?            | [문제주소](https://www.acmicpc.net/problem/4101) | 🟫 브론즈 III |       [JavaScript](./04XXX/4101-크냐.js)       |                                          |           |
+| 4153 | 직각삼각형       | [문제주소](https://www.acmicpc.net/problem/4153) | 🟫 브론즈 III |    [JavaScript](./04XXX/4153-직각삼각형.js)    |  [Python3](./04XXX/4153-직각삼각형.py)   |           |
+| 4344 | 평균은 넘겠지    | [문제주소](https://www.acmicpc.net/problem/4344) | 🟫 브론즈 I   |  [JavaScript](./04XXX/4344-평균은_넘겠지.js)   | [Python3](./04XXX/4344-평균은_넘겠지.py) |           |
+| 4673 | 셀프 넘버        | [문제주소](https://www.acmicpc.net/problem/4673) | 🟧 실버 V     |    [JavaScript](./04XXX/4673-셀프_넘버.js)     |   [Python3](./04XXX/4673-셀프_넘버.py)   |           |
+| 4892 | 숫자 맞추기 게임 | [문제주소](https://www.acmicpc.net/problem/4892) | 🟫 브론즈 III | [JavaScript](./04XXX/4892-숫자_맞추기_게임.js) |                                          |           |
+| 4949 | 균형잡힌 세상    | [문제주소](https://www.acmicpc.net/problem/4949) | 🟧 실버 IV    |  [JavaScript](./04XXX/4949-균형잡힌_세상.js)   | [Python3](./04XXX/4949-균형잡힌_세상.py) |           |
 
 ## 05XXX
 
 | 번호 | 문제                |                     문제 URL                     | 난이도        |                     문제 풀이                     |                   문제 풀이                    | 문제 출처 |
 | :--: | :------------------ | :----------------------------------------------: | :------------ | :-----------------------------------------------: | :--------------------------------------------: | :-------- |
 | 5086 | 배수와 약수         | [문제주소](https://www.acmicpc.net/problem/5086) | 🟫 브론즈 III |     [JavaScript](./05XXX/5086-배수와_약수.js)     |     [Python3](./05XXX/5086-배수와_약수.py)     |           |
+| 5217 | 쌍의 합             | [문제주소](https://www.acmicpc.net/problem/5217) | 🟫 브론즈 III |       [JavaScript](./05XXX/5217-쌍의_합.js)       |                                                |           |
 | 5218 | 알파벳 거리         | [문제주소](https://www.acmicpc.net/problem/5218) | 🟫 브론즈 II  |     [JavaScript](./05XXX/5218-알파벳_거리.js)     |                                                |           |
 | 5337 | 웰컴                | [문제주소](https://www.acmicpc.net/problem/5337) | 🟫 브론즈 V   |        [JavaScript](./05XXX/5337-웰컴.js)         |        [Python3](./05XXX/5337-웰컴.py)         |           |
 | 5338 | 마이크로소프트 로고 | [문제주소](https://www.acmicpc.net/problem/5338) | 🟫 브론즈 V   | [JavaScript](./05XXX/5338-마이크로소프트_로고.js) | [Python3](./05XXX/5338-마이크로소프트_로고.py) |           |
+| 5339 | 콜센터              | [문제주소](https://www.acmicpc.net/problem/5339) | 🟫 브론즈 V   |       [JavaScript](./05XXX/5339-콜센터.js)        |                                                |           |
 | 5426 | 비밀 편지           | [문제주소](https://www.acmicpc.net/problem/5426) | 🟫 브론즈 I   |      [JavaScript](./05XXX/5426-비밀_편지.js)      |                                                |           |
 | 5543 | 상근날드            | [문제주소](https://www.acmicpc.net/problem/5543) | 🟫 브론즈 IV  |      [JavaScript](./05XXX/5543-상근날드.js)       |      [Python3](./05XXX/5543-상근날드.py)       |           |
 | 5554 | 심부름 가는 길      | [문제주소](https://www.acmicpc.net/problem/5554) | 🟫 브론즈 V   |   [JavaScript](./05XXX/5554-심부름_가는_길.js)    |   [Python3](./05XXX/5554-심부름_가는_길.py)    |           |
 | 5622 | 다이얼              | [문제주소](https://www.acmicpc.net/problem/5622) | 🟫 브론즈 II  |       [JavaScript](./05XXX/5622-다이얼.js)        |       [Python3](./05XXX/5622-다이얼.py)        |           |
 
+## 06XXX
+
+| 번호 | 문제         |                     문제 URL                     | 난이도       |                 문제 풀이                  | 문제 풀이 | 문제 출처 |
+| :--: | :----------- | :----------------------------------------------: | :----------- | :----------------------------------------: | :-------: | :-------- |
+| 6749 | Next in line | [문제주소](https://www.acmicpc.net/problem/6749) | 🟫 브론즈 V  | [JavaScript](./06XXX/6749-Next_in_line.js) |           |           |
+| 6778 | Which Alien? | [문제주소](https://www.acmicpc.net/problem/6778) | 🟫 브론즈 IV | [JavaScript](./06XXX/6778-Which_Alien.js)  |           |           |
+
+## 07XXX
+
+| 번호 | 문제              |                     문제 URL                     | 난이도        |                   문제 풀이                    | 문제 풀이 | 문제 출처 |
+| :--: | :---------------- | :----------------------------------------------: | :------------ | :--------------------------------------------: | :-------: | :-------- |
+| 7287 | 등록              | [문제주소](https://www.acmicpc.net/problem/7287) | 🟫 브론즈 V   |       [JavaScript](./07XXX/7287-등록.js)       |           |           |
+| 7891 | Can you add this? | [문제주소](https://www.acmicpc.net/problem/7891) | 🟫 브론즈 III | [JavaScript](./07XXX/7891-Can_you_add_this.js) |           |           |
+
 ## 08XXX
 
 | 번호 | 문제   |                     문제 URL                     | 난이도       |              문제 풀이               |             문제 풀이             | 문제 출처 |
 | :--: | :----- | :----------------------------------------------: | :----------- | :----------------------------------: | :-------------------------------: | :-------- |
+| 8370 | Plane  | [문제주소](https://www.acmicpc.net/problem/8370) | 🟫 브론즈 V  | [JavaScript](./08XXX/8370-Plane.js)  |                                   |           |
 | 8393 | 합     | [문제주소](https://www.acmicpc.net/problem/8393) | 🟫 브론즈 V  |   [JavaScript](./08XXX/8393-합.js)   |   [Python3](./08XXX/8393-합.py)   |           |
 | 8958 | OX퀴즈 | [문제주소](https://www.acmicpc.net/problem/8958) | 🟫 브론즈 II | [JavaScript](./08XXX/8958-OX퀴즈.js) | [Python3](./08XXX/8958-OX퀴즈.py) |           |
 
 ## 09XXX
 
-| 번호 | 문제          |                     문제 URL                     | 난이도       |                  문제 풀이                  |                문제 풀이                 | 문제 출처 |
-| :--: | :------------ | :----------------------------------------------: | :----------- | :-----------------------------------------: | :--------------------------------------: | :-------- |
-| 9012 | 괄호          | [문제주소](https://www.acmicpc.net/problem/9012) | 🟧 실버 IV   |     [JavaScript](./09XXX/9012-괄호.js)      |     [Python3](./09XXX/9012-괄호.py)      |           |
-| 9375 | 패션왕 신해빈 | [문제주소](https://www.acmicpc.net/problem/9375) | 🟧 실버 III  | [JavaScript](./09XXX/9375-패션왕_신해빈.js) | [Python3](./09XXX/9375-패션왕_신해빈.py) |           |
-| 9498 | 시험 성적     | [문제주소](https://www.acmicpc.net/problem/9498) | 🟫 브론즈 IV |   [JavaScript](./09XXX/9498-시험_성적.js)   |   [Python3](./09XXX/9498-시험_성적.py)   |           |
+| 번호 | 문제                |                     문제 URL                     | 난이도        |                     문제 풀이                     |                문제 풀이                 | 문제 출처 |
+| :--: | :------------------ | :----------------------------------------------: | :------------ | :-----------------------------------------------: | :--------------------------------------: | :-------- |
+| 9012 | 괄호                | [문제주소](https://www.acmicpc.net/problem/9012) | 🟧 실버 IV    |        [JavaScript](./09XXX/9012-괄호.js)         |     [Python3](./09XXX/9012-괄호.py)      |           |
+| 9316 | Hello Judge         | [문제주소](https://www.acmicpc.net/problem/9316) | 🟫 브론즈 III |     [JavaScript](./09XXX/9316-Hello_Judge.js)     |                                          |           |
+| 9375 | 패션왕 신해빈       | [문제주소](https://www.acmicpc.net/problem/9375) | 🟧 실버 III   |    [JavaScript](./09XXX/9375-패션왕_신해빈.js)    | [Python3](./09XXX/9375-패션왕_신해빈.py) |           |
+| 9498 | 시험 성적           | [문제주소](https://www.acmicpc.net/problem/9498) | 🟫 브론즈 IV  |      [JavaScript](./09XXX/9498-시험_성적.js)      |   [Python3](./09XXX/9498-시험_성적.py)   |           |
+| 9653 | 스타워즈 로고       | [문제주소](https://www.acmicpc.net/problem/9653) | 🟫 브론즈 V   |    [JavaScript](./09XXX/9653-스타워즈_로고.js)    |                                          |           |
+| 9654 | 나부 함대 데이터    | [문제주소](https://www.acmicpc.net/problem/9654) | 🟫 브론즈 V   |  [JavaScript](./09XXX/9654-나부_함대_데이터.js)   |                                          |           |
+| 9713 | Sum of Odd Sequence | [문제주소](https://www.acmicpc.net/problem/9713) | 🟫 브론즈 III | [JavaScript](./09XXX/9713-Sum_of_Odd_Sequence.js) |                                          |           |
 
 ## 10XXX
 
