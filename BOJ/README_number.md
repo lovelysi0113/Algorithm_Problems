@@ -24,12 +24,14 @@
 | 1152 | 단어의 개수           | [문제주소](https://www.acmicpc.net/problem/1152) | 🟫 브론즈 II  |      [JavaScript](./01XXX/1152-단어의_개수.js)      |    [Python3](./01XXX/1152-단어의_개수.py)    |           |
 | 1157 | 단어 공부             | [문제주소](https://www.acmicpc.net/problem/1157) | 🟫 브론즈 I   |       [JavaScript](./01XXX/1157-단어_공부.js)       |     [Python3](./01XXX/1157-단어_공부.py)     |           |
 | 1159 | 농구 경기             | [문제주소](https://www.acmicpc.net/problem/1159) | 🟫 브론즈 II  |       [JavaScript](./01XXX/1159-농구_경기.js)       |                                              |           |
+| 1181 | 단어 정렬             | [문제주소](https://www.acmicpc.net/problem/1181) | 🟧 실버 V     |       [JavaScript](./01XXX/1181-단어_정렬.js)       |                                              |           |
 | 1233 | 주사위                | [문제주소](https://www.acmicpc.net/problem/1233) | 🟫 브론즈 II  |        [JavaScript](./01XXX/1233-주사위.js)         |                                              |           |
 | 1259 | 팰린드롬수            | [문제주소](https://www.acmicpc.net/problem/1259) | 🟫 브론즈 I   |      [JavaScript](./01XXX/1259-팰린드롬수.js)       |                                              |           |
 | 1260 | DFS와 BFS             | [문제주소](https://www.acmicpc.net/problem/1260) | 🟧 실버 V     |       [JavaScript](./01XXX/1260-DFS와_BFS.js)       |     [Python3](./01XXX/1260-DFS와_BFS.py)     |           |
 | 1264 | 모음의 개수           | [문제주소](https://www.acmicpc.net/problem/1264) | 🟫 브론즈 II  |     [JavaScript](./01XXX/1264-모음의_-개수.js)      |                                              |           |
 | 1271 | 엄청난 부자2          | [문제주소](https://www.acmicpc.net/problem/1271) | 🟫 브론즈 V   |     [JavaScript](./01XXX/1271-엄청난_부자2.js)      |   [Python3](./01XXX/1271-엄청난_부자2.py)    |           |
 | 1284 | 집 주소               | [문제주소](https://www.acmicpc.net/problem/1284) | 🟫 브론즈 III |        [JavaScript](./01XXX/1284-집_주소.js)        |                                              |           |
+| 1296 | 데이트                | [문제주소](https://www.acmicpc.net/problem/1296) | 🟫 브론즈 II  |        [JavaScript](./01XXX/1296-데이트.js)         |                                              |           |
 | 1297 | TV 크기               | [문제주소](https://www.acmicpc.net/problem/1297) | 🟫 브론즈 IV  |        [JavaScript](./01XXX/1297-TV_크기.js)        |      [Python3](./01XXX/1297-TV_크기.py)      |           |
 | 1316 | 그룹 단어 체커        | [문제주소](https://www.acmicpc.net/problem/1316) | 🟧 실버 V     |    [JavaScript](./01XXX/1316-그룹_단어_체커.js)     |  [Python3](./01XXX/1316-그룹_단어_체커.py)   |           |
 | 1330 | 두 수 비교하기        | [문제주소](https://www.acmicpc.net/problem/1330) | 🟫 브론즈 IV  |    [JavaScript](./01XXX/1330-두_수_비교하기.js)     |  [Python3](./01XXX/1330-두_수_비교하기.py)   |           |
