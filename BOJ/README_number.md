@@ -39,6 +39,7 @@
 | 1392 | 노래 악보             | [문제주소](https://www.acmicpc.net/problem/1392) | 🟫 브론즈 II  |       [JavaScript](./01XXX/1392-노래_악보.js)       |                                              |           |
 | 1427 | 소트인사이드          | [문제주소](https://www.acmicpc.net/problem/1427) | 🟧 실버 V     |     [JavaScript](./01XXX/1427-소트인사이드.js)      |                                              |           |
 | 1453 | 피시방 알바           | [문제주소](https://www.acmicpc.net/problem/1453) | 🟫 브론즈 I   |      [JavaScript](./01XXX/1453-피시방_알바.js)      |                                              |           |
+| 1475 | 방 번호               | [문제주소](https://www.acmicpc.net/problem/1475) | 🟧 실버 V     |        [JavaScript](./01XXX/1475-방_번호.js)        |                                              |           |
 | 1500 | 최대 곱               | [문제주소](https://www.acmicpc.net/problem/1500) | 🟧 실버 I     |        [JavaScript](./01XXX/1500-최대_곱.js)        |                                              |           |
 | 1546 | 평균                  | [문제주소](https://www.acmicpc.net/problem/1546) | 🟫 브론즈 I   |         [JavaScript](./01XXX/1546-평균.js)          |       [Python3](./01XXX/1546-평균.py)        |           |
 | 1547 | 공                    | [문제주소](https://www.acmicpc.net/problem/1547) | 🟫 브론즈 III |          [JavaScript](./01XXX/1547-공.js)           |                                              |           |
@@ -48,12 +49,14 @@
 | 1676 | 팩토리얼 0의 개수     | [문제주소](https://www.acmicpc.net/problem/1676) | 🟧 실버 IV    |   [JavaScript](./01XXX/1676-팩토리얼_0의_개수.js)   |                                              |           |
 | 1712 | 손익분기점            | [문제주소](https://www.acmicpc.net/problem/1712) | 🟫 브론즈 IV  |      [JavaScript](./01XXX/1712-손익분기점.js)       |    [Python3](./01XXX/1712-손익분기점.py)     |           |
 | 1731 | 추론                  | [문제주소](https://www.acmicpc.net/problem/1731) | 🟫 브론즈 II  |         [JavaScript](./01XXX/1731-추론.js)          |                                              |           |
+| 1769 | 3의 배수              | [문제주소](https://www.acmicpc.net/problem/1769) | 🟧 실버 V     |       [JavaScript](./01XXX/1769-3의_배수.js)        |                                              |           |
 | 1834 | 나머지와 몫이 같은 수 | [문제주소](https://www.acmicpc.net/problem/1834) | 🟫 브론즈 I   | [JavaScript](./01XXX/1834-나머지와_몫이_같은_수.js) |                                              |           |
 | 1855 | 암호                  | [문제주소](https://www.acmicpc.net/problem/1855) | 🟫 브론즈 I   |         [JavaScript](./01XXX/1855-암호.js)          |                                              |           |
 | 1864 | 문어 숫자             | [문제주소](https://www.acmicpc.net/problem/1864) | 🟫 브론즈 III |       [JavaScript](./01XXX/1864-문어_숫자.js)       |                                              |           |
 | 1874 | 스택 수열             | [문제주소](https://www.acmicpc.net/problem/1874) | 🟧 실버 III   |       [JavaScript](./01XXX/1874-스택_수열.js)       |     [Python3](./01XXX/1874-스택_수열.py)     |           |
 | 1919 | 애너그램 만들기       | [문제주소](https://www.acmicpc.net/problem/1919) | 🟫 브론즈 II  |    [JavaScript](./01XXX/1919-애너그램_만들기.js)    |                                              |           |
 | 1920 | 수 찾기               | [문제주소](https://www.acmicpc.net/problem/1920) | 🟧 실버 IV    |        [JavaScript](./01XXX/1920-수_찾기.js)        |      [Python3](./01XXX/1920-수_찾기.py)      |           |
+| 1924 | 2007년                | [문제주소](https://www.acmicpc.net/problem/1924) | 🟫 브론즈 I   |        [JavaScript](./01XXX/1924-2007년.js)         |                                              |           |
 | 1929 | 소수 구하기           | [문제주소](https://www.acmicpc.net/problem/1929) | 🟧 실버 II    |      [JavaScript](./01XXX/1929-소수_구하기.js)      |    [Python3](./01XXX/1929-소수_구하기.py)    |           |
 | 1934 | 최소공배수            | [문제주소](https://www.acmicpc.net/problem/1934) | 🟧 실버 V     |      [JavaScript](./01XXX/1934-최소공배수.js)       |    [Python3](./01XXX/1934-최소공배수.py)     |           |
 | 1966 | 프린터 큐             | [문제주소](https://www.acmicpc.net/problem/1966) | 🟧 실버 III   |       [JavaScript](./01XXX/1966-프린터_큐.js)       |                                              |           |
