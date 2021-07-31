@@ -94,6 +94,7 @@
 | 2558 | A+B - 2                 | [문제주소](https://www.acmicpc.net/problem/2558) | 🟫 브론즈 V   |        [JavaScript](<./02XXX/2558-A+B(2).js>)         |        [Python3](<./02XXX/2558-A+B(2).py>)         |           |
 | 2562 | 최댓값                  | [문제주소](https://www.acmicpc.net/problem/2562) | 🟫 브론즈 II  |         [JavaScript](./02XXX/2562-최댓값.js)          |         [Python3](./02XXX/2562-최댓값.py)          |           |
 | 2566 | 최댓값                  | [문제주소](https://www.acmicpc.net/problem/2566) | 🟫 브론즈 III |         [JavaScript](./02XXX/2566-최댓값.js)          |                                                    |           |
+| 2576 | 홀수                    | [문제주소](https://www.acmicpc.net/problem/2576) | 🟫 브론즈 III |          [JavaScript](./02XXX/2576-홀수.js)           |                                                    |           |
 | 2577 | 숫자의 개수             | [문제주소](https://www.acmicpc.net/problem/2577) | 🟫 브론즈 II  |       [JavaScript](./02XXX/2577-숫자의_개수.js)       |       [Python3](./02XXX/2577-숫자의_개수.py)       |           |
 | 2581 | 소수                    | [문제주소](https://www.acmicpc.net/problem/2581) | 🟧 실버 V     |          [JavaScript](./02XXX/2581-소수.js)           |          [Python3](./02XXX/2581-소수.py)           |           |
 | 2588 | 곱셈                    | [문제주소](https://www.acmicpc.net/problem/2588) | 🟫 브론즈 IV  |          [JavaScript](./02XXX/2588-곱셈.js)           |          [Python3](./02XXX/2588-곱셈.py)           |           |
@@ -106,11 +107,13 @@
 | 2739 | 구구단                  | [문제주소](https://www.acmicpc.net/problem/2739) | 🟫 브론즈 III |         [JavaScript](./02XXX/2739-구구단.js)          |         [Python3](./02XXX/2739-구구단.py)          |           |
 | 2741 | N 찍기                  | [문제주소](https://www.acmicpc.net/problem/2741) | 🟫 브론즈 III |         [JavaScript](./02XXX/2741-N_찍기.js)          |         [Python3](./02XXX/2741-N_찍기.py)          |           |
 | 2742 | 기찍 N                  | [문제주소](https://www.acmicpc.net/problem/2742) | 🟫 브론즈 III |         [JavaScript](./02XXX/2742-기찍_N.js)          |         [Python3](./02XXX/2742-기찍_N.py)          |           |
+| 2743 | 단어 길이 재기          | [문제주소](https://www.acmicpc.net/problem/2743) | 🟫 브론즈 II  |     [JavaScript](./02XXX/2743-단어_길이_재기.js)      |                                                    |           |
 | 2744 | 대소문자 바꾸기         | [문제주소](https://www.acmicpc.net/problem/2744) | 🟫 브론즈 II  |     [JavaScript](./02XXX/2744-대소문자_바꾸기.js)     |                                                    |           |
 | 2750 | 수 정렬하기             | [문제주소](https://www.acmicpc.net/problem/2750) | 🟫 브론즈 III |       [JavaScript](./02XXX/2750-수_정렬하기.js)       |       [Python3](./02XXX/2750-수_정렬하기.py)       |           |
 | 2751 | 수 정렬하기 2           | [문제주소](https://www.acmicpc.net/problem/2751) | 🟧 실버 V     |    [JavaScript](<./02XXX/2751-수_정렬하기(2).js>)     |    [Python3](<./02XXX/2751-수_정렬하기(2).py>)     |           |
 | 2752 | 세수정렬                | [문제주소](https://www.acmicpc.net/problem/2752) | 🟫 브론즈 IV  |        [JavaScript](./02XXX/2752-세수정렬.js)         |        [Python3](./02XXX/2752-세수정렬.py)         |           |
 | 2753 | 윤년                    | [문제주소](https://www.acmicpc.net/problem/2753) | 🟫 브론즈 IV  |          [JavaScript](./02XXX/2753-윤년.js)           |          [Python3](./02XXX/2753-윤년.py)           |           |
+| 2754 | 학점계산                | [문제주소](https://www.acmicpc.net/problem/2754) | 🟫 브론즈 III |        [JavaScript](./02XXX/2754-학점계산.js)         |                                                    |           |
 | 2789 | 유학 금지               | [문제주소](https://www.acmicpc.net/problem/2789) | 🟫 브론즈 II  |        [JavaScript](./02XXX/2789-유학_금지.js)        |                                                    |           |
 | 2805 | 나무 자르기             | [문제주소](https://www.acmicpc.net/problem/2805) | 🟧 실버 III   |       [JavaScript](./02XXX/2805-나무_자르기.js)       |       [Python3](./02XXX/2805-나무_자르기.py)       |           |
 | 2845 | 파티가 끝나고 난 뒤     | [문제주소](https://www.acmicpc.net/problem/2845) | 🟫 브론즈 V   |   [JavaScript](./02XXX/2845-파티가_끝나고_난_뒤.js)   |   [Python3](./02XXX/2845-파티가_끝나고_난_뒤.py)   |           |
