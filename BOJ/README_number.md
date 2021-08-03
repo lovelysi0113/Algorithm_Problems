@@ -122,7 +122,7 @@
 | 2908 | 상수                    |   [문제주소](https://www.acmicpc.net/problem/)   | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/>  |          [JavaScript](./02XXX/2908-상수.js)           |          [Python3](./02XXX/2908-상수.py)           |           |
 | 2941 | 크로아티아 알파벳       | [문제주소](https://www.acmicpc.net/problem/2941) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/6.svg"/>  |    [JavaScript](./02XXX/2941-크로아티아_알파벳.js)    |    [Python3](./02XXX/2941-크로아티아_알파벳.py)    |           |
 | 2959 | 거북이                  | [문제주소](https://www.acmicpc.net/problem/2959) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/>  |         [JavaScript](./02XXX/2959-거북이.js)          |                                                    |           |
-| 2981 | 검문                    | [문제주소](https://www.acmicpc.net/problem/2981) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/10.svg"/> |          [JavaScript](./02XXX/2981-검문.js)           |          [Python3](./02XXX/2981-검문.py)           |           |
+| 2981 | 검문                    | [문제주소](https://www.acmicpc.net/problem/2981) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/> |          [JavaScript](./02XXX/2981-검문.js)           |          [Python3](./02XXX/2981-검문.py)           |           |
 
 ## 03XXX
 
@@ -255,7 +255,8 @@
 | 번호  | 문제          |                     문제 URL                      |                                       난이도                                       |                  문제 풀이                   |                 문제 풀이                 | 문제 출처 |
 | :---: | :------------ | :-----------------------------------------------: | :--------------------------------------------------------------------------------: | :------------------------------------------: | :---------------------------------------: | :-------- |
 | 14499 | 주사위 굴리기 | [문제주소](https://www.acmicpc.net/problem/14499) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/> | [JavaScript](./14XXX/14499-주사위_굴리기.js) |                                           |           |
-| 14501 | 퇴사          | [문제주소](https://www.acmicpc.net/problem/14501) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/7.svg"/>  |     [JavaScript](./14XXX/14501-퇴사.js)      |                                           |           |
+| 14500 | 테트로미노    | [문제주소](https://www.acmicpc.net/problem/14500) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/> |  [JavaScript](./14XXX/14500-테트로미노.js)   |  [Python3](./14XXX/14500-테트로미노.py)   |           |
+| 14501 | 퇴사          | [문제주소](https://www.acmicpc.net/problem/14501) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/7.svg"/>  |     [JavaScript](./14XXX/14501-퇴사.js)      |     [Python3](./14XXX/14501-퇴사.py)      |           |
 | 14681 | 사분면 고르기 | [문제주소](https://www.acmicpc.net/problem/14681) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/2.svg"/>  | [JavaScript](./14XXX/14681-사분면_고르기.js) | [Python3](./14XXX/14681-사분면_고르기.py) |           |
 | 14920 | 3n+1 수열     | [문제주소](https://www.acmicpc.net/problem/14920) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/>  |   [JavaScript](./14XXX/14920-3n+1_수열.js)   |                                           |           |
 
