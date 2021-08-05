@@ -1,7 +1,7 @@
 /**
  * ABOUT
  *
- * DATE: 2021-08-03
+ * DATE: 2021-08-05
  * AUTHOR: lovelysi0113
  *
  * URL: https://www.acmicpc.net/problem/14500
@@ -129,7 +129,7 @@ rl.on('line', function (line) {
 
 	// 모든 맵을 돌면서 테트로미노 놓기
 	for (let i = 0; i < N; i++) {
-		for (let j = 0; j < N; j++) {
+		for (let j = 0; j < M; j++) {
 			blocks.forEach(block => {
 				let isRight = true;
 				let chkSum = map[i][j];
@@ -143,6 +143,7 @@ rl.on('line', function (line) {
 					}
 				}
 				if (isRight) {
+					// 테트로미노가 놓인 칸에 쓰인 수들의 합의 최댓값 찾기
 					answer = Math.max(answer, chkSum);
 				}
 			});

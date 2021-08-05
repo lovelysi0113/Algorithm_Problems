@@ -252,14 +252,14 @@
 
 ## 14XXX
 
-| 번호  | 문제            |                     문제 URL                      |                                       난이도                                       |                   문제 풀이                    |                 문제 풀이                 | 문제 출처 |
-| :---: | :-------------- | :-----------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------: | :---------------------------------------: | :-------- |
-| 14499 | 주사위 굴리기   | [문제주소](https://www.acmicpc.net/problem/14499) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/> |  [JavaScript](./14XXX/14499-주사위_굴리기.js)  |                                           |           |
-| 14500 | 테트로미노      | [문제주소](https://www.acmicpc.net/problem/14500) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/> |   [JavaScript](./14XXX/14500-테트로미노.js)    |  [Python3](./14XXX/14500-테트로미노.py)   |           |
-| 14501 | 퇴사            | [문제주소](https://www.acmicpc.net/problem/14501) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/7.svg"/>  |      [JavaScript](./14XXX/14501-퇴사.js)       |     [Python3](./14XXX/14501-퇴사.py)      |           |
-| 14681 | 사분면 고르기   | [문제주소](https://www.acmicpc.net/problem/14681) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/2.svg"/>  |  [JavaScript](./14XXX/14681-사분면_고르기.js)  | [Python3](./14XXX/14681-사분면_고르기.py) |           |
-| 14888 | 연산자 끼워넣기 | [문제주소](https://www.acmicpc.net/problem/14888) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/10.svg"/> | [JavaScript](./14XXX/14888-연산자_끼워넣기.js) |                                           |           |
-| 14920 | 3n+1 수열       | [문제주소](https://www.acmicpc.net/problem/14920) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/>  |    [JavaScript](./14XXX/14920-3n+1_수열.js)    |                                           |           |
+| 번호  | 문제            |                     문제 URL                      |                                       난이도                                       |                   문제 풀이                    |                  문제 풀이                  | 문제 출처 |
+| :---: | :-------------- | :-----------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------: | :-------- |
+| 14499 | 주사위 굴리기   | [문제주소](https://www.acmicpc.net/problem/14499) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/> |  [JavaScript](./14XXX/14499-주사위_굴리기.js)  |                                             |           |
+| 14500 | 테트로미노      | [문제주소](https://www.acmicpc.net/problem/14500) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/> |   [JavaScript](./14XXX/14500-테트로미노.js)    |   [Python3](./14XXX/14500-테트로미노.py)    |           |
+| 14501 | 퇴사            | [문제주소](https://www.acmicpc.net/problem/14501) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/7.svg"/>  |      [JavaScript](./14XXX/14501-퇴사.js)       |      [Python3](./14XXX/14501-퇴사.py)       |           |
+| 14681 | 사분면 고르기   | [문제주소](https://www.acmicpc.net/problem/14681) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/2.svg"/>  |  [JavaScript](./14XXX/14681-사분면_고르기.js)  |  [Python3](./14XXX/14681-사분면_고르기.py)  |           |
+| 14888 | 연산자 끼워넣기 | [문제주소](https://www.acmicpc.net/problem/14888) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/10.svg"/> | [JavaScript](./14XXX/14888-연산자_끼워넣기.js) | [Python3](./14XXX/14888-연산자_끼워넣기.py) |           |
+| 14920 | 3n+1 수열       | [문제주소](https://www.acmicpc.net/problem/14920) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/>  |    [JavaScript](./14XXX/14920-3n+1_수열.js)    |                                             |           |
 
 ## 15XXX
 
