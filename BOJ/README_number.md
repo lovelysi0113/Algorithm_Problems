@@ -267,11 +267,12 @@
 
 ## 15XXX
 
-| 번호  | 문제          |                     문제 URL                      |                                      난이도                                       |                 문제 풀이                 |                 문제 풀이                 | 문제 출처 |
-| :---: | :------------ | :-----------------------------------------------: | :-------------------------------------------------------------------------------: | :---------------------------------------: | :---------------------------------------: | :-------- |
-| 15552 | 빠른 A+B      | [문제주소](https://www.acmicpc.net/problem/15552) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/> |  [JavaScript](./15XXX/15552-빠른_A+B.js)  |   [Python3](./15XXX/15552-빠른_A+B.py)    |           |
-| 15596 | 정수 N개의 합 | [문제주소](https://www.acmicpc.net/problem/15596) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/> |                  지원 X                   | [Python3](./15XXX/15596-정수_N개의_합.py) |           |
-| 15650 | N과 M (2)     | [문제주소](https://www.acmicpc.net/problem/15650) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/8.svg"/> | [JavaScript](<./15XXX/15650-N과_M(2).js>) |  [Python3](<./15XXX/15650-N과_M(2).py>)   |           |
+| 번호  | 문제          |                     문제 URL                      |                                       난이도                                       |                 문제 풀이                  |                 문제 풀이                 | 문제 출처 |
+| :---: | :------------ | :-----------------------------------------------: | :--------------------------------------------------------------------------------: | :----------------------------------------: | :---------------------------------------: | :-------- |
+| 15552 | 빠른 A+B      | [문제주소](https://www.acmicpc.net/problem/15552) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/>  |  [JavaScript](./15XXX/15552-빠른_A+B.js)   |   [Python3](./15XXX/15552-빠른_A+B.py)    |           |
+| 15596 | 정수 N개의 합 | [문제주소](https://www.acmicpc.net/problem/15596) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/>  |                   지원 X                   | [Python3](./15XXX/15596-정수_N개의_합.py) |           |
+| 15650 | N과 M (2)     | [문제주소](https://www.acmicpc.net/problem/15650) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/8.svg"/>  | [JavaScript](<./15XXX/15650-N과_M(2).js>)  |  [Python3](<./15XXX/15650-N과_M(2).py>)   |           |
+| 15684 | 사다리 조작   | [문제주소](https://www.acmicpc.net/problem/15684) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/12.svg"/> | [JavaScript](./15XXX/15684-사다리_조작.js) |                                           |           |
 
 ## 17XXX
 
