@@ -274,6 +274,12 @@
 | 15650 | N과 M (2)     | [문제주소](https://www.acmicpc.net/problem/15650) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/8.svg"/>  | [JavaScript](<./15XXX/15650-N과_M(2).js>)  |  [Python3](<./15XXX/15650-N과_M(2).py>)   |           |
 | 15684 | 사다리 조작   | [문제주소](https://www.acmicpc.net/problem/15684) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/12.svg"/> | [JavaScript](./15XXX/15684-사다리_조작.js) |                                           |           |
 
+## 16XXX
+
+| 번호  | 문제      |                     문제 URL                      |                                       난이도                                       |                문제 풀이                 | 문제 풀이 | 문제 출처 |
+| :---: | :-------- | :-----------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------: | :-------: | :-------- |
+| 16234 | 인구 이동 | [문제주소](https://www.acmicpc.net/problem/16234) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/> | [JavaScript](./16XXX/16234-인구_이동.js) |           |           |
+
 ## 17XXX
 
 | 번호  | 문제              |                     문제 URL                      |                                      난이도                                       |                    문제 풀이                     |                   문제 풀이                   | 문제 출처 |
