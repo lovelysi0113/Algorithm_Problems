@@ -137,30 +137,34 @@
 
 ## 03XXX
 
-| 번호 | 문제          |                     문제 URL                     |                                      난이도                                       |                  문제 풀이                  |               문제 풀이               | 문제 출처 |
-| :--: | :------------ | :----------------------------------------------: | :-------------------------------------------------------------------------------: | :-----------------------------------------: | :-----------------------------------: | :-------- |
-| 3009 | 네 번째 점    | [문제주소](https://www.acmicpc.net/problem/3009) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/> |  [JavaScript](./03XXX/3009-네_번째_점.js)   | [Python3](./03XXX/3009-네_번째_점.py) |           |
-| 3023 | 마술사 이민혁 | [문제주소](https://www.acmicpc.net/problem/3023) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/5.svg"/> | [JavaScript](./03XXX/3023-마술사_이민혁.js) |                                       |           |
-| 3046 | R2            | [문제주소](https://www.acmicpc.net/problem/3046) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/1.svg"/> |      [JavaScript](./03XXX/3046-R2.js)       |     [Python3](./03XXX/3046-R2.py)     |           |
-| 3052 | 나머지        | [문제주소](https://www.acmicpc.net/problem/3052) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/> |    [JavaScript](./03XXX/3052-나머지.js)     |   [Python3](./03XXX/3052-나머지.py)   |           |
-| 3449 | 해밍 거리     | [문제주소](https://www.acmicpc.net/problem/3449) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/> |   [JavaScript](./03XXX/3449-해밍_거리.js)   |                                       |           |
+| 번호 | 문제                    |                     문제 URL                     |                                      난이도                                       |                       문제 풀이                       |               문제 풀이               | 문제 출처 |
+| :--: | :---------------------- | :----------------------------------------------: | :-------------------------------------------------------------------------------: | :---------------------------------------------------: | :-----------------------------------: | :-------- |
+| 3009 | 네 번째 점              | [문제주소](https://www.acmicpc.net/problem/3009) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/> |       [JavaScript](./03XXX/3009-네_번째_점.js)        | [Python3](./03XXX/3009-네_번째_점.py) |           |
+| 3023 | 마술사 이민혁           | [문제주소](https://www.acmicpc.net/problem/3023) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/5.svg"/> |      [JavaScript](./03XXX/3023-마술사_이민혁.js)      |                                       |           |
+| 3040 | 백설 공주와 일곱 난쟁이 | [문제주소](https://www.acmicpc.net/problem/3040) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/> | [JavaScript](./03XXX/3040-백설_공주와_일곱_난쟁이.js) |                                       |           |
+| 3046 | R2                      | [문제주소](https://www.acmicpc.net/problem/3046) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/1.svg"/> |           [JavaScript](./03XXX/3046-R2.js)            |     [Python3](./03XXX/3046-R2.py)     |           |
+| 3052 | 나머지                  | [문제주소](https://www.acmicpc.net/problem/3052) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/> |         [JavaScript](./03XXX/3052-나머지.js)          |   [Python3](./03XXX/3052-나머지.py)   |           |
+| 3449 | 해밍 거리               | [문제주소](https://www.acmicpc.net/problem/3449) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/> |        [JavaScript](./03XXX/3449-해밍_거리.js)        |                                       |           |
 
 ## 04XXX
 
-| 번호 | 문제             |                     문제 URL                     |                                      난이도                                       |                   문제 풀이                    |                문제 풀이                 | 문제 출처 |
-| :--: | :--------------- | :----------------------------------------------: | :-------------------------------------------------------------------------------: | :--------------------------------------------: | :--------------------------------------: | :-------- |
-| 4101 | 크냐?            | [문제주소](https://www.acmicpc.net/problem/4101) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/> |       [JavaScript](./04XXX/4101-크냐.js)       |                                          |           |
-| 4150 | 피보나치 수      | [문제주소](https://www.acmicpc.net/problem/4150) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/6.svg"/> |   [JavaScript](./04XXX/4150-피보나치_수.js)    |                                          |           |
-| 4153 | 직각삼각형       | [문제주소](https://www.acmicpc.net/problem/4153) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/> |    [JavaScript](./04XXX/4153-직각삼각형.js)    |  [Python3](./04XXX/4153-직각삼각형.py)   |           |
-| 4344 | 평균은 넘겠지    | [문제주소](https://www.acmicpc.net/problem/4344) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/5.svg"/> |  [JavaScript](./04XXX/4344-평균은_넘겠지.js)   | [Python3](./04XXX/4344-평균은_넘겠지.py) |           |
-| 4673 | 셀프 넘버        | [문제주소](https://www.acmicpc.net/problem/4673) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/6.svg"/> |    [JavaScript](./04XXX/4673-셀프_넘버.js)     |   [Python3](./04XXX/4673-셀프_넘버.py)   |           |
-| 4892 | 숫자 맞추기 게임 | [문제주소](https://www.acmicpc.net/problem/4892) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/> | [JavaScript](./04XXX/4892-숫자_맞추기_게임.js) |                                          |           |
-| 4949 | 균형잡힌 세상    | [문제주소](https://www.acmicpc.net/problem/4949) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/7.svg"/> |  [JavaScript](./04XXX/4949-균형잡힌_세상.js)   | [Python3](./04XXX/4949-균형잡힌_세상.py) |           |
+| 번호 | 문제               |                     문제 URL                     |                                      난이도                                       |                    문제 풀이                     |                문제 풀이                 | 문제 출처 |
+| :--: | :----------------- | :----------------------------------------------: | :-------------------------------------------------------------------------------: | :----------------------------------------------: | :--------------------------------------: | :-------- |
+| 4101 | 크냐?              | [문제주소](https://www.acmicpc.net/problem/4101) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/> |        [JavaScript](./04XXX/4101-크냐.js)        |                                          |           |
+| 4150 | 피보나치 수        | [문제주소](https://www.acmicpc.net/problem/4150) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/6.svg"/> |    [JavaScript](./04XXX/4150-피보나치_수.js)     |                                          |           |
+| 4153 | 직각삼각형         | [문제주소](https://www.acmicpc.net/problem/4153) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/> |     [JavaScript](./04XXX/4153-직각삼각형.js)     |  [Python3](./04XXX/4153-직각삼각형.py)   |           |
+| 4344 | 평균은 넘겠지      | [문제주소](https://www.acmicpc.net/problem/4344) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/5.svg"/> |   [JavaScript](./04XXX/4344-평균은_넘겠지.js)    | [Python3](./04XXX/4344-평균은_넘겠지.py) |           |
+| 4458 | 첫 글자를 대문자로 | [문제주소](https://www.acmicpc.net/problem/4458) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/> | [JavaScript](./04XXX/4458-첫_글자를_대문자로.js) |                                          |           |
+| 4470 | 줄번호             | [문제주소](https://www.acmicpc.net/problem/4470) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/> |       [JavaScript](./04XXX/4470-줄번호.js)       |                                          |           |
+| 4673 | 셀프 넘버          | [문제주소](https://www.acmicpc.net/problem/4673) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/6.svg"/> |     [JavaScript](./04XXX/4673-셀프_넘버.js)      |   [Python3](./04XXX/4673-셀프_넘버.py)   |           |
+| 4892 | 숫자 맞추기 게임   | [문제주소](https://www.acmicpc.net/problem/4892) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/> |  [JavaScript](./04XXX/4892-숫자_맞추기_게임.js)  |                                          |           |
+| 4949 | 균형잡힌 세상      | [문제주소](https://www.acmicpc.net/problem/4949) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/7.svg"/> |   [JavaScript](./04XXX/4949-균형잡힌_세상.js)    | [Python3](./04XXX/4949-균형잡힌_세상.py) |           |
 
 ## 05XXX
 
 | 번호 | 문제                |                     문제 URL                     |                                       난이도                                       |                     문제 풀이                     |                   문제 풀이                    | 문제 출처 |
 | :--: | :------------------ | :----------------------------------------------: | :--------------------------------------------------------------------------------: | :-----------------------------------------------: | :--------------------------------------------: | :-------- |
+| 5054 | 주차의 신           | [문제주소](https://www.acmicpc.net/problem/5054) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/>  |      [JavaScript](./05XXX/5054-주차의_신.js)      |                                                |           |
 | 5086 | 배수와 약수         | [문제주소](https://www.acmicpc.net/problem/5086) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/>  |     [JavaScript](./05XXX/5086-배수와_약수.js)     |     [Python3](./05XXX/5086-배수와_약수.py)     |           |
 | 5217 | 쌍의 합             | [문제주소](https://www.acmicpc.net/problem/5217) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/>  |       [JavaScript](./05XXX/5217-쌍의_합.js)       |                                                |           |
 | 5218 | 알파벳 거리         | [문제주소](https://www.acmicpc.net/problem/5218) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/>  |     [JavaScript](./05XXX/5218-알파벳_거리.js)     |                                                |           |
@@ -173,6 +177,7 @@
 | 5554 | 심부름 가는 길      | [문제주소](https://www.acmicpc.net/problem/5554) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/1.svg"/>  |   [JavaScript](./05XXX/5554-심부름_가는_길.js)    |   [Python3](./05XXX/5554-심부름_가는_길.py)    |           |
 | 5557 | 1학년               | [문제주소](https://www.acmicpc.net/problem/5557) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/> |        [JavaScript](./05XXX/5557-1학년.js)        |                                                |           |
 | 5622 | 다이얼              | [문제주소](https://www.acmicpc.net/problem/5622) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/>  |       [JavaScript](./05XXX/5622-다이얼.js)        |       [Python3](./05XXX/5622-다이얼.py)        |           |
+| 5691 | 평균 중앙값 문제    | [문제주소](https://www.acmicpc.net/problem/5691) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/>  |  [JavaScript](./05XXX/5691-평균_중앙값_문제.js)   |                                                |           |
 
 ## 06XXX
 
