@@ -156,6 +156,7 @@
 | 4344 | 평균은 넘겠지      | [문제주소](https://www.acmicpc.net/problem/4344) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/5.svg"/> |   [JavaScript](./04XXX/4344-평균은_넘겠지.js)    | [Python3](./04XXX/4344-평균은_넘겠지.py) |           |
 | 4458 | 첫 글자를 대문자로 | [문제주소](https://www.acmicpc.net/problem/4458) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/> | [JavaScript](./04XXX/4458-첫_글자를_대문자로.js) |                                          |           |
 | 4470 | 줄번호             | [문제주소](https://www.acmicpc.net/problem/4470) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/> |       [JavaScript](./04XXX/4470-줄번호.js)       |                                          |           |
+| 4562 | No Brainer         | [문제주소](https://www.acmicpc.net/problem/4562) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/> |     [JavaScript](./04XXX/4562-No_Brainer.js)     |                                          |           |
 | 4673 | 셀프 넘버          | [문제주소](https://www.acmicpc.net/problem/4673) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/6.svg"/> |     [JavaScript](./04XXX/4673-셀프_넘버.js)      |   [Python3](./04XXX/4673-셀프_넘버.py)   |           |
 | 4892 | 숫자 맞추기 게임   | [문제주소](https://www.acmicpc.net/problem/4892) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/> |  [JavaScript](./04XXX/4892-숫자_맞추기_게임.js)  |                                          |           |
 | 4949 | 균형잡힌 세상      | [문제주소](https://www.acmicpc.net/problem/4949) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/7.svg"/> |   [JavaScript](./04XXX/4949-균형잡힌_세상.js)    | [Python3](./04XXX/4949-균형잡힌_세상.py) |           |
@@ -274,16 +275,19 @@
 
 ## 14XXX
 
-| 번호  | 문제            |                     문제 URL                      |                                       난이도                                       |                   문제 풀이                    |                  문제 풀이                  | 문제 출처 |
-| :---: | :-------------- | :-----------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------: | :-------- |
-| 14499 | 주사위 굴리기   | [문제주소](https://www.acmicpc.net/problem/14499) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/> |  [JavaScript](./14XXX/14499-주사위_굴리기.js)  |                                             |           |
-| 14500 | 테트로미노      | [문제주소](https://www.acmicpc.net/problem/14500) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/> |   [JavaScript](./14XXX/14500-테트로미노.js)    |   [Python3](./14XXX/14500-테트로미노.py)    |           |
-| 14501 | 퇴사            | [문제주소](https://www.acmicpc.net/problem/14501) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/7.svg"/>  |      [JavaScript](./14XXX/14501-퇴사.js)       |      [Python3](./14XXX/14501-퇴사.py)       |           |
-| 14502 | 연구소          | [문제주소](https://www.acmicpc.net/problem/14502) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/> |                                                |     [Python3](./14XXX/14502-연구소.py)      |           |
-| 14503 | 로봇 청소기     | [문제주소](https://www.acmicpc.net/problem/14503) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/> |                                                |   [Python3](./14XXX/14503-로봇_청소기.py)   |           |
-| 14681 | 사분면 고르기   | [문제주소](https://www.acmicpc.net/problem/14681) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/2.svg"/>  |  [JavaScript](./14XXX/14681-사분면_고르기.js)  |  [Python3](./14XXX/14681-사분면_고르기.py)  |           |
-| 14888 | 연산자 끼워넣기 | [문제주소](https://www.acmicpc.net/problem/14888) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/10.svg"/> | [JavaScript](./14XXX/14888-연산자_끼워넣기.js) | [Python3](./14XXX/14888-연산자_끼워넣기.py) |           |
-| 14920 | 3n+1 수열       | [문제주소](https://www.acmicpc.net/problem/14920) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/>  |    [JavaScript](./14XXX/14920-3n+1_수열.js)    |                                             |           |
+| 번호  | 문제              |                     문제 URL                      |                                          난이도                                           |                    문제 풀이                     |                  문제 풀이                  | 문제 출처 |
+| :---: | :---------------- | :-----------------------------------------------: | :---------------------------------------------------------------------------------------: | :----------------------------------------------: | :-----------------------------------------: | :-------- |
+| 14499 | 주사위 굴리기     | [문제주소](https://www.acmicpc.net/problem/14499) |    <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/>     |   [JavaScript](./14XXX/14499-주사위_굴리기.js)   |                                             |           |
+| 14500 | 테트로미노        | [문제주소](https://www.acmicpc.net/problem/14500) |    <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/>     |    [JavaScript](./14XXX/14500-테트로미노.js)     |   [Python3](./14XXX/14500-테트로미노.py)    |           |
+| 14501 | 퇴사              | [문제주소](https://www.acmicpc.net/problem/14501) |     <img height="22px" width="22px" src="https://static.solved.ac/tier_small/7.svg"/>     |       [JavaScript](./14XXX/14501-퇴사.js)        |      [Python3](./14XXX/14501-퇴사.py)       |           |
+| 14502 | 연구소            | [문제주소](https://www.acmicpc.net/problem/14502) |    <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/>     |                                                  |     [Python3](./14XXX/14502-연구소.py)      |           |
+| 14503 | 로봇 청소기       | [문제주소](https://www.acmicpc.net/problem/14503) |    <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/>     |                                                  |   [Python3](./14XXX/14503-로봇_청소기.py)   |           |
+| 14582 | 오늘도 졌다       | [문제주소](https://www.acmicpc.net/problem/14582) |     <img height="22px" width="22px" src="https://static.solved.ac/tier_small/6.svg"/>     |    [JavaScript](./14XXX/14582-오늘도_졌다.js)    |                                             |           |
+| 14645 | 와이버스 부릉부릉 | [문제주소](https://www.acmicpc.net/problem/14645) |     <img height="22px" width="22px" src="https://static.solved.ac/tier_small/1.svg"/>     | [JavaScript](./14XXX/14645-와이버스_부릉부릉.js) |                                             |           |
+| 14681 | 사분면 고르기     | [문제주소](https://www.acmicpc.net/problem/14681) |     <img height="22px" width="22px" src="https://static.solved.ac/tier_small/2.svg"/>     |   [JavaScript](./14XXX/14681-사분면_고르기.js)   |  [Python3](./14XXX/14681-사분면_고르기.py)  |           |
+| 14888 | 연산자 끼워넣기   | [문제주소](https://www.acmicpc.net/problem/14888) |    <img height="22px" width="22px" src="https://static.solved.ac/tier_small/10.svg"/>     |  [JavaScript](./14XXX/14888-연산자_끼워넣기.js)  | [Python3](./14XXX/14888-연산자_끼워넣기.py) |           |
+| 14918 | 더하기            | [문제주소](https://www.acmicpc.net/problem/14918) | <img height="22px" width="22px" src="https://d2gd6pc034wcta.cloudfront.net/tier/-1.svg"/> |      [JavaScript](./14XXX/14918-더하기.js)       |                                             |           |
+| 14920 | 3n+1 수열         | [문제주소](https://www.acmicpc.net/problem/14920) |     <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/>     |     [JavaScript](./14XXX/14920-3n+1_수열.js)     |                                             |           |
 
 ## 15XXX
 
@@ -293,13 +297,15 @@
 | 15596 | 정수 N개의 합 | [문제주소](https://www.acmicpc.net/problem/15596) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/>  |                   지원 X                   | [Python3](./15XXX/15596-정수_N개의_합.py) |           |
 | 15650 | N과 M (2)     | [문제주소](https://www.acmicpc.net/problem/15650) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/8.svg"/>  | [JavaScript](<./15XXX/15650-N과_M(2).js>)  |  [Python3](<./15XXX/15650-N과_M(2).py>)   |           |
 | 15684 | 사다리 조작   | [문제주소](https://www.acmicpc.net/problem/15684) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/12.svg"/> | [JavaScript](./15XXX/15684-사다리_조작.js) |                                           |           |
+| 15963 | CASIO         | [문제주소](https://www.acmicpc.net/problem/15963) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/2.svg"/>  |    [JavaScript](./15XXX/15963-CASIO.js)    |                                           |           |
 
 ## 16XXX
 
-| 번호  | 문제        |                     문제 URL                      |                                       난이도                                       |                 문제 풀이                  |                문제 풀이                | 문제 출처 |
-| :---: | :---------- | :-----------------------------------------------: | :--------------------------------------------------------------------------------: | :----------------------------------------: | :-------------------------------------: | :-------- |
-| 16234 | 인구 이동   | [문제주소](https://www.acmicpc.net/problem/16234) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/> |  [JavaScript](./16XXX/16234-인구_이동.js)  |  [Python3](./16XXX/16234-인구_이동.py)  |           |
-| 16235 | 나무 재테크 | [문제주소](https://www.acmicpc.net/problem/16235) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/12.svg"/> | [JavaScript](./16XXX/16235-나무_재테크.js) | [Python3](./16XXX/16235-나무_재테크.py) |           |
+| 번호  | 문제                     |                     문제 URL                      |                                       난이도                                       |                       문제 풀이                       |                문제 풀이                | 문제 출처 |
+| :---: | :----------------------- | :-----------------------------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------------------------: | :-------------------------------------: | :-------- |
+| 16171 | 나는 친구가 적다 (Small) | [문제주소](https://www.acmicpc.net/problem/16171) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/6.svg"/>  | [JavaScript](./16XXX/16171-나는_친구가_적다_Small.js) |                                         |           |
+| 16234 | 인구 이동                | [문제주소](https://www.acmicpc.net/problem/16234) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/> |       [JavaScript](./16XXX/16234-인구_이동.js)        |  [Python3](./16XXX/16234-인구_이동.py)  |           |
+| 16235 | 나무 재테크              | [문제주소](https://www.acmicpc.net/problem/16235) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/12.svg"/> |      [JavaScript](./16XXX/16235-나무_재테크.js)       | [Python3](./16XXX/16235-나무_재테크.py) |           |
 
 ## 17XXX
 
