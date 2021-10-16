@@ -50,6 +50,7 @@
 | 1676 | 팩토리얼 0의 개수     | [문제주소](https://www.acmicpc.net/problem/1676) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/7.svg"/>  |   [JavaScript](./01XXX/1676-팩토리얼_0의_개수.js)   |                                              |           |
 | 1712 | 손익분기점            | [문제주소](https://www.acmicpc.net/problem/1712) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/2.svg"/>  |      [JavaScript](./01XXX/1712-손익분기점.js)       |    [Python3](./01XXX/1712-손익분기점.py)     |           |
 | 1731 | 추론                  | [문제주소](https://www.acmicpc.net/problem/1731) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/>  |         [JavaScript](./01XXX/1731-추론.js)          |                                              |           |
+| 1755 | 숫자놀이              | [문제주소](https://www.acmicpc.net/problem/1755) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/7.svg"/>  |       [JavaScript](./01XXX/1755-숫자놀이.js)        |                                              |           |
 | 1769 | 3의 배수              | [문제주소](https://www.acmicpc.net/problem/1769) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/6.svg"/>  |       [JavaScript](./01XXX/1769-3의_배수.js)        |                                              |           |
 | 1834 | 나머지와 몫이 같은 수 | [문제주소](https://www.acmicpc.net/problem/1834) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/5.svg"/>  | [JavaScript](./01XXX/1834-나머지와_몫이_같은_수.js) |                                              |           |
 | 1855 | 암호                  | [문제주소](https://www.acmicpc.net/problem/1855) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/5.svg"/>  |         [JavaScript](./01XXX/1855-암호.js)          |                                              |           |
@@ -135,6 +136,7 @@
 | 2954 | 창영이의 일기장                 | [문제주소](https://www.acmicpc.net/problem/2954) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/5.svg"/>  |         [JavaScript](./02XXX/2954-창영이의_일기장.js)         |                                                    |           |
 | 2959 | 거북이                          | [문제주소](https://www.acmicpc.net/problem/2959) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/>  |             [JavaScript](./02XXX/2959-거북이.js)              |                                                    |           |
 | 2981 | 검문                            | [문제주소](https://www.acmicpc.net/problem/2981) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/> |              [JavaScript](./02XXX/2981-검문.js)               |          [Python3](./02XXX/2981-검문.py)           |           |
+| 2998 | 8진수                           | [문제주소](https://www.acmicpc.net/problem/2998) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/>  |              [JavaScript](./02XXX/2998-8진수.js)              |                                                    |           |
 
 ## 03XXX
 
@@ -239,6 +241,7 @@
 | 10821 | 정수의 개수           | [문제주소](https://www.acmicpc.net/problem/10821) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/> |      [JavaScript](./10XXX/10821-정수의_개수.js)      |                                              |           |
 | 10826 | 피보나치 수 4         | [문제주소](https://www.acmicpc.net/problem/10826) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/7.svg"/> |     [JavaScript](./10XXX/10826-피보나치_수_4.js)     |                                              |           |
 | 10828 | 스택                  | [문제주소](https://www.acmicpc.net/problem/10828) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/7.svg"/> |         [JavaScript](./10XXX/10828-스택.js)          |       [Python3](./10XXX/10828-스택.py)       |           |
+| 10867 | 중복 빼고 정렬하기    | [문제주소](https://www.acmicpc.net/problem/10867) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/6.svg"/> |  [JavaScript](./10XXX/10867-중복_빼고_정렬하기.js)   |                                              |           |
 | 10869 | 사칙연산              | [문제주소](https://www.acmicpc.net/problem/10869) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/1.svg"/> |       [JavaScript](./10XXX/10869-사칙연산.js)        |     [Python3](./10XXX/10869-사칙연산.py)     |           |
 | 10870 | 피보나치 수 5         | [문제주소](https://www.acmicpc.net/problem/10870) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/> |   [JavaScript](<./10XXX/10870-피보나치_수(5).js>)    | [Python3](<./10XXX/10870-피보나치_수(5).py>) |           |
 | 10871 | X보다 작은 수         | [문제주소](https://www.acmicpc.net/problem/10871) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/> |     [JavaScript](./10XXX/10871-X보다_작은_수.js)     |  [Python3](./10XXX/10871-X보다_작은_수.py)   |           |
@@ -264,6 +267,7 @@
 | 11549 | Identifying tea       | [문제주소](https://www.acmicpc.net/problem/11549) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/2.svg"/> |    [JavaScript](./11XXX/11549-Identifying_tea.js)    |                                         |           |
 | 11653 | 소인수분해            | [문제주소](https://www.acmicpc.net/problem/11653) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/7.svg"/> |      [JavaScript](./11XXX/11653-소인수분해.js)       | [Python3](./11XXX/11653-소인수분해.py)  |           |
 | 11654 | 아스키 코드           | [문제주소](https://www.acmicpc.net/problem/11654) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/1.svg"/> |      [JavaScript](./11XXX/11654-아스키_코드.js)      | [Python3](./11XXX/11654-아스키_코드.py) |           |
+| 11656 | 접미사 배열           | [문제주소](https://www.acmicpc.net/problem/11656) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/7.svg"/> |      [JavaScript](./11XXX/11656-접미사_배열.js)      |                                         |           |
 | 11720 | 숫자의 합             | [문제주소](https://www.acmicpc.net/problem/11720) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/> |       [JavaScript](./11XXX/11720-숫자의_합.js)       |  [Python3](./11XXX/11720-숫자의_합.py)  |           |
 | 11948 | 과목선택              | [문제주소](https://www.acmicpc.net/problem/11948) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/2.svg"/> |       [JavaScript](./11XXX/11948-과목선택.js)        |  [Python3](./11XXX/11948-과목선택.py)   |           |
 
@@ -313,6 +317,12 @@
 | 번호  | 문제              |                     문제 URL                      |                                      난이도                                       |                    문제 풀이                     |                   문제 풀이                   | 문제 출처 |
 | :---: | :---------------- | :-----------------------------------------------: | :-------------------------------------------------------------------------------: | :----------------------------------------------: | :-------------------------------------------: | :-------- |
 | 17256 | 달달함이 넘쳐흘러 | [문제주소](https://www.acmicpc.net/problem/17256) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/1.svg"/> | [JavaScript](./17XXX/17256-달달함이_넘쳐흘러.js) | [Python3](./17XXX/17256-달달함이_넘쳐흘러.py) |           |
+
+## 18XXX
+
+| 번호  | 문제               |                     문제 URL                      |                                      난이도                                       |                     문제 풀이                     | 문제 풀이 | 문제 출처 |
+| :---: | :----------------- | :-----------------------------------------------: | :-------------------------------------------------------------------------------: | :-----------------------------------------------: | :-------: | :-------- |
+| 18247 | 겨울왕국 티켓 예매 | [문제주소](https://www.acmicpc.net/problem/18247) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/> | [JavaScript](./18XXX/18247-겨울왕국_티켓_예매.js) |           |           |
 
 ## 20XXX
 
