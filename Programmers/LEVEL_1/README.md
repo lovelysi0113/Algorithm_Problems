@@ -68,6 +68,7 @@
 | 81301 | 숫자 문자열과 영단어         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/81301) |     [JavaScript](./81301-숫자_문자열과_영단어.js)     |                                                    | 2021 카카오 채용연계형 인턴십               |
 | 82612 | 부족한 금액 계산하기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/82612) |     [JavaScript](./82612-부족한_금액_계산하기.js)     |                                                    | 위클리 챌린지                               |
 | 86051 | 없는 숫자 더하기             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/86051) |       [JavaScript](./86051-없는_숫자_더하기.js)       |                                                    | 월간 코드 챌린지 시즌3                      |
+| 86491 | 최소직사각형                 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/86491) |         [JavaScript](./86491-최소직사각형.js)         |                                                    | 위클리 챌린지                               |
 | 87389 | 나머지가 1이 되는 수 찾기    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/87389) |  [JavaScript](./87389-나머지가_1이_되는_수_찾기.js)   |                                                    | 월간 코드 챌린지 시즌3                      |
 
 ## SQL 문제
