@@ -91,6 +91,7 @@
 | 2445 | 별 찍기 - 8                     | [문제주소](https://www.acmicpc.net/problem/2445) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/>  |          [JavaScript](<./02XXX/2445-별_찍기(8).js>)           |                                                    |           |
 | 2455 | 지능형 기차                     | [문제주소](https://www.acmicpc.net/problem/2455) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/>  |           [JavaScript](./02XXX/2455-지능형_기차.js)           |                                                    |           |
 | 2460 | 지능형 기차 2                   | [문제주소](https://www.acmicpc.net/problem/2460) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/>  |        [JavaScript](<./02XXX/2460-지능형_기차(2).js>)         |                                                    |           |
+| 2470 | 두 용액                         | [문제주소](https://www.acmicpc.net/problem/2470) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/11.svg"/> |             [JavaScript](./02XXX/2470-두_용액.js)             |                                                    |           |
 | 2475 | 검증수                          | [문제주소](https://www.acmicpc.net/problem/2475) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/1.svg"/>  |             [JavaScript](./02XXX/2475-검증수.js)              |         [Python3](./02XXX/2475-검증수.py)          |           |
 | 2476 | 주사위 게임                     | [문제주소](https://www.acmicpc.net/problem/2476) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/3.svg"/>  |           [JavaScript](./02XXX/2476-주사위_게임.js)           |                                                    |           |
 | 2484 | 주사위 네개                     | [문제주소](https://www.acmicpc.net/problem/2484) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/>  |           [JavaScript](./02XXX/2484-주사위_네개.js)           |                                                    |           |
@@ -210,6 +211,7 @@
 | 8370 | Plane  | [문제주소](https://www.acmicpc.net/problem/8370) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/1.svg"/> | [JavaScript](./08XXX/8370-Plane.js)  |                                   |           |
 | 8393 | 합     | [문제주소](https://www.acmicpc.net/problem/8393) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/1.svg"/> |   [JavaScript](./08XXX/8393-합.js)   |   [Python3](./08XXX/8393-합.py)   |           |
 | 8958 | OX퀴즈 | [문제주소](https://www.acmicpc.net/problem/8958) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/> | [JavaScript](./08XXX/8958-OX퀴즈.js) | [Python3](./08XXX/8958-OX퀴즈.py) |           |
+| 8979 | 올림픽 | [문제주소](https://www.acmicpc.net/problem/8979) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/6.svg"/> | [JavaScript](./08XXX/8979-올림픽.js) |                                   |           |
 
 ## 09XXX
 
