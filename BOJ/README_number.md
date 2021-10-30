@@ -53,6 +53,7 @@
 | 1676 | 팩토리얼 0의 개수     | [문제주소](https://www.acmicpc.net/problem/1676) |     <img height="22px" width="22px" src="https://static.solved.ac/tier_small/7.svg"/>     |   [JavaScript](./01XXX/1676-팩토리얼_0의_개수.js)   |                                              |           |
 | 1712 | 손익분기점            | [문제주소](https://www.acmicpc.net/problem/1712) |     <img height="22px" width="22px" src="https://static.solved.ac/tier_small/2.svg"/>     |      [JavaScript](./01XXX/1712-손익분기점.js)       |    [Python3](./01XXX/1712-손익분기점.py)     |           |
 | 1731 | 추론                  | [문제주소](https://www.acmicpc.net/problem/1731) |     <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/>     |         [JavaScript](./01XXX/1731-추론.js)          |                                              |           |
+| 1744 | 수 묶기               | [문제주소](https://www.acmicpc.net/problem/1744) |    <img height="22px" width="22px" src="https://static.solved.ac/tier_small/12.svg"/>     |        [JavaScript](./01XXX/1744-수_묶기.js)        |                                              |           |
 | 1755 | 숫자놀이              | [문제주소](https://www.acmicpc.net/problem/1755) |     <img height="22px" width="22px" src="https://static.solved.ac/tier_small/7.svg"/>     |       [JavaScript](./01XXX/1755-숫자놀이.js)        |                                              |           |
 | 1769 | 3의 배수              | [문제주소](https://www.acmicpc.net/problem/1769) |     <img height="22px" width="22px" src="https://static.solved.ac/tier_small/6.svg"/>     |       [JavaScript](./01XXX/1769-3의_배수.js)        |                                              |           |
 | 1793 | 타일링                | [문제주소](https://www.acmicpc.net/problem/1793) |    <img height="22px" width="22px" src="https://static.solved.ac/tier_small/10.svg"/>     |        [JavaScript](./01XXX/1793-타일링.js)         |                                              |           |
@@ -297,6 +298,12 @@
 | 11720 | 숫자의 합             | [문제주소](https://www.acmicpc.net/problem/11720) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/> |       [JavaScript](./11XXX/11720-숫자의_합.js)       |  [Python3](./11XXX/11720-숫자의_합.py)  |           |
 | 11948 | 과목선택              | [문제주소](https://www.acmicpc.net/problem/11948) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/2.svg"/> |       [JavaScript](./11XXX/11948-과목선택.js)        |  [Python3](./11XXX/11948-과목선택.py)   |           |
 
+## 12XXX
+
+| 번호  | 문제        |                     문제 URL                      |                                      난이도                                       |                 문제 풀이                  | 문제 풀이 | 문제 출처 |
+| :---: | :---------- | :-----------------------------------------------: | :-------------------------------------------------------------------------------: | :----------------------------------------: | :-------: | :-------- |
+| 12018 | Yonsei TOTO | [문제주소](https://www.acmicpc.net/problem/12018) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/8.svg"/> | [JavaScript](./12XXX/12018-Yonsei_TOTO.js) |           |           |
+
 ## 13XXX
 
 | 번호  | 문제      |                     문제 URL                      |                                      난이도                                       |                문제 풀이                 | 문제 풀이 | 문제 출처 |
@@ -344,6 +351,7 @@
 | 번호  | 문제              |                     문제 URL                      |                                      난이도                                       |                    문제 풀이                     |                   문제 풀이                   | 문제 출처 |
 | :---: | :---------------- | :-----------------------------------------------: | :-------------------------------------------------------------------------------: | :----------------------------------------------: | :-------------------------------------------: | :-------- |
 | 17256 | 달달함이 넘쳐흘러 | [문제주소](https://www.acmicpc.net/problem/17256) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/1.svg"/> | [JavaScript](./17XXX/17256-달달함이_넘쳐흘러.js) | [Python3](./17XXX/17256-달달함이_넘쳐흘러.py) |           |
+| 17608 | 막대기            | [문제주소](https://www.acmicpc.net/problem/17608) | <img height="22px" width="22px" src="https://static.solved.ac/tier_small/4.svg"/> |      [JavaScript](./17XXX/17608-막대기.js)       |                                               |           |
 
 ## 18XXX
 
