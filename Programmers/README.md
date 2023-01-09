@@ -4,11 +4,12 @@
 
 ## 문제 유형
 
--   [LEVEL 1](./LEVEL_1/README.md)
--   [LEVEL 2](./LEVEL_2/README.md)
--   [LEVEL 3](./LEVEL_3/README.md)
--   [LEVEL 4](./LEVEL_4/README.md)
--   [LEVEL 5](./LEVEL_5/README.md)
+- [LEVEL 0](./LEVEL_0/README.md)
+- [LEVEL 1](./LEVEL_1/README.md)
+- [LEVEL 2](./LEVEL_2/README.md)
+- [LEVEL 3](./LEVEL_3/README.md)
+- [LEVEL 4](./LEVEL_4/README.md)
+- [LEVEL 5](./LEVEL_5/README.md)
 
 ## 문제 리스트 표시 규칙
 
