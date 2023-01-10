@@ -20,13 +20,27 @@
 | 120811 | 중앙값 구하기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120811) |     [JavaScript](./120811-중앙값_구하기.js)     |           | Day 3 - 사칙연산, 배열, 수학   |
 | 120812 | 최빈값 구하기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120812) |     [JavaScript](./120812-최빈값_구하기.js)     |           | Day 3 - 사칙연산, 배열, 수학   |
 | 120813 | 짝수는 싫어요         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120813) |     [JavaScript](./120813-짝수는_싫어요.js)     |           | Day 3 - 사칙연산, 배열, 수학   |
-| 120817 | 배열의 평균값         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120817) |     [JavaScript](./120817-배열의_평균값.js)     |           | Day 4                          |
-| 120819 | 아이스 아메리카노     | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120819) |   [JavaScript](./120819-아이스_아메리카노.js)   |           | Day 5                          |
-| 120820 | 나이 출력             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120820) |       [JavaScript](.120820-나이_출력.js)        |           | Day 5                          |
-| 120821 | 배열 뒤집기           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120821) |      [JavaScript](./120821-배열_뒤집기.js)      |           | Day 5                          |
+| 120814 | 피자 나눠 먹기 (1)    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120814) |  [JavaScript](<./120814-피자_나눠_먹기(1).js>)  |           | Day 4 - 수학, 배열             |
+| 120815 | 피자 나눠 먹기 (2)    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120815) |  [JavaScript](<./120815-피자_나눠_먹기(2).js>)  |           | Day 4 - 수학, 배열             |
+| 120816 | 피자 나눠 먹기 (3)    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120816) |  [JavaScript](<./120816-피자_나눠_먹기(3).js>)  |           | Day 4 - 수학, 배열             |
+| 120817 | 배열의 평균값         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120817) |     [JavaScript](./120817-배열의_평균값.js)     |           | Day 4 - 수학, 배열             |
+| 120818 | 옷가게 할인 받기      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120818) |   [JavaScript](./120818-옷가게_할인_받기.js)    |           | Day 5 - 수학, 배열             |
+| 120819 | 아이스 아메리카노     | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120819) |   [JavaScript](./120819-아이스_아메리카노.js)   |           | Day 5 - 수학, 배열             |
+| 120820 | 나이 출력             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120820) |       [JavaScript](.120820-나이_출력.js)        |           | Day 5 - 수학, 배열             |
+| 120821 | 배열 뒤집기           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120821) |      [JavaScript](./120821-배열_뒤집기.js)      |           | Day 5 - 수학, 배열             |
 | 120822 | 문자열 뒤집기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120822) |     [JavaScript](./120822-문자열_뒤집기.js)     |           | Day 6                          |
 | 120824 | 짝수 홀수 개수        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120824) |    [JavaScript](./120824-짝수_홀수_개수.js)     |           | Day 6                          |
+| 120826 | 특정 문자 제거하기    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120826) |  [JavaScript](./120826-특정_문자_제거하기.js)   |           | Day 7                          |
 | 120829 | 각도기                | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120829) |        [JavaScript](./120829-각도기.js)         |           | Day 7                          |
 | 120830 | 양꼬치                | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120830) |        [JavaScript](./120830-양꼬치.js)         |           | Day 7                          |
 | 120831 | 짝수의 합             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120831) |       [JavaScript](./120831-짝수의_합.js)       |           | Day 7                          |
+| 120833 | 배열 자르기           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120833) |      [JavaScript](./120833-배열_자르기.js)      |           | Day 8                          |
 | 120841 | 점의 위치 구하기      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120841) |   [JavaScript](./120841-점의_위치_구하기.js)    |           | Day 10                         |
+| 120854 | 배열 원소의 길이      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120854) |   [JavaScript](./120854-배열_원소의_길이.js)    |           | Day 13                         |
+| 120886 | A로 B 만들기          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120886) |     [JavaScript](./120886-A로_B_만들기.js)      |           | Day 24                         |
+| 120893 | 대문자와 소문자       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120893) |    [JavaScript](./120893-대문자와_소문자.js)    |           | Day 14                         |
+| 120898 | 편지                  | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120898) |         [JavaScript](./120898-편지.js)          |           | Day 16                         |
+| 120899 | 가장 큰 수 찾기       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120899) |    [JavaScript](./120899-가장_큰_수_찾기.js)    |           | Day 16                         |
+| 120905 | n의 배수 고르기       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120905) |    [JavaScript](./120905-n의_배수_고르기.js)    |           | Day 17                         |
+| 120906 | 자릿수 더하기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120906) |     [JavaScript](./120906-자릿수_더하기.js)     |           | Day 17                         |
+| 120909 | 제곱수 판별하기       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120909) |    [JavaScript](./120909-제곱수_판별하기.js)    |           | Day 18                         |
