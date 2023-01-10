@@ -16,8 +16,10 @@
 | 120807 | 숫자 비교하기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120807) |     [JavaScript](./120807-숫자_비교하기.js)     |           | Day 2 - 사칙연산, 조건문, 배열 |
 | 120808 | 분수의 덧셈           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120808) |      [JavaScript](./120808-분수의_덧셈.js)      |           | Day 2 - 사칙연산, 조건문, 배열 |
 | 120809 | 배열 두배 만들기      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120809) |   [JavaScript](./120809-배열_두배_만들기.js)    |           | Day 2 - 사칙연산, 조건문, 배열 |
-| 120810 | 나머지 구하기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120810) |     [JavaScript](./120810-나머지_구하기.js)     |           | Day 3                          |
-| 120811 | 중앙값 구하기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120811) |     [JavaScript](./120811-중앙값_구하기.js)     |           | Day 3                          |
+| 120810 | 나머지 구하기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120810) |     [JavaScript](./120810-나머지_구하기.js)     |           | Day 3 - 사칙연산, 배열, 수학   |
+| 120811 | 중앙값 구하기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120811) |     [JavaScript](./120811-중앙값_구하기.js)     |           | Day 3 - 사칙연산, 배열, 수학   |
+| 120812 | 최빈값 구하기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120812) |     [JavaScript](./120812-최빈값_구하기.js)     |           | Day 3 - 사칙연산, 배열, 수학   |
+| 120813 | 짝수는 싫어요         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120813) |     [JavaScript](./120813-짝수는_싫어요.js)     |           | Day 3 - 사칙연산, 배열, 수학   |
 | 120817 | 배열의 평균값         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120817) |     [JavaScript](./120817-배열의_평균값.js)     |           | Day 4                          |
 | 120819 | 아이스 아메리카노     | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120819) |   [JavaScript](./120819-아이스_아메리카노.js)   |           | Day 5                          |
 | 120820 | 나이 출력             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120820) |       [JavaScript](.120820-나이_출력.js)        |           | Day 5                          |
