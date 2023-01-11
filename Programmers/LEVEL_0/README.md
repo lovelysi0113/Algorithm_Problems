@@ -30,17 +30,22 @@
 | 120821 | 배열 뒤집기           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120821) |      [JavaScript](./120821-배열_뒤집기.js)      |           | Day 5 - 수학, 배열             |
 | 120822 | 문자열 뒤집기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120822) |     [JavaScript](./120822-문자열_뒤집기.js)     |           | Day 6                          |
 | 120824 | 짝수 홀수 개수        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120824) |    [JavaScript](./120824-짝수_홀수_개수.js)     |           | Day 6                          |
+| 120825 | 문자 반복 출력하기    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120825) |  [JavaScript](./120825-문자_반복_출력하기.js)   |           | Day 6                          |
 | 120826 | 특정 문자 제거하기    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120826) |  [JavaScript](./120826-특정_문자_제거하기.js)   |           | Day 7                          |
 | 120829 | 각도기                | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120829) |        [JavaScript](./120829-각도기.js)         |           | Day 7                          |
 | 120830 | 양꼬치                | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120830) |        [JavaScript](./120830-양꼬치.js)         |           | Day 7                          |
 | 120831 | 짝수의 합             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120831) |       [JavaScript](./120831-짝수의_합.js)       |           | Day 7                          |
 | 120833 | 배열 자르기           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120833) |      [JavaScript](./120833-배열_자르기.js)      |           | Day 8                          |
 | 120841 | 점의 위치 구하기      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120841) |   [JavaScript](./120841-점의_위치_구하기.js)    |           | Day 10                         |
+| 120848 | 팩토리얼              | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120848) |       [JavaScript](./120848-팩토리얼.js)        |           | Day 11                         |
+| 120849 | 모음 제거             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120849) |       [JavaScript](./120849-모음_제거.js)       |           | Day 12                         |
 | 120854 | 배열 원소의 길이      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120854) |   [JavaScript](./120854-배열_원소의_길이.js)    |           | Day 13                         |
+| 120860 | 직사각형 넓이 구하기  | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120860) | [JavaScript](./120860-직사각형_넓이_구하기.js)  |           | Day 20                         |
 | 120886 | A로 B 만들기          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120886) |     [JavaScript](./120886-A로_B_만들기.js)      |           | Day 24                         |
 | 120893 | 대문자와 소문자       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120893) |    [JavaScript](./120893-대문자와_소문자.js)    |           | Day 14                         |
 | 120898 | 편지                  | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120898) |         [JavaScript](./120898-편지.js)          |           | Day 16                         |
 | 120899 | 가장 큰 수 찾기       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120899) |    [JavaScript](./120899-가장_큰_수_찾기.js)    |           | Day 16                         |
+| 120902 | 문자열 계산하기       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120902) |    [JavaScript](./120902-문자열_계산하기.js)    |           | Day 16                         |
 | 120905 | n의 배수 고르기       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120905) |    [JavaScript](./120905-n의_배수_고르기.js)    |           | Day 17                         |
 | 120906 | 자릿수 더하기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120906) |     [JavaScript](./120906-자릿수_더하기.js)     |           | Day 17                         |
 | 120909 | 제곱수 판별하기       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/120909) |    [JavaScript](./120909-제곱수_판별하기.js)    |           | Day 18                         |
