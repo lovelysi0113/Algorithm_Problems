@@ -21,3 +21,21 @@ function solution(numbers, num1, num2) {
 
 	return answer;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ *
+ * DATE: 2023-01-16
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://programmers.co.kr/learn/courses/30/lessons/120833
+ *
+ * COMMENT:
+ * splice() 함수를 사용하여 배열을 잘라준다
+ **/
+
+function solution(numbers, num1, num2) {
+	return numbers.splice(num1, num2 - num1 + 1);
+}
