@@ -82,3 +82,49 @@ function solution(n, computers) {
 
 	return network;
 }
+
+// **************************************************************************************************** //
+
+/**
+ * ABOUT
+ *
+ * DATE: 2023-01-28
+ * AUTHOR: lovelysi0113
+ *
+ * URL: https://programmers.co.kr/learn/courses/30/lessons/43162
+ *
+ * COMMENT:
+ * 알고리즘 스터디 공부를 위해 다시 한번 풀어보았다
+ **/
+
+function solution(n, computers) {
+	const CONNECTED = 1;
+
+	// 방문한 컴퓨터 체크하는 배열 초기화
+	const visited = Array(n).fill(false);
+
+	let network = 0; // 네트워크 수 저장
+
+	// 0번 컴퓨터부터 확인
+	for (let computer = 0; computer < n; computer++) {
+		// 방문하지 않은 컴퓨터인지 확인
+		if (!visited[computer]) {
+			// 네트워크 연결 시작
+			network += 1;
+
+			// 연결된 다른 컴퓨터가 있는지 확인
+			let stack = [computer];
+			while (stack.length > 0) {
+				let nowComputer = stack.pop();
+				visited[nowComputer] = true;
+				computers[nowComputer].forEach((status, nextComputer) => {
+					if (status === CONNECTED && !visited[nextComputer]) {
+						stack.push(nextComputer);
+					}
+				});
+			}
+		}
+	}
+
+	return network;
+}
