@@ -1,7 +1,6 @@
 # Algorithm_Problems
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flovelysi0113%2FAlgorithm_Problems&count_bg=%237495E3&title_bg=%231D409E&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Flovelysi0113%2FAlgorithm_Problems?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Flovelysi0113%2FAlgorithm_Problems&label=Hits&icon=github&color=%237495E3)
 
 ## 목표
 
