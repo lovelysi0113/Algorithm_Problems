@@ -59,15 +59,25 @@
 
 ## 181XXX
 
-|  번호  | 문제                     |                                   문제 URL                                   |                     문제 풀이                      | 문제 풀이 | 문제 출처   |
-| :----: | :----------------------- | :--------------------------------------------------------------------------: | :------------------------------------------------: | :-------: | :---------- |
-| 181943 | 문자열 겹쳐쓰기          | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181943) |     [JavaScript](./181943-문자열_겹쳐쓰기.js)      |           | 기초 Day 01 |
-| 181944 | 홀짝 구분하기            | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181944) |      [JavaScript](./181944-홀짝_구분하기.js)       |           | 기초 Day 01 |
-| 181945 | 문자열 돌리기            | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181945) |      [JavaScript](./181945-문자열_돌리기.js)       |           | 기초 Day 01 |
-| 181946 | 문자열 붙여서 출력하기   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181946) |  [JavaScript](./181946-문자열_붙여서_출력하기.js)  |           | 기초 Day 01 |
-| 181947 | 덧셈식 출력하기          | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181947) |     [JavaScript](./181947-덧셈식_출력하기.js)      |           | 기초 Day 01 |
-| 181948 | 특수문자 출력하기        | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181948) |    [JavaScript](./181948-특수문자_출력하기.js)     |           | 기초 Day 01 |
-| 181949 | 대소문자 바꿔서 출력하기 | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181949) | [JavaScript](./181949-대소문자_바꿔서_출력하기.js) |           | 기초 Day 01 |
-| 181950 | 문자열 반복해서 출력하기 | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181950) | [JavaScript](./181950-문자열_반복해서_출력하기.js) |           | 기초 Day 01 |
-| 181951 | a와 b 출력하기           | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181951) |      [JavaScript](./181951-a와_b_출력하기.js)      |           | 기초 Day 01 |
-| 181952 | 문자열 출력하기          | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181952) |     [JavaScript](./181952-문자열_출력하기.js)      |           | 기초 Day 01 |
+|  번호  | 문제                            |                                   문제 URL                                   |                         문제 풀이                         | 문제 풀이 | 문제 출처   |
+| :----: | :------------------------------ | :--------------------------------------------------------------------------: | :-------------------------------------------------------: | :-------: | :---------- |
+| 181933 | flag에 따라 다른 값 반환하기    | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181933) |  [JavaScript](./181933-flag에_따라_다른_값_반환하기.js)   |           | 기초 Day 04 |
+| 181934 | 조건 문자열                     | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181934) |           [JavaScript](./181934-조건_문자열.js)           |           | 기초 Day 04 |
+| 181935 | 홀짝에 따라 다른 값 반환하기    | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181935) |  [JavaScript](./181935-홀짝에_따라_다른_값_반환하기.js)   |           | 기초 Day 04 |
+| 181936 | 공배수                          | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181936) |             [JavaScript](./181936-공배수.js)              |           | 기초 Day 04 |
+| 181937 | n의 배수                        | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181937) |            [JavaScript](./181937-n의_배수.js)             |           | 기초 Day 04 |
+| 181938 | 두 수의 연산값 비교하기         | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181938) |     [JavaScript](./181938-두_수의_연산값_비교하기.js)     |           | 기초 Day 03 |
+| 181939 | 더 크게 합치기                  | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181939) |         [JavaScript](./181939-더_크게_합치기.js)          |           | 기초 Day 03 |
+| 181940 | 문자열 곱하기                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181940) |          [JavaScript](./181940-문자열_곱하기.js)          |           | 기초 Day 03 |
+| 181941 | 문자 리스트를 문자열로 변환하기 | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181941) | [JavaScript](./181941-문자_리스트를_문자열로_변환하기.js) |           | 기초 Day 03 |
+| 181942 | 문자열 섞기                     | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181942) |           [JavaScript](./181942-문자열_섞기.js)           |           | 기초 Day 03 |
+| 181943 | 문자열 겹쳐쓰기                 | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181943) |         [JavaScript](./181943-문자열_겹쳐쓰기.js)         |           | 기초 Day 02 |
+| 181944 | 홀짝 구분하기                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181944) |          [JavaScript](./181944-홀짝_구분하기.js)          |           | 기초 Day 02 |
+| 181945 | 문자열 돌리기                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181945) |          [JavaScript](./181945-문자열_돌리기.js)          |           | 기초 Day 02 |
+| 181946 | 문자열 붙여서 출력하기          | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181946) |     [JavaScript](./181946-문자열_붙여서_출력하기.js)      |           | 기초 Day 02 |
+| 181947 | 덧셈식 출력하기                 | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181947) |         [JavaScript](./181947-덧셈식_출력하기.js)         |           | 기초 Day 02 |
+| 181948 | 특수문자 출력하기               | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181948) |        [JavaScript](./181948-특수문자_출력하기.js)        |           | 기초 Day 01 |
+| 181949 | 대소문자 바꿔서 출력하기        | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181949) |    [JavaScript](./181949-대소문자_바꿔서_출력하기.js)     |           | 기초 Day 01 |
+| 181950 | 문자열 반복해서 출력하기        | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181950) |    [JavaScript](./181950-문자열_반복해서_출력하기.js)     |           | 기초 Day 01 |
+| 181951 | a와 b 출력하기                  | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181951) |         [JavaScript](./181951-a와_b_출력하기.js)          |           | 기초 Day 01 |
+| 181952 | 문자열 출력하기                 | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181952) |         [JavaScript](./181952-문자열_출력하기.js)         |           | 기초 Day 01 |
