@@ -61,6 +61,16 @@
 
 |  번호  | 문제                            |                                   문제 URL                                   |                         문제 풀이                         | 문제 풀이 | 문제 출처   |
 | :----: | :------------------------------ | :--------------------------------------------------------------------------: | :-------------------------------------------------------: | :-------: | :---------- |
+| 181923 | 수열과 구간 쿼리 2              | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181923) |       [JavaScript](./181923-수열과_구간_쿼리_2.js)        |           | 기초 Day 06 |
+| 181924 | 수열과 구간 쿼리 3              | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181924) |       [JavaScript](./181924_수열과_구간_쿼리_3.js)        |           | 기초 Day 06 |
+| 181925 | 수 조작하기 2                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181925) |          [JavaScript](./181925-수_조작하기_2.js)          |           | 기초 Day 06 |
+| 181926 | 수 조작하기 1                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181926) |          [JavaScript](./181926-수_조작하기_1.js)          |           | 기초 Day 06 |
+| 181927 | 마지막 두 원소                  | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181927) |         [JavaScript](./181927-마지막_두_원소.js)          |           | 기초 Day 06 |
+| 181928 | 이어 붙인 수                    | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181928) |          [JavaScript](./181928-이어_붙인_수.js)           |           | 기초 Day 05 |
+| 181929 | 원소들의 곱과 합                | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181929) |        [JavaScript](./181929-원소들의_곱과_합.js)         |           | 기초 Day 05 |
+| 181930 | 주사위 게임 2                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181930) |          [JavaScript](./181930-주사위_게임_2.js)          |           | 기초 Day 05 |
+| 181931 | 등차수열의 특정한 항만 더하기   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181931) |  [JavaScript](./181931-등차수열의_특정한_항만_더하기.js)  |           | 기초 Day 05 |
+| 181932 | 코드 처리하기                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181932) |          [JavaScript](./181932-코드_처리하기.js)          |           | 기초 Day 05 |
 | 181933 | flag에 따라 다른 값 반환하기    | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181933) |  [JavaScript](./181933-flag에_따라_다른_값_반환하기.js)   |           | 기초 Day 04 |
 | 181934 | 조건 문자열                     | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181934) |           [JavaScript](./181934-조건_문자열.js)           |           | 기초 Day 04 |
 | 181935 | 홀짝에 따라 다른 값 반환하기    | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181935) |  [JavaScript](./181935-홀짝에_따라_다른_값_반환하기.js)   |           | 기초 Day 04 |
