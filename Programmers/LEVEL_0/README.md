@@ -59,35 +59,40 @@
 
 ## 181XXX
 
-|  번호  | 문제                            |                                   문제 URL                                   |                         문제 풀이                         | 문제 풀이 | 문제 출처   |
-| :----: | :------------------------------ | :--------------------------------------------------------------------------: | :-------------------------------------------------------: | :-------: | :---------- |
-| 181923 | 수열과 구간 쿼리 2              | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181923) |       [JavaScript](./181923-수열과_구간_쿼리_2.js)        |           | 기초 Day 06 |
-| 181924 | 수열과 구간 쿼리 3              | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181924) |       [JavaScript](./181924_수열과_구간_쿼리_3.js)        |           | 기초 Day 06 |
-| 181925 | 수 조작하기 2                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181925) |          [JavaScript](./181925-수_조작하기_2.js)          |           | 기초 Day 06 |
-| 181926 | 수 조작하기 1                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181926) |          [JavaScript](./181926-수_조작하기_1.js)          |           | 기초 Day 06 |
-| 181927 | 마지막 두 원소                  | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181927) |         [JavaScript](./181927-마지막_두_원소.js)          |           | 기초 Day 06 |
-| 181928 | 이어 붙인 수                    | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181928) |          [JavaScript](./181928-이어_붙인_수.js)           |           | 기초 Day 05 |
-| 181929 | 원소들의 곱과 합                | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181929) |        [JavaScript](./181929-원소들의_곱과_합.js)         |           | 기초 Day 05 |
-| 181930 | 주사위 게임 2                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181930) |          [JavaScript](./181930-주사위_게임_2.js)          |           | 기초 Day 05 |
-| 181931 | 등차수열의 특정한 항만 더하기   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181931) |  [JavaScript](./181931-등차수열의_특정한_항만_더하기.js)  |           | 기초 Day 05 |
-| 181932 | 코드 처리하기                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181932) |          [JavaScript](./181932-코드_처리하기.js)          |           | 기초 Day 05 |
-| 181933 | flag에 따라 다른 값 반환하기    | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181933) |  [JavaScript](./181933-flag에_따라_다른_값_반환하기.js)   |           | 기초 Day 04 |
-| 181934 | 조건 문자열                     | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181934) |           [JavaScript](./181934-조건_문자열.js)           |           | 기초 Day 04 |
-| 181935 | 홀짝에 따라 다른 값 반환하기    | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181935) |  [JavaScript](./181935-홀짝에_따라_다른_값_반환하기.js)   |           | 기초 Day 04 |
-| 181936 | 공배수                          | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181936) |             [JavaScript](./181936-공배수.js)              |           | 기초 Day 04 |
-| 181937 | n의 배수                        | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181937) |            [JavaScript](./181937-n의_배수.js)             |           | 기초 Day 04 |
-| 181938 | 두 수의 연산값 비교하기         | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181938) |     [JavaScript](./181938-두_수의_연산값_비교하기.js)     |           | 기초 Day 03 |
-| 181939 | 더 크게 합치기                  | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181939) |         [JavaScript](./181939-더_크게_합치기.js)          |           | 기초 Day 03 |
-| 181940 | 문자열 곱하기                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181940) |          [JavaScript](./181940-문자열_곱하기.js)          |           | 기초 Day 03 |
-| 181941 | 문자 리스트를 문자열로 변환하기 | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181941) | [JavaScript](./181941-문자_리스트를_문자열로_변환하기.js) |           | 기초 Day 03 |
-| 181942 | 문자열 섞기                     | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181942) |           [JavaScript](./181942-문자열_섞기.js)           |           | 기초 Day 03 |
-| 181943 | 문자열 겹쳐쓰기                 | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181943) |         [JavaScript](./181943-문자열_겹쳐쓰기.js)         |           | 기초 Day 02 |
-| 181944 | 홀짝 구분하기                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181944) |          [JavaScript](./181944-홀짝_구분하기.js)          |           | 기초 Day 02 |
-| 181945 | 문자열 돌리기                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181945) |          [JavaScript](./181945-문자열_돌리기.js)          |           | 기초 Day 02 |
-| 181946 | 문자열 붙여서 출력하기          | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181946) |     [JavaScript](./181946-문자열_붙여서_출력하기.js)      |           | 기초 Day 02 |
-| 181947 | 덧셈식 출력하기                 | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181947) |         [JavaScript](./181947-덧셈식_출력하기.js)         |           | 기초 Day 02 |
-| 181948 | 특수문자 출력하기               | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181948) |        [JavaScript](./181948-특수문자_출력하기.js)        |           | 기초 Day 01 |
-| 181949 | 대소문자 바꿔서 출력하기        | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181949) |    [JavaScript](./181949-대소문자_바꿔서_출력하기.js)     |           | 기초 Day 01 |
-| 181950 | 문자열 반복해서 출력하기        | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181950) |    [JavaScript](./181950-문자열_반복해서_출력하기.js)     |           | 기초 Day 01 |
-| 181951 | a와 b 출력하기                  | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181951) |         [JavaScript](./181951-a와_b_출력하기.js)          |           | 기초 Day 01 |
-| 181952 | 문자열 출력하기                 | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181952) |         [JavaScript](./181952-문자열_출력하기.js)         |           | 기초 Day 01 |
+|  번호  | 문제                            |                                   문제 URL                                   |                         문제 풀이                         | 문제 풀이 | 문제 출처                    |
+| :----: | :------------------------------ | :--------------------------------------------------------------------------: | :-------------------------------------------------------: | :-------: | :--------------------------- |
+| 181918 | 배열 만들기 4                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181918) |          [JavaScript](./181918-배열_만들기_4.js)          |           | 기초 Day 07 - 반복문         |
+| 181919 | 콜라츠 수열 만들기              | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181919) |       [JavaScript](./181919-콜라츠_수열_만들기.js)        |           | 기초 Day 07 - 반복문         |
+| 181920 | 카운트 업                       | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181920) |            [JavaScript](./181920-카운트_업.js)            |           | 기초 Day 07 - 반복문         |
+| 181921 | 배열 만들기 2                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181921) |          [JavaScript](./181921-배열_만들기_2.js)          |           | 기초 Day 07 - 반복문         |
+| 181922 | 수열과 구간 쿼리 4              | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181922) |       [JavaScript](./181922-수열과_구간_쿼리_4.js)        |           | 기초 Day 07 - 반복문         |
+| 181923 | 수열과 구간 쿼리 2              | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181923) |       [JavaScript](./181923-수열과_구간_쿼리_2.js)        |           | 기초 Day 06 - 조건문, 반복문 |
+| 181924 | 수열과 구간 쿼리 3              | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181924) |       [JavaScript](./181924_수열과_구간_쿼리_3.js)        |           | 기초 Day 06 - 조건문, 반복문 |
+| 181925 | 수 조작하기 2                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181925) |          [JavaScript](./181925-수_조작하기_2.js)          |           | 기초 Day 06 - 조건문, 반복문 |
+| 181926 | 수 조작하기 1                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181926) |          [JavaScript](./181926-수_조작하기_1.js)          |           | 기초 Day 06 - 조건문, 반복문 |
+| 181927 | 마지막 두 원소                  | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181927) |         [JavaScript](./181927-마지막_두_원소.js)          |           | 기초 Day 06 - 조건문, 반복문 |
+| 181928 | 이어 붙인 수                    | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181928) |          [JavaScript](./181928-이어_붙인_수.js)           |           | 기초 Day 05 - 조건문         |
+| 181929 | 원소들의 곱과 합                | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181929) |        [JavaScript](./181929-원소들의_곱과_합.js)         |           | 기초 Day 05 - 조건문         |
+| 181930 | 주사위 게임 2                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181930) |          [JavaScript](./181930-주사위_게임_2.js)          |           | 기초 Day 05 - 조건문         |
+| 181931 | 등차수열의 특정한 항만 더하기   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181931) |  [JavaScript](./181931-등차수열의_특정한_항만_더하기.js)  |           | 기초 Day 05 - 조건문         |
+| 181932 | 코드 처리하기                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181932) |          [JavaScript](./181932-코드_처리하기.js)          |           | 기초 Day 05 - 조건문         |
+| 181933 | flag에 따라 다른 값 반환하기    | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181933) |  [JavaScript](./181933-flag에_따라_다른_값_반환하기.js)   |           | 기초 Day 04 - 연산, 조건문   |
+| 181934 | 조건 문자열                     | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181934) |           [JavaScript](./181934-조건_문자열.js)           |           | 기초 Day 04 - 연산, 조건문   |
+| 181935 | 홀짝에 따라 다른 값 반환하기    | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181935) |  [JavaScript](./181935-홀짝에_따라_다른_값_반환하기.js)   |           | 기초 Day 04 - 연산, 조건문   |
+| 181936 | 공배수                          | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181936) |             [JavaScript](./181936-공배수.js)              |           | 기초 Day 04 - 연산, 조건문   |
+| 181937 | n의 배수                        | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181937) |            [JavaScript](./181937-n의_배수.js)             |           | 기초 Day 04 - 연산, 조건문   |
+| 181938 | 두 수의 연산값 비교하기         | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181938) |     [JavaScript](./181938-두_수의_연산값_비교하기.js)     |           | 기초 Day 03 - 연산           |
+| 181939 | 더 크게 합치기                  | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181939) |         [JavaScript](./181939-더_크게_합치기.js)          |           | 기초 Day 03 - 연산           |
+| 181940 | 문자열 곱하기                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181940) |          [JavaScript](./181940-문자열_곱하기.js)          |           | 기초 Day 03 - 연산           |
+| 181941 | 문자 리스트를 문자열로 변환하기 | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181941) | [JavaScript](./181941-문자_리스트를_문자열로_변환하기.js) |           | 기초 Day 03 - 연산           |
+| 181942 | 문자열 섞기                     | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181942) |           [JavaScript](./181942-문자열_섞기.js)           |           | 기초 Day 03 - 연산           |
+| 181943 | 문자열 겹쳐쓰기                 | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181943) |         [JavaScript](./181943-문자열_겹쳐쓰기.js)         |           | 기초 Day 02 - 출력, 연산     |
+| 181944 | 홀짝 구분하기                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181944) |          [JavaScript](./181944-홀짝_구분하기.js)          |           | 기초 Day 02 - 출력, 연산     |
+| 181945 | 문자열 돌리기                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181945) |          [JavaScript](./181945-문자열_돌리기.js)          |           | 기초 Day 02 - 출력, 연산     |
+| 181946 | 문자열 붙여서 출력하기          | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181946) |     [JavaScript](./181946-문자열_붙여서_출력하기.js)      |           | 기초 Day 02 - 출력, 연산     |
+| 181947 | 덧셈식 출력하기                 | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181947) |         [JavaScript](./181947-덧셈식_출력하기.js)         |           | 기초 Day 02 - 출력, 연산     |
+| 181948 | 특수문자 출력하기               | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181948) |        [JavaScript](./181948-특수문자_출력하기.js)        |           | 기초 Day 01 - 출력           |
+| 181949 | 대소문자 바꿔서 출력하기        | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181949) |    [JavaScript](./181949-대소문자_바꿔서_출력하기.js)     |           | 기초 Day 01 - 출력           |
+| 181950 | 문자열 반복해서 출력하기        | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181950) |    [JavaScript](./181950-문자열_반복해서_출력하기.js)     |           | 기초 Day 01 - 출력           |
+| 181951 | a와 b 출력하기                  | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181951) |         [JavaScript](./181951-a와_b_출력하기.js)          |           | 기초 Day 01 - 출력           |
+| 181952 | 문자열 출력하기                 | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181952) |         [JavaScript](./181952-문자열_출력하기.js)         |           | 기초 Day 01 - 출력           |
