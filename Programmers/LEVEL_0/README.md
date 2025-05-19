@@ -61,6 +61,11 @@
 
 |  번호  | 문제                            |                                   문제 URL                                   |                         문제 풀이                         | 문제 풀이 | 문제 출처                    |
 | :----: | :------------------------------ | :--------------------------------------------------------------------------: | :-------------------------------------------------------: | :-------: | :--------------------------- |
+| 181913 | 문자열 여러 번 뒤집기           | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181913) |      [JavaScript](./181913-문자열_여러_번_뒤집기.js)      |           | 기초 Day 08 - 조건문, 문자열 |
+| 181914 | 9로 나눈 나머지                 | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181914) |         [JavaScript](./181914-9로_나눈_나머지.js)         |           | 기초 Day 08 - 조건문, 문자열 |
+| 181915 | 글자 이어 붙여 문자열 만들기    | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181915) |  [JavaScript](./181915-글자_이어_붙여_문자열_만들기.js)   |           | 기초 Day 08 - 조건문, 문자열 |
+| 181916 | 주사위 게임 3                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181916) |          [JavaScript](./181916-주사위_게임_3.js)          |           | 기초 Day 08 - 조건문, 문자열 |
+| 181917 | 간단한 논리 연산                | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181917) |        [JavaScript](./181917-간단한_논리_연산.js)         |           | 기초 Day 08 - 조건문, 문자열 |
 | 181918 | 배열 만들기 4                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181918) |          [JavaScript](./181918-배열_만들기_4.js)          |           | 기초 Day 07 - 반복문         |
 | 181919 | 콜라츠 수열 만들기              | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181919) |       [JavaScript](./181919-콜라츠_수열_만들기.js)        |           | 기초 Day 07 - 반복문         |
 | 181920 | 카운트 업                       | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181920) |            [JavaScript](./181920-카운트_업.js)            |           | 기초 Day 07 - 반복문         |
