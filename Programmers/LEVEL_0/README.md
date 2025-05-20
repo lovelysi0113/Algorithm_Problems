@@ -61,6 +61,16 @@
 
 |  번호  | 문제                                |                                   문제 URL                                   |                           문제 풀이                           | 문제 풀이 | 문제 출처                    |
 | :----: | :---------------------------------- | :--------------------------------------------------------------------------: | :-----------------------------------------------------------: | :-------: | :--------------------------- |
+| 181893 | 배열 조각하기                       | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181893) |            [JavaScript](./181893-배열_조각하기.js)            |           | 기초 Day 12 - 리스트(배열)   |
+| 181894 | 2의 영역                            | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181894) |              [JavaScript](./181894-2의_영역.js)               |           | 기초 Day 12 - 리스트(배열)   |
+| 181895 | 배열 만들기 3                       | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181895) |            [JavaScript](./181895-배열_만들기_3.js)            |           | 기초 Day 12 - 리스트(배열)   |
+| 181896 | 첫 번째로 나오는 음수               | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181896) |        [JavaScript](./181896-첫_번째로_나오는_음수.js)        |           | 기초 Day 12 - 리스트(배열)   |
+| 181897 | 리스트 자르기                       | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181897) |            [JavaScript](./181897-리스트_자르기.js)            |           | 기초 Day 12 - 리스트(배열)   |
+| 181898 | 가까운 1 찾기                       | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181898) |            [JavaScript](./181898-가까운_1_찾기.js)            |           | 기초 Day 11 - 리스트(배열)   |
+| 181899 | 카운트 다운                         | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181899) |             [JavaScript](./181899-카운트_다운.js)             |           | 기초 Day 11 - 리스트(배열)   |
+| 181900 | 글자 지우기                         | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181900) |             [JavaScript](./181900-글자_지우기.js)             |           | 기초 Day 11 - 리스트(배열)   |
+| 181901 | 배열 만들기 1                       | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181901) |            [JavaScript](./181901-배열_만들기_1.js)            |           | 기초 Day 11 - 리스트(배열)   |
+| 181902 | 문자 개수 세기                      | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181902) |           [JavaScript](./181902-문자_개수_세기.js)            |           | 기초 Day 11 - 리스트(배열)   |
 | 181903 | qr code                             | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181903) |               [JavaScript](./181903-qr_code.js)               |           | 기초 Day 10 - 문자열         |
 | 181904 | 세로 읽기                           | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181904) |              [JavaScript](./181904-세로_읽기.js)              |           | 기초 Day 10 - 문자열         |
 | 181905 | 문자열 뒤집기                       | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181905) |            [JavaScript](./181905-문자열_뒤집기.js)            |           | 기초 Day 10 - 문자열         |
