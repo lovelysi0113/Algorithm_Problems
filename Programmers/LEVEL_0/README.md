@@ -61,6 +61,16 @@
 
 |  번호  | 문제                                |                                   문제 URL                                   |                           문제 풀이                           | 문제 풀이 | 문제 출처                    |
 | :----: | :---------------------------------- | :--------------------------------------------------------------------------: | :-----------------------------------------------------------: | :-------: | :--------------------------- |
+| 181883 | 수열과 구간 쿼리 1                  | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181883) |         [JavaScript](./181883-수열과_구간_쿼리_1.js)          |           | 기초 Day 14 - 리스트(배열)   |
+| 181884 | n보다 커질 때까지 더하기            | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181884) |      [JavaScript](./181884-n보다_커질_때까지_더하기.js)       |           | 기초 Day 14 - 리스트(배열)   |
+| 181885 | 할 일 목록                          | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181885) |             [JavaScript](./181885-할_일_목록.js)              |           | 기초 Day 14 - 리스트(배열)   |
+| 181886 | 5명씩                               | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181886) |                [JavaScript](./181886-5명씩.js)                |           | 기초 Day 14 - 리스트(배열)   |
+| 181887 | 홀수 vs 짝수                        | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181887) |            [JavaScript](./181887-홀수_vs_짝수.js)             |           | 기초 Day 14 - 리스트(배열)   |
+| 181888 | n개 간격의 원소들                   | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181888) |          [JavaScript](./181888-n개_간격의_원소들.js)          |           | 기초 Day 13 - 리스트(배열)   |
+| 181889 | n 번째 원소까지                     | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181889) |           [JavaScript](./181889-n_번째_원소까지.js)           |           | 기초 Day 13 - 리스트(배열)   |
+| 181890 | 왼쪽 오른쪽                         | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181890) |             [JavaScript](./181890-왼쪽_오른쪽.js)             |           | 기초 Day 13 - 리스트(배열)   |
+| 181891 | 순서 바꾸기                         | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181891) |             [JavaScript](./181891-순서_바꾸기.js)             |           | 기초 Day 13 - 리스트(배열)   |
+| 181892 | n 번째 원소부터                     | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181892) |           [JavaScript](./181892-n_번째_원소부터.js)           |           | 기초 Day 13 - 리스트(배열)   |
 | 181893 | 배열 조각하기                       | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181893) |            [JavaScript](./181893-배열_조각하기.js)            |           | 기초 Day 12 - 리스트(배열)   |
 | 181894 | 2의 영역                            | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181894) |              [JavaScript](./181894-2의_영역.js)               |           | 기초 Day 12 - 리스트(배열)   |
 | 181895 | 배열 만들기 3                       | [문제주소](https://school.programmers.co.kr/learn/courses/30/lessons/181895) |            [JavaScript](./181895-배열_만들기_3.js)            |           | 기초 Day 12 - 리스트(배열)   |
